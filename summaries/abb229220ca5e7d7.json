@@ -1,0 +1,11 @@
+{
+  "id": "abb229220ca5e7d7",
+  "type": "ai-news",
+  "title": "Claudeを使ってObsidianのフォルダ整理を自動化！究極の「思考の場」に変えるアプローチ | ライフハッカー・ジャパン",
+  "date": "2026-06-22",
+  "playlist": "",
+  "url": "https://www.lifehacker.jp/article/2606-let-claude-organize-chaotic-obsidian-vault-found-connections-forgotten/",
+  "path": "AI-News/2026-06-22_Claudeを使ってObsidianのフォルダ整理を自動化！究極の「思考の場」に変えるアプローチ _ ライフハッカー・ジャパン_1768744924.md",
+  "updated_at": "2026-06-22T19:01:33",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-06-22\"\nurl: \"https://www.lifehacker.jp/article/2606-let-claude-organize-chaotic-obsidian-vault-found-connections-forgotten/\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1768744924\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n---\n\n# Claudeを使ってObsidianのフォルダ整理を自動化！究極の「思考の場」に変えるアプローチ | ライフハッカー・ジャパン\n\n- URL: https://www.lifehacker.jp/article/2606-let-claude-organize-chaotic-obsidian-vault-found-connections-forgotten/\n- Raindrop ID: 1768744924\n- status: success\n\n【Raindrop要約】\nタイトル：\nClaudeを使ってObsidianのフォルダ整理を自動化！究極の「思考の場」に変えるアプローチ | ライフハッカー・ジャパン\nURL：\nhttps://www.lifehacker.jp/article/2606-let-claude-organize-chaotic-obsidian-vault-found-connections-forgotten/\n\n概要：\n- ObsidianのVaultは時間とともにノートが増えすぎ、整理に追われて本来の「考える」時間が失われがちになる。\n- 解決策として、すべてのノートをInboxフォルダに投げ込み、ClaudeのFilesystemコネクタ経由で整理・パターン抽出を任せるワークフローを紹介している。\n- デスクトップアプリを使わない場合は、複数のMarkdownファイルを1つに統合してClaudeにアップロードする代替手段もある。\n- Claudeはキーワード一致ではなく意味・文脈で理解するため、数ヶ月前の自分のメモと最新のメモの意外なつながりを発見できる。\n- 思考をアウトソーシングするのではなく「整理の雑用」だけを委ねる、という位置づけが本筋。\n\n自分に使えそうなポイント：\n- ObsidianにInboxフォルダを1つ作り、分類を考えずにとにかく書いて放り込む運用に切り替える\n- ClaudeのFilesystemコネクタをObsidian保管庫に向けて設定し、定期的にパターン抽出を依頼する\n- ノートが数千個規模でなくても、「整理の時間 > 考える時間」になっていると感じたら導入を検討する\n\n参考にすべき点：\n- 「手動リンクによる学習効果」も否定されていない点（ノートが少なく余裕があれば手動でもよい）\n- ファイル統合の代替策はシンプルだが個別ドキュメントの独立性が失われるデメリットがある\n\n要確認：\n- ClaudeのFilesystemコネクタの具体的な設定手順が記事中に詳述されておらず、実際の操作感は不明\n- 有料サブスクリプション不要と書かれているが、Claudeの無料プランのコンテキスト上限で大量ノートを処理できるか要検証\n- 日本語ノートへの対応精度（意味理解の質）は実際に試さないと不明\n\n分類候補：\nAI活用 / 仕事 / あとで深掘り\n\n取得状態：\n本文取得成功\n"
+}
