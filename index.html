@@ -118,6 +118,8 @@
     const listEl = document.querySelector("#list");
     const detailEl = document.querySelector("#detail");
     let currentText = "";
+    let speechChunks = [];
+    let speechIndex = 0;
     let currentUtterance = null;
 
     function escapeHtml(value) {
@@ -149,20 +151,90 @@
       return "speechSynthesis" in window && "SpeechSynthesisUtterance" in window;
     }
 
+    function cleanSpeechText(title, content) {
+      return `${title}。\n\n${content || ""}`
+        .replace(/^---[\s\S]*?---\s*/m, "")
+        .replace(/https?:\/\/\S+/g, "")
+        .replace(/\[([^\]]+)\]\([^\)]+\)/g, "$1")
+        .replace(/`{1,3}[^`]*`{1,3}/g, "")
+        .replace(/^\s*[-*+]\s+/gm, "")
+        .replace(/^#+\s*/gm, "")
+        .replace(/^\|.*\|$/gm, "")
+        .replace(/\*\*|__/g, "")
+        .replace(/\n{3,}/g, "\n\n")
+        .trim();
+    }
+
+    function splitSpeechText(text) {
+      const paragraphs = text
+        .split(/\n{2,}/)
+        .map(part => part.replace(/\s+/g, " ").trim())
+        .filter(Boolean);
+      const chunks = [];
+      for (const paragraph of paragraphs) {
+        if (paragraph.length <= 700) {
+          chunks.push(paragraph);
+          continue;
+        }
+        const sentences = paragraph.split(/(?<=[。！？!?])/);
+        let buffer = "";
+        for (const sentence of sentences) {
+          if ((buffer + sentence).length > 700 && buffer) {
+            chunks.push(buffer.trim());
+            buffer = sentence;
+          } else {
+            buffer += sentence;
+          }
+        }
+        if (buffer.trim()) chunks.push(buffer.trim());
+      }
+      return chunks;
+    }
+
+    function updateSpeechStatus() {
+      const status = document.querySelector("#speechStatus");
+      if (!status) return;
+      if (!speechChunks.length) {
+        status.textContent = "読み上げ対象なし";
+        return;
+      }
+      status.textContent = `${speechIndex + 1} / ${speechChunks.length}`;
+    }
+
     function stopSpeech() {
       if (canSpeak()) {
         window.speechSynthesis.cancel();
       }
       currentUtterance = null;
+      updateSpeechStatus();
     }
 
-    function speakCurrent() {
-      if (!canSpeak() || !currentText.trim()) return;
+    function speakCurrent(index = speechIndex) {
+      if (!canSpeak() || !speechChunks.length) return;
       stopSpeech();
-      currentUtterance = new SpeechSynthesisUtterance(currentText);
+      speechIndex = Math.max(0, Math.min(index, speechChunks.length - 1));
+      currentUtterance = new SpeechSynthesisUtterance(speechChunks[speechIndex]);
       currentUtterance.lang = "ja-JP";
-      currentUtterance.rate = 1;
+      currentUtterance.rate = 1.5;
+      currentUtterance.onend = () => {
+        if (speechIndex < speechChunks.length - 1) {
+          speakCurrent(speechIndex + 1);
+        } else {
+          updateSpeechStatus();
+        }
+      };
+      updateSpeechStatus();
       window.speechSynthesis.speak(currentUtterance);
+    }
+
+    function speakPrevious() {
+      if (!speechChunks.length) return;
+      speakCurrent(Math.max(0, speechIndex - 1));
+    }
+
+    function speakNext() {
+      if (!speechChunks.length) return;
+      speakCurrent(Math.min(speechChunks.length - 1, speechIndex + 1));
     }
 
     async function loadDetail(id, button) {
@@ -176,7 +248,9 @@
       const response = await fetch(`summaries/${encodeURIComponent(id)}.json`, { cache: "no-store" });
       if (!response.ok) throw new Error(`detail fetch failed: ${response.status}`);
       const data = await response.json();
-      currentText = `${data.title}。\n\n${data.content || ""}`;
+      currentText = cleanSpeechText(data.title, data.content);
+      speechChunks = splitSpeechText(currentText);
+      speechIndex = 0;
       detailEl.innerHTML = `
         <div class="meta">${escapeHtml(data.date)} / ${escapeHtml(data.type)} ${escapeHtml(data.playlist || "")}</div>
         <h2>${escapeHtml(data.title)}</h2>
@@ -184,13 +258,19 @@
         <div class="controls">
           <button type="button" id="speakButton" ${canSpeak() ? "" : "disabled"}>読み上げ</button>
           <button type="button" id="stopButton" ${canSpeak() ? "" : "disabled"}>停止</button>
+          <button type="button" id="prevButton" ${canSpeak() ? "" : "disabled"}>前へ</button>
+          <button type="button" id="nextButton" ${canSpeak() ? "" : "disabled"}>次へ</button>
           <button type="button" id="restartButton" ${canSpeak() ? "" : "disabled"}>最初から</button>
+          <span class="meta" id="speechStatus"></span>
         </div>
         <pre>${escapeHtml(data.content)}</pre>
       `;
-      document.querySelector("#speakButton")?.addEventListener("click", speakCurrent);
+      updateSpeechStatus();
+      document.querySelector("#speakButton")?.addEventListener("click", () => speakCurrent(speechIndex));
       document.querySelector("#stopButton")?.addEventListener("click", stopSpeech);
-      document.querySelector("#restartButton")?.addEventListener("click", speakCurrent);
+      document.querySelector("#prevButton")?.addEventListener("click", speakPrevious);
+      document.querySelector("#nextButton")?.addEventListener("click", speakNext);
+      document.querySelector("#restartButton")?.addEventListener("click", () => speakCurrent(0));
       if (window.matchMedia("(max-width: 760px)").matches) {
         detailEl.scrollIntoView({ behavior: "smooth", block: "start" });
       }
