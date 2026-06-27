@@ -1,0 +1,11 @@
+{
+  "id": "991885af7ff790a2",
+  "type": "ai-news",
+  "title": "NotebookLMの「回答の質が変わる」隠された設定 | ライフハッカー・ジャパン",
+  "date": "2026-06-28",
+  "playlist": "",
+  "url": "https://www.lifehacker.jp/article/2606-notebooklm-settings-configure-notebook/",
+  "path": "AI-News/2026-06-28_NotebookLMの「回答の質が変わる」隠された設定 _ ライフハッカー・ジャパン_1774241020.md",
+  "updated_at": "2026-06-28T05:00:27",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-06-28\"\nurl: \"https://www.lifehacker.jp/article/2606-notebooklm-settings-configure-notebook/\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1774241020\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - tool/notebooklm\n  - action/試す\n  - action/深掘り\n---\n\n# NotebookLMの「回答の質が変わる」隠された設定 | ライフハッカー・ジャパン\n\n- URL: https://www.lifehacker.jp/article/2606-notebooklm-settings-configure-notebook/\n- Raindrop ID: 1774241020\n- status: success\n\n【Raindrop要約】\nタイトル：\nNotebookLMの「回答の質が変わる」隠された設定 | ライフハッカー・ジャパン\nURL：\nhttps://www.lifehacker.jp/article/2606-notebooklm-settings-configure-notebook/\n\n概要：\n- NotebookLMにはデフォルト設定の裏に複数のカスタマイズ機能が隠されており、5分以内に設定できる。\n- 最重要機能は「カスタム指示」で、ノートブックごとに役割・トーン・出力形式を定義するメタプロンプトを最大10,000文字で設定できる。\n- 回答の長さ（短め／デフォルト／長め）を切り替えることで、素早い情報取得と深い理解の両方に対応できる。\n- ソースのチェックボックスとラベル機能で、必要なソースだけに絞って回答を生成できる。\n- スタジオツール（音声・動画・フラッシュカード等）もキャレットアイコンから難易度・フォーマット・カスタムプロンプトを個別設定できる。\n\n自分に使えそうなポイント：\n- ノートブックごとにカスタム指示で「人格」を設定すれば、毎回プロンプトを打ち直す手間が省ける\n- ソースのラベルとチェックボックスで、大量資料の中から必要な2〜3本だけ抽出して質問できる\n- フラッシュカード・クイズの難易度とカスタムプロンプトで、章単位・概念単位の学習設計が可能\n\n参考にすべき点：\n- カスタム指示の中でラベルの意味を説明する運用（ラベル＋指示の組み合わせが効果的）\n- 音声オーバービューにカスタムプロンプトを追加すると出力の印象が大きく変わるという実体験報告\n\n要確認：\n- 「カスタム指示」はノートブックごとに保存されるが、複数ノートブック間でテンプレートを使い回す方法は記事内では未説明\n- スタジオツールのカスタマイズ設定が次回も保持されるかどうか（セッションごとにリセットされるか）が不明\n\n分類候補：\nAI活用 / あとで深掘り\n\n取得状態：\n本文取得成功\n"
+}

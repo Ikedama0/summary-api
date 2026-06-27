@@ -1,0 +1,11 @@
+{
+  "id": "87265a5eb97e8fb7",
+  "type": "ai-news",
+  "title": "『Obsidian(Markdown) よりも快適に書く: vscode-scb で Cosense 記法』へのコメント",
+  "date": "2026-06-28",
+  "playlist": "",
+  "url": "https://b.hatena.ne.jp/entry/s/zenn.dev/sta/articles/2026-06-20-vscode-scb",
+  "path": "AI-News/2026-06-28_『Obsidian(Markdown) よりも快適に書く_ vscode-scb で Cosense 記法』へのコメント_1774240881.md",
+  "updated_at": "2026-06-28T05:01:07",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-06-28\"\nurl: \"https://b.hatena.ne.jp/entry/s/zenn.dev/sta/articles/2026-06-20-vscode-scb\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1774240881\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - obsidian\n  - topic/知識管理\n  - action/試す\n  - action/深掘り\n---\n\n# 『Obsidian(Markdown) よりも快適に書く: vscode-scb で Cosense 記法』へのコメント\n\n- URL: https://b.hatena.ne.jp/entry/s/zenn.dev/sta/articles/2026-06-20-vscode-scb\n- Raindrop ID: 1774240881\n- status: success\n\n【Raindrop要約】\nタイトル：\n『Obsidian(Markdown) よりも快適に書く: vscode-scb で Cosense 記法』へのコメント\nURL：\nhttps://b.hatena.ne.jp/entry/s/zenn.dev/sta/articles/2026-06-20-vscode-scb\n\n概要：\n- VSCodeの拡張機能「vscode-scb」を使って、Cosense（旧Scrapbox）の記法でローカルにメモを書く方法を紹介した記事へのブックマークコメントまとめ。\n- ObsidianやMarkdownより「箇条書き＋[リンク]だけ」のCosense記法の方が手が止まらず書きやすいという主張。\n- 59ユーザーがブックマーク、コメントは6件。\n\n自分に使えそうなポイント：\n- 「捕獲と整理を同じ場所でやらない」＝一時の書き殴り場と整理場を分けると継続しやすい（simplememofastのコメント）\n- Cosense記法は箇条書きと[リンク]だけで完結するため、Markdown記法の書式に気を取られて手が止まるのを防げる\n- ローカル動作でCosenseライクに書けるのは、速度・オフライン面での利点がある\n\n参考にすべき点：\n- PKM（個人知識管理）の継続失敗の原因は「捕獲と整理の場所が同一」という分析は鋭く、ツール設計の考え方として汎用的\n- ObsidianはMarkdown＝プレーンテキストという点が最大のメリットとする意見（stabucky）：独自フォーマットへの依存リスクの視点\n\n要確認：\n- vscode-scbの実際の機能範囲（Cosense記法のどこまでをサポートしているか未確認）\n- 「AI化でエディタの価値が落ちている」「VSCodeのセキュリティ問題」（dotのコメント）の具体的な背景は記事本文を読まないと不明\n- Cosenseのローカル動作が「遅い」とある点の詳細（yarumato引用）が記事本文側の話か拡張機能の話か不明\n\n分類候補：\n仕事 / あとで深掘り\n\n取得状態：\n本文取得成功\n"
+}

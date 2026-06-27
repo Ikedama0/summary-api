@@ -1,0 +1,11 @@
+{
+  "id": "2e613b296cad3847",
+  "type": "ai-news",
+  "title": "Excelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」「グラフに赤を使わない」「シート名は分かりやすく」など",
+  "date": "2026-06-28",
+  "playlist": "",
+  "url": "https://forest.watch.impress.co.jp/docs/news/2118762.html",
+  "path": "AI-News/2026-06-28_Excelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」.md",
+  "updated_at": "2026-06-28T05:01:43",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-06-28\"\nurl: \"https://forest.watch.impress.co.jp/docs/news/2118762.html\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1774240684\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - workflow/業務改善\n  - action/試す\n  - action/深掘り\n---\n\n# Excelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」「グラフに赤を使わない」「シート名は分かりやすく」など\n\n- URL: https://forest.watch.impress.co.jp/docs/news/2118762.html\n- Raindrop ID: 1774240684\n- status: success\n\n【Raindrop要約】\nタイトル：\nExcelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」「グラフに赤を使わない」「シート名は分かりやすく」など\nURL：\nhttps://forest.watch.impress.co.jp/docs/news/2118762.html\n\n概要：\n- MicrosoftがCopilot in Excelに2つのカスタマイズ機能を追加した（2026年6月16日発表）\n- 「個人設定」は書式・命名規則・数式スタイルなどを一度登録すれば全ブックに適用される\n- 「ワークブック ルール」は.Rulesシートにルールを記述し、ファイル共有時にチームへも引き継がれる\n- 個人設定はすでに全ユーザー向けに一般提供済み。ワークブック ルールはM365 Insider先行提供中\n\n自分に使えそうなポイント：\n- 「セルを結合しない」「シート名を分かりやすく」などを個人設定に登録すれば毎回指示不要になる\n- チームで共有するExcelファイルに.Rulesシートを作成することでフォーマット統一が自動化できる\n- 見本の範囲を書式設定して「これに合わせて」と指示する方法は、言語化しにくいスタイルの伝達に有効\n\n参考にすべき点：\n- 動的ルール（数式参照）で予算超過時など条件に応じたCopilotの挙動変更が可能な点は応用範囲が広い\n- ルール作成自体をCopilotに依頼できる（空の.Rulesシートから自然言語で生成）という設計は、AIへの指示設計として参考になる\n\n要確認：\n- ワークブック ルールの一般提供時期は未定（「大きな問題がなければいずれ」という表現のみ）\n- Microsoft 365のどのプラン（Business/Personal等）が対象か記事内に明記なし\n- 個人設定の引き継ぎ範囲（組織アカウントと個人アカウントで差異がある可能性）\n\n分類候補：\nAI活用 / 仕事 / あとで深掘り\n\n取得状態：\n本文取得成功\n"
+}
