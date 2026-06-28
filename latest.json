@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-06-28T08:30:51",
-  "total_count": 140,
+  "generated_at": "2026-06-28T22:01:33",
+  "total_count": 142,
   "count": 50,
   "limit": 50,
   "items": [
     {
       "rank": 1,
+      "id": "677b2010371fcddc",
+      "type": "ai-news",
+      "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita",
+      "date": "2026-06-28",
+      "playlist": "",
+      "url": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b"
+    },
+    {
+      "rank": 2,
       "id": "d51652780c7d410f",
       "type": "ai-news",
       "title": "高速ファイルコピーツール「TeraCopy」が9年ぶりのメジャー更新、v4.0に。「LocalSend」受信に対応／「Pro」ライセンスは6月30日まで50％オフ",
@@ -14,7 +23,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2119180.html"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "2e613b296cad3847",
       "type": "ai-news",
       "title": "Excelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」「グラフに赤を使わない」「シート名は分かりやすく」など",
@@ -23,7 +32,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2118762.html"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "fd213e1937ee74e7",
       "type": "ai-news",
       "title": "あまりのコスパのよさに追加購入。サブモニターに最適です。 | ギズモード・ジャパン",
@@ -32,7 +41,7 @@
       "url": "https://www.gizmodo.jp/article/msi-pro-mp2412-review-nvn/"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "15a2df20add16a20",
       "type": "ai-news",
       "title": "なぜメモリーがこんなに高いのか？ RAM価格が1年で4倍になった理由",
@@ -41,7 +50,7 @@
       "url": "https://japan.zdnet.com/article/35249385/"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "87265a5eb97e8fb7",
       "type": "ai-news",
       "title": "『Obsidian(Markdown) よりも快適に書く: vscode-scb で Cosense 記法』へのコメント",
@@ -50,7 +59,7 @@
       "url": "https://b.hatena.ne.jp/entry/s/zenn.dev/sta/articles/2026-06-20-vscode-scb"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "1def0a6ecdde75ab",
       "type": "ai-news",
       "title": "「日本DX大賞2026」個人表彰 受賞者6名を決定",
@@ -59,7 +68,7 @@
       "url": "https://prtimes.jp/main/html/rd/p/000000160.000115435.html"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "991885af7ff790a2",
       "type": "ai-news",
       "title": "NotebookLMの「回答の質が変わる」隠された設定 | ライフハッカー・ジャパン",
@@ -68,7 +77,16 @@
       "url": "https://www.lifehacker.jp/article/2606-notebooklm-settings-configure-notebook/"
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "id": "c96a39aa74a51217",
+      "type": "youtube-summary",
+      "title": "【ボクシング】中谷潤人、井上尚弥戦後初の公の場 再戦への思い＆眼窩底手術を終えて現在の状況",
+      "date": "2026-06-27",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=Fdu0pq6_WFE"
+    },
+    {
+      "rank": 10,
       "id": "8bf2db6b156178bc",
       "type": "ai-news",
       "title": "AI時代に勝つのは、思想を外部記憶にした人間だけだ",
@@ -77,7 +95,7 @@
       "url": "https://x.com/masaki_lipple/status/2062738743115784252"
     },
     {
-      "rank": 9,
+      "rank": 11,
       "id": "756b856f71d55743",
       "type": "youtube-summary",
       "title": "【ガチ的中】4月3日に話したAI予言が現実に。仙人作の天才AIツールも公開",
@@ -86,7 +104,7 @@
       "url": "https://www.youtube.com/watch?v=QIlzqc7DO7c"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "id": "68aeb9dbbc4e8b98",
       "type": "youtube-summary",
       "title": "NotebookLM Just Changed AI Forever 🤯 | AI Research Agent, Code Execution &amp; File Factory (2026)",
@@ -95,7 +113,7 @@
       "url": "https://www.youtube.com/watch?v=K6iY4RjtA28"
     },
     {
-      "rank": 11,
+      "rank": 13,
       "id": "d96f008c922c1768",
       "type": "youtube-summary",
       "title": "PDCAをエージェントで回すために「ルーティン＆カレンダー」がかなり便利！",
@@ -104,7 +122,7 @@
       "url": "https://www.youtube.com/watch?v=49mkTNhn1Zc"
     },
     {
-      "rank": 12,
+      "rank": 14,
       "id": "c8e9cae6d6ea6074",
       "type": "youtube-summary",
       "title": "【無料で使える高性能AI】オープンモデルで世界1位の「GLM-5.2」完全ガイド！驚異の性能・使い方(Claude Codeで利用可)・活用事例まで全部解説！",
@@ -113,7 +131,7 @@
       "url": "https://www.youtube.com/watch?v=E21qNVtyUlc"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "id": "00749f34c43c707a",
       "type": "youtube-summary",
       "title": "【世界最強級?!】SakanAIの国産モデル「Fugu Ultra」を実際に使ってみた！",
@@ -122,7 +140,7 @@
       "url": "https://www.youtube.com/watch?v=r6Fhde5qXZk"
     },
     {
-      "rank": 14,
+      "rank": 16,
       "id": "064ea7c996d9ecae",
       "type": "youtube-summary",
       "title": "画面録画がAIスキルになるCodexの『Record &amp; Replay』が便利すぎた！",
@@ -131,7 +149,7 @@
       "url": "https://www.youtube.com/watch?v=KQTu8lhsrGg"
     },
     {
-      "rank": 15,
+      "rank": 17,
       "id": "abb229220ca5e7d7",
       "type": "ai-news",
       "title": "Claudeを使ってObsidianのフォルダ整理を自動化！究極の「思考の場」に変えるアプローチ | ライフハッカー・ジャパン",
@@ -140,7 +158,7 @@
       "url": "https://www.lifehacker.jp/article/2606-let-claude-organize-chaotic-obsidian-vault-found-connections-forgotten/"
     },
     {
-      "rank": 16,
+      "rank": 18,
       "id": "2a8cd2f491a4a6f3",
       "type": "ai-news",
       "title": "ブラックサンダー食べながらコードを書け！ お菓子会社が本気で開いたハッカソン「ブラッカソン」レポート",
@@ -149,7 +167,7 @@
       "url": "https://codezine.jp/article/detail/24493"
     },
     {
-      "rank": 17,
+      "rank": 19,
       "id": "9bf56880522fc808",
       "type": "ai-news",
       "title": "ニューオープン！ボリューム満点の牛テールカレーと贅沢牛タンカレー 佐世保市「THE MEAT JOURNEY」 | 【長崎】21市町いまコレ！ | NCC長崎文化放送",
@@ -158,7 +176,7 @@
       "url": "https://www.ncctv.co.jp/imakore/article/16599616"
     },
     {
-      "rank": 18,
+      "rank": 20,
       "id": "74896990ac5e985c",
       "type": "ai-news",
       "title": "できる人が「まめに上司に確認」していること 自分にばかり意識が向いている人は成長しづらい | ログミーBusiness",
@@ -167,7 +185,7 @@
       "url": "https://logmi.jp/main/skillup/333566"
     },
     {
-      "rank": 19,
+      "rank": 21,
       "id": "030083958f220c05",
       "type": "ai-news",
       "title": "がんばっているのに成果が出ない人の共通点 間違った努力をやめて消耗せずに成功するヒント | ログミーBusiness",
@@ -176,7 +194,7 @@
       "url": "https://logmi.jp/main/skillup/333565"
     },
     {
-      "rank": 20,
+      "rank": 22,
       "id": "fcf455e5395c7bd9",
       "type": "ai-news",
       "title": "【毎日書評】一人語りは誰も聞いていない。ことばの器を育て職場の人間関係を深める「聞く」技術 | ライフハッカー・ジャパン",
@@ -185,7 +203,7 @@
       "url": "https://www.lifehacker.jp/article/2606-book_to_read-1974/"
     },
     {
-      "rank": 21,
+      "rank": 23,
       "id": "1152b44c541c0a54",
       "type": "ai-news",
       "title": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
@@ -194,7 +212,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2118403.html"
     },
     {
-      "rank": 22,
+      "rank": 24,
       "id": "cef0aa69eac7df50",
       "type": "ai-news",
       "title": "「Codex」に開発者モード、Chrome DevTools Protocol（CDP）に接続、Webブラウザーが扱う詳細データが活用可能に／リスクにはくれぐれも留意のこと、DOM、CSS、通信状況も取得可能",
@@ -203,7 +221,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2117709.html"
     },
     {
-      "rank": 23,
+      "rank": 25,
       "id": "5f36ff14c04a1a48",
       "type": "ai-news",
       "title": "https://m.youtube.com/watch?v=lpUsMUK0qZc",
@@ -212,7 +230,7 @@
       "url": "https://m.youtube.com/watch?v=lpUsMUK0qZc"
     },
     {
-      "rank": 24,
+      "rank": 26,
       "id": "5037fda0faf6c375",
       "type": "youtube-summary",
       "title": "【これ便利】Codex に Record &amp; Replayの機能登場！画面操作を録画するだけで再現可能なスキルに変換する神機能を解説",
@@ -221,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=zWNylNTZ4kg"
     },
     {
-      "rank": 25,
+      "rank": 27,
       "id": "7feb33a60dc50881",
       "type": "youtube-summary",
       "title": "【AIは平気で嘘をつく】使うほど頭が悪くなる人と天才みたいに伸びる人の決定的な違い",
@@ -230,7 +248,7 @@
       "url": "https://www.youtube.com/watch?v=t9uSEpW5ExI"
     },
     {
-      "rank": 26,
+      "rank": 28,
       "id": "f9908d6be31bc84d",
       "type": "youtube-summary",
       "title": "【知的生産】自分の思考が「資産」として手元に残る Obsidian×noteの連携方法",
@@ -239,7 +257,7 @@
       "url": "https://www.youtube.com/watch?v=SIpjyQIKovc"
     },
     {
-      "rank": 27,
+      "rank": 29,
       "id": "52b9e0ab4fb4fc1d",
       "type": "youtube-summary",
       "title": "【天才AI化】ClaudeのフルMAXパワーを出すAI神連携はNotebookLMとObsidianを使うんやで。",
@@ -248,7 +266,7 @@
       "url": "https://www.youtube.com/watch?v=2-8cXaRHlqI"
     },
     {
-      "rank": 28,
+      "rank": 30,
       "id": "507c8c85bbf025ab",
       "type": "youtube-summary",
       "title": "【無料】CodexやClaudeから動画編集エディタの『Palmier』が最高すぎる",
@@ -257,7 +275,7 @@
       "url": "https://www.youtube.com/watch?v=lVeWukyWFmk"
     },
     {
-      "rank": 29,
+      "rank": 31,
       "id": "0a1b566ea14c1790",
       "type": "youtube-summary",
       "title": "【Copilot×Teams】議事録を自動化する最新機能4選",
@@ -266,7 +284,7 @@
       "url": "https://www.youtube.com/watch?v=W83eyRw1ny0"
     },
     {
-      "rank": 30,
+      "rank": 32,
       "id": "e93186dae3cb7b0f",
       "type": "youtube-summary",
       "title": "【録画でSkillsに...!?】Codexが発表した新機能がClaudeCodeよりも未来すぎた【Record &amp; Replay】",
@@ -275,7 +293,7 @@
       "url": "https://www.youtube.com/watch?v=NJthL8W18B8"
     },
     {
-      "rank": 31,
+      "rank": 33,
       "id": "68ecd7aa41c88534",
       "type": "youtube-summary",
       "title": "個人開発のネタ切れを終わらせる、AIアイデア発想術を紹介します【Claude/ChatGPT】",
@@ -284,7 +302,7 @@
       "url": "https://www.youtube.com/watch?v=JsRiRX5LvBA"
     },
     {
-      "rank": 32,
+      "rank": 34,
       "id": "d58d4efd25d14531",
       "type": "youtube-summary",
       "title": "【ストレス激減】見やすい、使いやすいを両立するClaude Code活用術【Obsidian】",
@@ -293,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=JOlxRtwe7SA"
     },
     {
-      "rank": 33,
+      "rank": 35,
       "id": "72ee772b885374b9",
       "type": "youtube-summary",
       "title": "注目AIニュース19選～ChatGPTシェア50％割、ChatGPT広告、Copilot Cowork提供、スペースX Cursor買収など",
@@ -302,7 +320,7 @@
       "url": "https://www.youtube.com/watch?v=-r4WfSN-PtY"
     },
     {
-      "rank": 34,
+      "rank": 36,
       "id": "73e1db72e5baaca3",
       "type": "youtube-summary",
       "title": "AIの真価は自分の分身を作れること。チャットで終わらせない僕のやり方を紹介します。",
@@ -311,7 +329,7 @@
       "url": "https://www.youtube.com/watch?v=k_AE5UDVESI"
     },
     {
-      "rank": 35,
+      "rank": 37,
       "id": "a9e690002b571702",
       "type": "youtube-summary",
       "title": "「感情を動かす道筋」の設計：【意味のある体験】構築法解説",
@@ -320,7 +338,7 @@
       "url": "https://www.youtube.com/watch?v=cpes6XoiQ8c"
     },
     {
-      "rank": 36,
+      "rank": 38,
       "id": "9c2c531099b99567",
       "type": "youtube-summary",
       "title": "【#AIニュース No.391】GPT-5.6が来週登場する可能性が高い！？MythosとFable 5、数日以内に再開見込み！？Codexにワークフロー再現化スキル登場！",
@@ -329,7 +347,7 @@
       "url": "https://www.youtube.com/watch?v=v1gS4PF5RR8"
     },
     {
-      "rank": 37,
+      "rank": 39,
       "id": "3cfb83b673817761",
       "type": "youtube-summary",
       "title": "ObsidianのCEOはフォルダ整理しない！？『脳の負荷を減らす』ための設計術",
@@ -338,7 +356,7 @@
       "url": "https://www.youtube.com/watch?v=l-GrmmuM-Jo"
     },
     {
-      "rank": 38,
+      "rank": 40,
       "id": "2104d8dfc100f234",
       "type": "youtube-summary",
       "title": "スマホアプリ公開から10万円達成するまで。個人開発アプリの数字を公開します。",
@@ -347,52 +365,7 @@
       "url": "https://www.youtube.com/watch?v=2MxUo_TQ7rI"
     },
     {
-      "rank": 39,
-      "id": "d996efe847808b8f",
-      "type": "youtube-summary",
-      "title": "AIにコードを書かせる前に、僕が必ず考えていること",
-      "date": "2026-06-17",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=eSM8g33b8I0"
-    },
-    {
-      "rank": 40,
-      "id": "c651e718fa4f6a0b",
-      "type": "youtube-summary",
-      "title": "AIでサブスクを解約できる時代が来た。自分だけのAIエージェントをつくろう。",
-      "date": "2026-06-17",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=dK6kvaQnt-c"
-    },
-    {
       "rank": 41,
-      "id": "8aae66fcbe0902ef",
-      "type": "youtube-summary",
-      "title": "【3ヶ月後サボれる】Obsidianで自分だけのAI社員を大量生産【Claude Code連携術】",
-      "date": "2026-06-17",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=BT0sS_7y-bA"
-    },
-    {
-      "rank": 42,
-      "id": "37b66744090215a7",
-      "type": "youtube-summary",
-      "title": "OutlookのCopilotが超進化！2026年の最新メール時短術｜Coworkの使い方も解説",
-      "date": "2026-06-17",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=AG31sQQPfhI"
-    },
-    {
-      "rank": 43,
-      "id": "9957dbad2cda1e2c",
-      "type": "youtube-summary",
-      "title": "【ゆっくり解説】Claude Fable 5停止の翌日に来た「AIを束ねるAI」OpenRouter Fusionとは",
-      "date": "2026-06-17",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=8fTKOELk_FI"
-    },
-    {
-      "rank": 44,
       "id": "32f55f2359cbc604",
       "type": "youtube-summary",
       "title": "意志が弱い人専用！机に向かわずに資格に受かるズルい暗記術",
@@ -401,7 +374,52 @@
       "url": "https://www.youtube.com/watch?v=SCSaRyOd4VI"
     },
     {
+      "rank": 42,
+      "id": "d996efe847808b8f",
+      "type": "youtube-summary",
+      "title": "AIにコードを書かせる前に、僕が必ず考えていること",
+      "date": "2026-06-17",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=eSM8g33b8I0"
+    },
+    {
+      "rank": 43,
+      "id": "c651e718fa4f6a0b",
+      "type": "youtube-summary",
+      "title": "AIでサブスクを解約できる時代が来た。自分だけのAIエージェントをつくろう。",
+      "date": "2026-06-17",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=dK6kvaQnt-c"
+    },
+    {
+      "rank": 44,
+      "id": "8aae66fcbe0902ef",
+      "type": "youtube-summary",
+      "title": "【3ヶ月後サボれる】Obsidianで自分だけのAI社員を大量生産【Claude Code連携術】",
+      "date": "2026-06-17",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=BT0sS_7y-bA"
+    },
+    {
       "rank": 45,
+      "id": "37b66744090215a7",
+      "type": "youtube-summary",
+      "title": "OutlookのCopilotが超進化！2026年の最新メール時短術｜Coworkの使い方も解説",
+      "date": "2026-06-17",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=AG31sQQPfhI"
+    },
+    {
+      "rank": 46,
+      "id": "9957dbad2cda1e2c",
+      "type": "youtube-summary",
+      "title": "【ゆっくり解説】Claude Fable 5停止の翌日に来た「AIを束ねるAI」OpenRouter Fusionとは",
+      "date": "2026-06-17",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=8fTKOELk_FI"
+    },
+    {
+      "rank": 47,
       "id": "432117f40221d5f2",
       "type": "youtube-summary",
       "title": "【画像スライドはコレ！】100枚まとめて分解する神ワザ",
@@ -410,7 +428,7 @@
       "url": "https://www.youtube.com/watch?v=ts5Qtqdhm6g"
     },
     {
-      "rank": 46,
+      "rank": 48,
       "id": "53261c15dc72152a",
       "type": "youtube-summary",
       "title": "【全国民必須】ClaudeCodeとCodexを使っている人は絶対にこれを使ってください。【LylisAI / NoteBookLM論外】",
@@ -419,7 +437,7 @@
       "url": "https://www.youtube.com/watch?v=Yhkt7XcJRWc"
     },
     {
-      "rank": 47,
+      "rank": 49,
       "id": "fa433f25cf7a8570",
       "type": "youtube-summary",
       "title": "ガチで怒ってます。AIがマズい方向に進んでる。",
@@ -428,31 +446,13 @@
       "url": "https://www.youtube.com/watch?v=pexvXmUqbvg"
     },
     {
-      "rank": 48,
+      "rank": 50,
       "id": "b85b874387742848",
       "type": "youtube-summary",
       "title": "Claude Fable超えを半額で！？OpenRouterがヤバい新技術発表",
       "date": "2026-06-15",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=g75DMY2hLas"
-    },
-    {
-      "rank": 49,
-      "id": "efc61a7488b51ed7",
-      "type": "youtube-summary",
-      "title": "This Skill Makes Claude Write 90% Less Code, 15k Stars on GitHub",
-      "date": "2026-06-15",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=_luaqEBsxsk"
-    },
-    {
-      "rank": 50,
-      "id": "36e7526f1a7f2d76",
-      "type": "youtube-summary",
-      "title": "非エンジニアでも出来る『Codex』のオートメーション機能（自動化）が便利すぎる",
-      "date": "2026-06-15",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=CV08cqYNpEA"
     }
   ]
 }
