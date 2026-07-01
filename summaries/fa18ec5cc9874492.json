@@ -1,0 +1,11 @@
+{
+  "id": "fa18ec5cc9874492",
+  "type": "ai-news",
+  "title": "AIはほぼすべてのスタートアップのコードを書いている。それが新たな問題を生み出している。 | Business Insider Japan",
+  "date": "2026-07-02",
+  "playlist": "",
+  "url": "https://www.businessinsider.jp/article/2606-ai-writing-all-startup-code-thats-creating-a-new-problem/",
+  "path": "AI-News/2026-07-02_AIはほぼすべてのスタートアップのコードを書いている。それが新たな問題を生み出している。 _ Business Insider Japan_177659985.md",
+  "updated_at": "2026-07-02T06:28:43",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-07-02\"\nurl: \"https://www.businessinsider.jp/article/2606-ai-writing-all-startup-code-thats-creating-a-new-problem/\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1776599857\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - tool/claude-code\n  - action/試す\n---\n\n# AIはほぼすべてのスタートアップのコードを書いている。それが新たな問題を生み出している。 | Business Insider Japan\n\n- URL: https://www.businessinsider.jp/article/2606-ai-writing-all-startup-code-thats-creating-a-new-problem/\n- Raindrop ID: 1776599857\n- status: success\n\n【Raindrop要約】\nタイトル：\nAIはほぼすべてのスタートアップのコードを書いている。それが新たな問題を生み出している。 | Business Insider Japan\nURL：\nhttps://www.businessinsider.jp/article/2606-ai-writing-all-startup-code-thats-creating-a-new-problem/\n\n概要：\n- 20数社超のスタートアップ調査で、AIがコード作成の主役となっており、Claude Codeが圧倒的に選ばれるツールになっている\n- 開発速度は向上している一方、粗雑なコード（スロップ）の大量生成が「クリーンアップ税（Cleanup Tax）」として問題視されている\n- エンジニアの役割が「コードを書く」から「AIが機能するための環境・コンテキストを設計する」にシフトしている\n\n自分に使えそうなポイント：\n- 「センスと判断力がこれまで以上に重要」という視点は、AI活用時代にエンジニアが何を磨くべきかの指針になる\n- クリーンアップと品質保証のコストを見込んだROI計算が必要（速度向上だけで判断しない）\n\n参考にすべき点：\n- 「丸のこ」の比喩（強力だが危険、ガードレールをどう設けるかが課題）は発信ネタとして使える\n\n要確認：\n- Business Insider JapanのPREMIUM翻訳β記事のため、一部内容が要約から省かれている可能性がある\n\n分類候補：\nAI活用 / 発信ネタ / 資料化\n\n取得状態：\n本文取得成功\n"
+}

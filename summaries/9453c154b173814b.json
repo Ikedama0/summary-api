@@ -1,0 +1,11 @@
+{
+  "id": "9453c154b173814b",
+  "type": "ai-news",
+  "title": "要約だけじゃもったいない。NotebookLMで「動画分析から資料作成まで」こなすには？ | ライフハッカー・ジャパン",
+  "date": "2026-07-02",
+  "playlist": "",
+  "url": "https://www.lifehacker.jp/article/d5bfb504-7f8a-4cdf-8c19-ede29a4c4dc8/",
+  "path": "AI-News/2026-07-02_要約だけじゃもったいない。NotebookLMで「動画分析から資料作成まで」こなすには？ _ ライフハッカー・ジャパン_1776599894.md",
+  "updated_at": "2026-07-02T06:28:18",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-07-02\"\nurl: \"https://www.lifehacker.jp/article/d5bfb504-7f8a-4cdf-8c19-ede29a4c4dc8/\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1776599894\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - tool/notebooklm\n  - workflow/資料作成\n  - action/試す\n  - action/深掘り\n---\n\n# 要約だけじゃもったいない。NotebookLMで「動画分析から資料作成まで」こなすには？ | ライフハッカー・ジャパン\n\n- URL: https://www.lifehacker.jp/article/d5bfb504-7f8a-4cdf-8c19-ede29a4c4dc8/\n- Raindrop ID: 1776599894\n- status: success\n\n【Raindrop要約】\nタイトル：\n要約だけじゃもったいない。NotebookLMで「動画分析から資料作成まで」こなすには？ | ライフハッカー・ジャパン\nURL：\nhttps://www.lifehacker.jp/article/d5bfb504-7f8a-4cdf-8c19-ede29a4c4dc8/\n\n概要：\n- NotebookLMがYouTube動画のURL取り込み・音声解説のプロンプト制御・Excel/PowerPoint形式出力に対応\n- 音声解説（Audio Overviews）はプロンプトで「概念の違いを初心者向けに」など方向をコントロールすると使いやすい\n- 2026年6月アップデートでGemini 3.5連携・「情報源を探す（Discover Sources）」機能も追加\n\n自分に使えそうなポイント：\n- YouTube動画URLを貼るだけで要約・重要ポイント抽出ができる（長時間ポッドキャストやセミナーに有効）\n- 音声解説にプロンプトを加えることで焦点を絞ったポッドキャスト形式の解説が生成可能\n\n参考にすべき点：\n- 図解・映像がメインのコンテンツは音声解説との相性が悪い（文字起こしテキストのみ処理）\n\n要確認：\n- 「情報源を探す」機能は一部有料プランから段階的に展開とのことで、利用可否は要確認\n\n分類候補：\nAI活用 / 発信ネタ / あとで深掘り\n\n取得状態：\n本文取得成功\n"
+}

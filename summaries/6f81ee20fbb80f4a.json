@@ -1,0 +1,11 @@
+{
+  "id": "6f81ee20fbb80f4a",
+  "type": "ai-news",
+  "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita",
+  "date": "2026-07-02",
+  "playlist": "",
+  "url": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b",
+  "path": "AI-News/2026-07-02_【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita_1776600019.md",
+  "updated_at": "2026-07-02T06:27:56",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-07-02\"\nurl: \"https://qiita.com/yuyanz/items/5c96232d188ecfb2544b\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1776600019\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - workflow/業務改善\n  - action/試す\n---\n\n# 【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita\n\n- URL: https://qiita.com/yuyanz/items/5c96232d188ecfb2544b\n- Raindrop ID: 1776600019\n- status: success\n\n【Raindrop要約】\nタイトル：\n【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita\nURL：\nhttps://qiita.com/yuyanz/items/5c96232d188ecfb2544b\n\n概要：\n- セキュリティルールで自由にツールが使えない職場でも、PowerShell + M365 Copilot でUIオートメーションによる業務自動化が可能\n- 経費精算状況確認を例に、M365 CopilotにPowerShellスクリプトを書かせ、実行・修正をループして完成させる手順を紹介\n- VBAと組み合わせてExcelからコードを管理・実行できる形にする発展的な活用法も紹介\n\n自分に使えそうなポイント：\n- ツール制限の厳しい職場でAI活用の実績を出す「突破口」としての使い方\n- Excel+VBAをフロントエンドに、PowerShellスクリプトをバックエンドにする構成は実用的\n\n参考にすべき点：\n- UIオートメーションはボタン位置や表示タイミングに依存して不安定になりやすいため、最初は小さく試して段階的に追加する方針が重要\n\n要確認：\n- ログイン・MFA操作はスクリプトに組み込まないことが前提（手動 or 待機）\n- Playwright/APIが使える環境であればそちらの方が安定\n\n分類候補：\nAI活用 / 仕事 / 資料化\n\n取得状態：\n本文取得成功\n"
+}
