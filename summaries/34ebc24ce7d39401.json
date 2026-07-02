@@ -1,0 +1,11 @@
+{
+  "id": "34ebc24ce7d39401",
+  "type": "ai-news",
+  "title": "AIエージェントの「従業員化」、作業ミスの見逃しを招く",
+  "date": "2026-07-02",
+  "playlist": "",
+  "url": "https://www.technologyreview.jp/s/385473/ai-agents-are-not-your-coworkers/",
+  "path": "AI-News/2026-07-02_AIエージェントの「従業員化」、作業ミスの見逃しを招く_1776599720.md",
+  "updated_at": "2026-07-02T21:11:17",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-07-02\"\nurl: \"https://www.technologyreview.jp/s/385473/ai-agents-are-not-your-coworkers/\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1776599720\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - action/試す\n---\n\n# AIエージェントの「従業員化」、作業ミスの見逃しを招く\n\n- URL: https://www.technologyreview.jp/s/385473/ai-agents-are-not-your-coworkers/\n- Raindrop ID: 1776599720\n- status: success\n\n【Raindrop要約】\nタイトル：\nAIエージェントの「従業員化」、作業ミスの見逃しを招く\nURL：\nhttps://www.technologyreview.jp/s/385473/ai-agents-are-not-your-coworkers/\n\n概要：\n- ボストン大学の研究：AIを「従業員」と呼ぶと、監督者のエラー発見率が18%低下する\n- AIエージェントが人間の同僚として扱われると責任感が希薄化し、エスカレーション率が44%増加\n- マイクロソフト・OpenAI・Anthropic・Googleはいずれもエージェントを「デジタル同僚」として売り込んでいる\n- ノーベル賞経済学者アセモグルは「AIは人間代替ではなく能力拡張に最適化すべき」と主張\n\n自分に使えそうなポイント：\n- AIツールを「同僚」と呼ばず「ツール」として位置付ける運用方針を保つことが重要\n- AIの出力を鵜呑みにせず、自分で確認する習慣を意識的に維持する\n\n参考にすべき点：\n- 医療・行政・軍事でのAI活用で責任転嫁リスクが深刻化している点は発信ネタになる\n\n要確認：\n- スタンフォード大学の104職種×1500人の研究詳細（リンク先で確認可能）\n\n分類候補：\nAI活用 / 仕事 / 発信ネタ / 資料化\n\n取得状態：\n本文取得成功\n"
+}

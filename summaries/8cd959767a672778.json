@@ -1,0 +1,11 @@
+{
+  "id": "8cd959767a672778",
+  "type": "ai-news",
+  "title": "ショートカット、もう覚えなくていい。勝手に身に付くブラウザ拡張機能を作ってみた",
+  "date": "2026-07-02",
+  "playlist": "",
+  "url": "https://zenn.dev/branbran/articles/9a30731236caac",
+  "path": "AI-News/2026-07-02_ショートカット、もう覚えなくていい。勝手に身に付くブラウザ拡張機能を作ってみた_1776599688.md",
+  "updated_at": "2026-07-02T21:11:34",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-07-02\"\nurl: \"https://zenn.dev/branbran/articles/9a30731236caac\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1776599688\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - action/試す\n  - action/深掘り\n---\n\n# ショートカット、もう覚えなくていい。勝手に身に付くブラウザ拡張機能を作ってみた\n\n- URL: https://zenn.dev/branbran/articles/9a30731236caac\n- Raindrop ID: 1776599688\n- status: success\n\n【Raindrop要約】\nタイトル：\nショートカット、もう覚えなくていい。勝手に身に付くブラウザ拡張機能を作ってみた\nURL：\nhttps://zenn.dev/branbran/articles/9a30731236caac\n\n概要：\n- Chrome拡張「KeyNudge」の個人開発記事\n- マウス操作をした際に対応するキーボードショートカットをトースト通知で表示\n- 現在GitHub・Notion・Gmail・Google ドライブの4アプリに対応\n- Shadow DOM + セッションストレージを使い、SPA遷移やCSS干渉の問題を解決\n\n自分に使えそうなポイント：\n- 日常操作の中でショートカットを「覚えようとせず自然に覚える」アプローチが実用的\n- Chrome拡張のアダプタ方式の設計パターンは自作ツール開発の参考になる\n\n参考にすべき点：\n- GitHubは data-hotkey 属性を持っているため、ハードコード不要で正確なショートカットが取得可能\n\n要確認：\n- Chrome ウェブストア未公開のため、使うにはリポジトリをクローンしてビルドする必要あり\n- Macと WindowsでショートカットのOS別表記の出し分けあり\n\n分類候補：\n仕事 / あとで深掘り / 発信ネタ\n\n取得状態：\n本文取得成功\n"
+}

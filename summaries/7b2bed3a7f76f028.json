@@ -1,0 +1,11 @@
+{
+  "id": "7b2bed3a7f76f028",
+  "type": "ai-news",
+  "title": "Windowsの標準機能を使ったら、小さなノートPCが2画面みたいに快適になった",
+  "date": "2026-07-02",
+  "playlist": "",
+  "url": "https://www.lifehacker.jp/article/2606you-dont-need-a-second-monitor/",
+  "path": "AI-News/2026-07-02_Windowsの標準機能を使ったら、小さなノートPCが2画面みたいに快適になった_1776599670.md",
+  "updated_at": "2026-07-02T21:11:51",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-07-02\"\nurl: \"https://www.lifehacker.jp/article/2606you-dont-need-a-second-monitor/\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1776599670\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - action/試す\n  - action/深掘り\n---\n\n# Windowsの標準機能を使ったら、小さなノートPCが2画面みたいに快適になった\n\n- URL: https://www.lifehacker.jp/article/2606you-dont-need-a-second-monitor/\n- Raindrop ID: 1776599670\n- status: success\n\n【Raindrop要約】\nタイトル：\nWindowsの標準機能を使ったら、小さなノートPCが2画面みたいに快適になった\nURL：\nhttps://www.lifehacker.jp/article/2606you-dont-need-a-second-monitor/\n\n概要：\n- Windows 11の「仮想デスクトップ」とトラックパッドの4本指ジェスチャーを組み合わせて外付けモニター不要の環境を実現\n- 最大32個の仮想デスクトップを作成可能、用途別に画面を切り離して整理できる\n- 4本指で上スワイプ=一覧表示、4本指で左右スワイプ=デスクトップ切り替え\n- スナップレイアウト併用で1画面に最大4アプリを同時表示可能\n\n自分に使えそうなポイント：\n- カフェ等での外出先作業時に仮想デスクトップを2つ用意して集中・連絡を切り替える運用が実用的\n- 設定変更は「設定 > Bluetoothとデバイス > タッチパッド > ジェスチャー」で可能\n\n参考にすべき点：\n- オフィスでは大画面モニターを使い、外出時はこの方法で代用するハイブリッド運用が現実的\n\n要確認：\n- ジェスチャーが有効になっていない場合は設定から確認が必要\n\n分類候補：\n仕事 / 保存不要（知っている内容であれば）/ あとで深掘り\n\n取得状態：\n本文取得成功\n"
+}

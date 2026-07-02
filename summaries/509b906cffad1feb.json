@@ -1,0 +1,11 @@
+{
+  "id": "509b906cffad1feb",
+  "type": "ai-news",
+  "title": "AIエージェントで成果が出る業務は「わずか1割」？ガートナーが警鐘\"LLM頼み\"の限界",
+  "date": "2026-07-02",
+  "playlist": "",
+  "url": "https://www.sbbit.jp/article/cont1/185732",
+  "path": "AI-News/2026-07-02_AIエージェントで成果が出る業務は「わずか1割」？ガートナーが警鐘_LLM頼み_の限界_1776599746.md",
+  "updated_at": "2026-07-02T21:10:59",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-07-02\"\nurl: \"https://www.sbbit.jp/article/cont1/185732\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1776599746\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - workflow/業務改善\n  - action/試す\n---\n\n# AIエージェントで成果が出る業務は「わずか1割」？ガートナーが警鐘\"LLM頼み\"の限界\n\n- URL: https://www.sbbit.jp/article/cont1/185732\n- Raindrop ID: 1776599746\n- status: success\n\n【Raindrop要約】\nタイトル：\nAIエージェントで成果が出る業務は「わずか1割」？ガートナーが警鐘\"LLM頼み\"の限界\nURL：\nhttps://www.sbbit.jp/article/cont1/185732\n\n概要：\n- ガートナーのエリック・ブレテヌー氏によると、AIエージェントは生成AIとは全く別の技術（98%はLLM未使用）\n- 自律性を高めるほど制御の難易度も上がり、5エージェントを連結すると不確実性が急増\n- 成果が出る業務は「わずか1割」と警鐘。LLMに頼るだけでは不十分\n- 処理が「10日→2日」に短縮できた事例もあるが、設計次第\n\n自分に使えそうなポイント：\n- AIエージェント導入前に「意思決定の設計」を明確にすることが重要\n- 何でも自動化するのではなく、価値が出る業務を絞り込む視点が必要\n\n参考にすべき点：\n- ガートナー定義：「状況を知覚し、意思決定を下し、アクションを実行する自律的ソフトウェア」\n\n要確認：\n- 成果が出る「1割」の業務とは具体的に何か（本文は会員限定のため詳細不明）\n- 価値を最大化する「2つの条件」の中身\n\n分類候補：\nAI活用 / 仕事 / 資料化\n\n取得状態：\n本文取得成功（一部会員限定のため全文未取得）\n"
+}
