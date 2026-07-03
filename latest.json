@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T07:11:46",
+  "generated_at": "2026-07-03T22:01:21",
   "total_count": 157,
   "count": 50,
   "limit": 50,
@@ -168,24 +168,6 @@
     },
     {
       "rank": 19,
-      "id": "de661fa8d585248b",
-      "type": "youtube-summary",
-      "title": "有償依頼：Wikipediaへの登録を誰かにお願いしたい！実績があり、規約に則って、有償であることを開示できる方に",
-      "date": "2026-06-27",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=Rpt9cN48xnY"
-    },
-    {
-      "rank": 20,
-      "id": "bccb382ecc13c6f0",
-      "type": "youtube-summary",
-      "title": "AIっぽい文章とは？相手の評価が下がる場面やAI臭を消すAgent Skillsについて解説してみた",
-      "date": "2026-06-27",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=Fgo7FIl6rJ4"
-    },
-    {
-      "rank": 21,
       "id": "65ee1c7bf1148144",
       "type": "youtube-summary",
       "title": "どんでん返しからイヤミスまで！最高のミステリを21冊紹介します【総集編】",
@@ -194,13 +176,31 @@
       "url": "https://www.youtube.com/watch?v=K3DfNymaDQQ"
     },
     {
-      "rank": 22,
+      "rank": 20,
       "id": "c96a39aa74a51217",
       "type": "youtube-summary",
       "title": "【ボクシング】中谷潤人、井上尚弥戦後初の公の場 再戦への思い＆眼窩底手術を終えて現在の状況",
       "date": "2026-06-27",
       "playlist": "要約",
       "url": "https://www.youtube.com/watch?v=Fdu0pq6_WFE"
+    },
+    {
+      "rank": 21,
+      "id": "de661fa8d585248b",
+      "type": "youtube-summary",
+      "title": "有償依頼：Wikipediaへの登録を誰かにお願いしたい！実績があり、規約に則って、有償であることを開示できる方に",
+      "date": "2026-06-27",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=Rpt9cN48xnY"
+    },
+    {
+      "rank": 22,
+      "id": "bccb382ecc13c6f0",
+      "type": "youtube-summary",
+      "title": "AIっぽい文章とは？相手の評価が下がる場面やAI臭を消すAgent Skillsについて解説してみた",
+      "date": "2026-06-27",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=Fgo7FIl6rJ4"
     },
     {
       "rank": 23,
@@ -231,6 +231,15 @@
     },
     {
       "rank": 26,
+      "id": "43b25671d5750b1e",
+      "type": "youtube-summary",
+      "title": "【個人開発】この11冊を読めば、あなたの人生は大きく変わります",
+      "date": "2026-06-25",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=7Zx56oIRjsA"
+    },
+    {
+      "rank": 27,
       "id": "68aeb9dbbc4e8b98",
       "type": "youtube-summary",
       "title": "NotebookLM Just Changed AI Forever 🤯 | AI Research Agent, Code Execution &amp; File Factory (2026)",
@@ -239,22 +248,13 @@
       "url": "https://www.youtube.com/watch?v=K6iY4RjtA28"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": "d96f008c922c1768",
       "type": "youtube-summary",
       "title": "PDCAをエージェントで回すために「ルーティン＆カレンダー」がかなり便利！",
       "date": "2026-06-25",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=49mkTNhn1Zc"
-    },
-    {
-      "rank": 28,
-      "id": "43b25671d5750b1e",
-      "type": "youtube-summary",
-      "title": "【個人開発】この11冊を読めば、あなたの人生は大きく変わります",
-      "date": "2026-06-25",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=7Zx56oIRjsA"
     },
     {
       "rank": 29,
