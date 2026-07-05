@@ -1,0 +1,11 @@
+{
+  "id": "433be523c87e7349",
+  "type": "ai-news",
+  "title": "「今日、何してたっけ？」がなくなった。1日の時間を1分単位で記録してみたら | ライフハッカー・ジャパン",
+  "date": "2026-07-05",
+  "playlist": "",
+  "url": "https://www.lifehacker.jp/article/2607-i-tracked-every-minute-of-my-day-with-this-open-source-tool/",
+  "path": "AI-News/2026-07-05_「今日、何してたっけ？」がなくなった。1日の時間を1分単位で記録してみたら _ ライフハッカー・ジャパン_1781405018.md",
+  "updated_at": "2026-07-05T19:02:24",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-07-05\"\nurl: \"https://www.lifehacker.jp/article/2607-i-tracked-every-minute-of-my-day-with-this-open-source-tool/\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1781405018\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - action/試す\n  - action/深掘り\n---\n\n# 「今日、何してたっけ？」がなくなった。1日の時間を1分単位で記録してみたら | ライフハッカー・ジャパン\n\n- URL: https://www.lifehacker.jp/article/2607-i-tracked-every-minute-of-my-day-with-this-open-source-tool/\n- Raindrop ID: 1781405018\n- status: success\n\n【Raindrop要約】\nタイトル：\n「今日、何してたっけ？」がなくなった。1日の時間を1分単位で記録してみたら | ライフハッカー・ジャパン\nURL：\nhttps://www.lifehacker.jp/article/2607-i-tracked-every-minute-of-my-day-with-this-open-source-tool/\n\n概要：\n- オープンソースの時間管理ツール「TimeTagger」をDockerでセルフホストし、1日を1分単位で記録した体験談。\n- ハッシュタグを付けて行動を記録するだけで、自分の「行動のクセ」や「コンテキストスイッチの多さ」が可視化される。\n- レポート機能により、記憶と実際の時間配分のズレが明確になる。\n- データを自分のサーバーで管理するため、企業へのデータ提供や依存リスクがない。\n- 目標時間を設定することで、記録ツールから「行動指針ツール」へと活用範囲が広がる。\n\n自分に使えそうなポイント：\n- タグ（#deep-work, #admin など）を付けるだけの超シンプルな記録法で、継続ハードルが低い\n- タイムラインの「空白」を見ることで、無意識の時間ロスやコンテキストスイッチを把握できる\n- 目標時間を設定することで、日中の意思決定をリアルタイムで補正できる\n\n参考にすべき点：\n- バックアップがSQLiteファイル1つで完結する設計のシンプルさ\n- 「記憶はウソをつく」という前提で、データドリブンに自分の優先順位を見直す姿勢\n\n要確認：\n- TimeTaggerのDockerセットアップの難易度（記事では「難解すぎない」とあるが、具体的な手順は未記載）\n- モバイルアプリの使い勝手（マルチデバイス同期とあるが、UI詳細は不明）\n- 無料のクラウドホスト版と自前運用版の機能差\n\n分類候補：\n仕事 / あとで深掘り / 資料化\n\n取得状態：\n本文取得成功\n"
+}

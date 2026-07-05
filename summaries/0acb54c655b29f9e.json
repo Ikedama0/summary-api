@@ -1,0 +1,11 @@
+{
+  "id": "0acb54c655b29f9e",
+  "type": "ai-news",
+  "title": "予定入力を10分→10秒にするExcel裏技｜アイシーティーリンク株式会社 公式ブログ",
+  "date": "2026-07-05",
+  "playlist": "",
+  "url": "https://note.com/ictlink/n/n638323ebf2af",
+  "path": "AI-News/2026-07-05_予定入力を10分→10秒にするExcel裏技｜アイシーティーリンク株式会社 公式ブログ_1781406875.md",
+  "updated_at": "2026-07-05T19:01:44",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-07-05\"\nurl: \"https://note.com/ictlink/n/n638323ebf2af\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1781406875\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - action/試す\n  - action/仕事に使う\n---\n\n# 予定入力を10分→10秒にするExcel裏技｜アイシーティーリンク株式会社 公式ブログ\n\n- URL: https://note.com/ictlink/n/n638323ebf2af\n- Raindrop ID: 1781406875\n- status: success\n\n【Raindrop要約】\nタイトル：\n予定入力を10分→10秒にするExcel裏技｜アイシーティーリンク株式会社 公式ブログ\nURL：\nhttps://note.com/ictlink/n/n638323ebf2af\n\n概要：\n- ExcelのデータをICS形式（.icsファイル）に変換し、OutlookやTeamsのカレンダーへ一括登録する方法を紹介している記事。\n- ExcelのCHAR(10)やTEXTJOIN関数を使ってICS形式のテキストを自動生成し、メモ帳で.icsファイルとして保存するだけで完結する。\n- シフト勤務など繰り返しパターンのある予定に特に有効で、IF関数と組み合わせると入力がさらに省力化できる。\n\n自分に使えそうなポイント：\n- ExcelにICS生成用の関数列を追加するだけで、外部ツール不要でカレンダー一括登録が可能\n- TEXTJOIN関数で複数イベントを一つのVCALENDARブロックにまとめる構造は応用が効く\n- シフトのパターン（A勤務・B勤務など）をIF関数で自動展開するアイデアは他の定型業務にも転用できる\n\n参考にすべき点：\n- ICSファイルの基本構造（BEGIN:VCALENDAR / BEGIN:VEVENT / DTSTART / DTEND / SUMMARY）の書き方\n- ExcelのTEXT関数でyyyymmddThhmmss形式の日時文字列を生成する方法\n\n要確認：\n- タイムゾーン指定（TZID）がないため、環境によってはカレンダー登録時に時刻がずれる可能性がある\n- Outlook/Teamsへのドラッグ＆ドロップの挙動はバージョンや設定によって異なる可能性がある\n- TEXTJOIN関数はExcel 2019以降またはMicrosoft 365が必要（旧バージョンでは使えない）\n\n分類候補：\n仕事 / 資料化\n\n取得状態：\n本文取得成功\n"
+}

@@ -1,11 +1,74 @@
 {
-  "generated_at": "2026-07-05T07:14:24",
-  "total_count": 167,
+  "generated_at": "2026-07-05T22:01:16",
+  "total_count": 174,
   "count": 50,
   "limit": 50,
   "items": [
     {
       "rank": 1,
+      "id": "433be523c87e7349",
+      "type": "ai-news",
+      "title": "「今日、何してたっけ？」がなくなった。1日の時間を1分単位で記録してみたら | ライフハッカー・ジャパン",
+      "date": "2026-07-05",
+      "playlist": "",
+      "url": "https://www.lifehacker.jp/article/2607-i-tracked-every-minute-of-my-day-with-this-open-source-tool/"
+    },
+    {
+      "rank": 2,
+      "id": "f84568bad7f88f1a",
+      "type": "ai-news",
+      "title": "先行販売開始45分で目標金額の約1,000％を達成！ビジネス、イラスト、ゲーム、動画編集等、多用途で使えるモバイルモニターが好発進！「TM-160PW」先行販売中",
+      "date": "2026-07-05",
+      "playlist": "",
+      "url": "https://prtimes.jp/main/html/rd/p/000000020.000128199.html"
+    },
+    {
+      "rank": 3,
+      "id": "0acb54c655b29f9e",
+      "type": "ai-news",
+      "title": "予定入力を10分→10秒にするExcel裏技｜アイシーティーリンク株式会社 公式ブログ",
+      "date": "2026-07-05",
+      "playlist": "",
+      "url": "https://note.com/ictlink/n/n638323ebf2af"
+    },
+    {
+      "rank": 4,
+      "id": "f61c59963dbc3660",
+      "type": "ai-news",
+      "title": "【eGFR】数値が低下した方へ｜腎機能悪化を防ぐポイントを腎臓専門医が解説",
+      "date": "2026-07-05",
+      "playlist": "",
+      "url": "https://www.youtube.com/watch?v=OCSdedgY_6A"
+    },
+    {
+      "rank": 5,
+      "id": "d776ddbdc914fce3",
+      "type": "ai-news",
+      "title": "田子ノ浦親方が千種聾学校を訪問 両親が聴覚障害で自然と手話習得、児童にも手話で細やかに指導「いろんな意味で自分も感じることがありました」【大相撲】",
+      "date": "2026-07-05",
+      "playlist": "",
+      "url": "https://www.chunichi.co.jp/article/1276159"
+    },
+    {
+      "rank": 6,
+      "id": "51a58cbc1653e281",
+      "type": "ai-news",
+      "title": "Claude Codeを「VS Code」で動かしたいこれだけの理由 | ライフハッカー・ジャパン",
+      "date": "2026-07-05",
+      "playlist": "",
+      "url": "https://www.lifehacker.jp/article/2606this-underrated-claude-code-mode-makes-it-a-real-ide-rival/"
+    },
+    {
+      "rank": 7,
+      "id": "a7d3e4c8488e75cc",
+      "type": "ai-news",
+      "title": "夜のPC作業がここまで快適になるとは。5千円以下のモニターライトに変えてから、目の疲れ方が変わった | ギズモード・ジャパン",
+      "date": "2026-07-05",
+      "playlist": "",
+      "url": "https://www.gizmodo.jp/article/2607-amazon-l205/"
+    },
+    {
+      "rank": 8,
       "id": "0320e471fc2539fd",
       "type": "youtube-summary",
       "title": "【逆転が始まる】AI時代に急に開花する40代と静かに淘汰されていく人の違いを現場目線で話す",
@@ -14,7 +77,7 @@
       "url": "https://www.youtube.com/watch?v=z2a7bF_xBz4"
     },
     {
-      "rank": 2,
+      "rank": 9,
       "id": "278afda6a539df65",
       "type": "youtube-summary",
       "title": "AIの使い方基礎 【2026後半版】：劇的改善する３つのコツ",
@@ -23,7 +86,7 @@
       "url": "https://www.youtube.com/watch?v=oAqbM8OOtLI"
     },
     {
-      "rank": 3,
+      "rank": 10,
       "id": "30313039d3b54b12",
       "type": "youtube-summary",
       "title": "【すぐに使える活用事例10選】Claude Fable 5完全攻略！ゲーム・アプリ・Webサイト・スライド・動画制作まで徹底解説！",
@@ -32,7 +95,7 @@
       "url": "https://www.youtube.com/watch?v=W5dnoAgWiJw"
     },
     {
-      "rank": 4,
+      "rank": 11,
       "id": "93a5103264d7e160",
       "type": "youtube-summary",
       "title": "ハイスペなのに案件が決まらないフリーランスエンジニアの特徴",
@@ -41,7 +104,7 @@
       "url": "https://www.youtube.com/watch?v=L507qYrHWHk"
     },
     {
-      "rank": 5,
+      "rank": 12,
       "id": "a9ceec30729d6ca6",
       "type": "youtube-summary",
       "title": "【全力期間】Claude Fableに初日から28万円課金！攻略や初日立ち回りなどを徹底解説します",
@@ -50,7 +113,7 @@
       "url": "https://www.youtube.com/watch?v=1sbRN6jGdv8"
     },
     {
-      "rank": 6,
+      "rank": 13,
       "id": "aca223699e378fd1",
       "type": "youtube-summary",
       "title": "今すぐやって！『Claude Fable 5』復活中に絶対にやるべき事10選",
@@ -59,7 +122,7 @@
       "url": "https://www.youtube.com/watch?v=RQ-iv4Yhv6o"
     },
     {
-      "rank": 7,
+      "rank": 14,
       "id": "7b2bed3a7f76f028",
       "type": "ai-news",
       "title": "Windowsの標準機能を使ったら、小さなノートPCが2画面みたいに快適になった",
@@ -68,7 +131,7 @@
       "url": "https://www.lifehacker.jp/article/2606you-dont-need-a-second-monitor/"
     },
     {
-      "rank": 8,
+      "rank": 15,
       "id": "8cd959767a672778",
       "type": "ai-news",
       "title": "ショートカット、もう覚えなくていい。勝手に身に付くブラウザ拡張機能を作ってみた",
@@ -77,7 +140,7 @@
       "url": "https://zenn.dev/branbran/articles/9a30731236caac"
     },
     {
-      "rank": 9,
+      "rank": 16,
       "id": "34ebc24ce7d39401",
       "type": "ai-news",
       "title": "AIエージェントの「従業員化」、作業ミスの見逃しを招く",
@@ -86,7 +149,7 @@
       "url": "https://www.technologyreview.jp/s/385473/ai-agents-are-not-your-coworkers/"
     },
     {
-      "rank": 10,
+      "rank": 17,
       "id": "509b906cffad1feb",
       "type": "ai-news",
       "title": "AIエージェントで成果が出る業務は「わずか1割」？ガートナーが警鐘\"LLM頼み\"の限界",
@@ -95,7 +158,7 @@
       "url": "https://www.sbbit.jp/article/cont1/185732"
     },
     {
-      "rank": 11,
+      "rank": 18,
       "id": "fa18ec5cc9874492",
       "type": "ai-news",
       "title": "AIはほぼすべてのスタートアップのコードを書いている。それが新たな問題を生み出している。 | Business Insider Japan",
@@ -104,7 +167,7 @@
       "url": "https://www.businessinsider.jp/article/2606-ai-writing-all-startup-code-thats-creating-a-new-problem/"
     },
     {
-      "rank": 12,
+      "rank": 19,
       "id": "9453c154b173814b",
       "type": "ai-news",
       "title": "要約だけじゃもったいない。NotebookLMで「動画分析から資料作成まで」こなすには？ | ライフハッカー・ジャパン",
@@ -113,7 +176,7 @@
       "url": "https://www.lifehacker.jp/article/d5bfb504-7f8a-4cdf-8c19-ede29a4c4dc8/"
     },
     {
-      "rank": 13,
+      "rank": 20,
       "id": "6f81ee20fbb80f4a",
       "type": "ai-news",
       "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita",
@@ -122,7 +185,7 @@
       "url": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b"
     },
     {
-      "rank": 14,
+      "rank": 21,
       "id": "0f23775272aa0549",
       "type": "ai-news",
       "title": "ジェシー・ロドリゲスvsクリスチャン・メディナ カネロ興行10月延期で実現へ WBA、WBO世界バンタム級王座統一戦",
@@ -131,7 +194,7 @@
       "url": "https://boxing-master.com/news/jesse-rodriguez-vs-christian-medina-set-to-take-place-following-postponement-of-canelos-october-event-wba-and-wbo-world-bantamweight-title-unification-bout/"
     },
     {
-      "rank": 15,
+      "rank": 22,
       "id": "07433573f683cf2a",
       "type": "ai-news",
       "title": "Claude Code を4ヶ月使ってわかった、おすすめコマンド・スキル 10 選 - Qiita",
@@ -140,7 +203,7 @@
       "url": "https://qiita.com/wataru86/items/b859f1578191a1e15808"
     },
     {
-      "rank": 16,
+      "rank": 23,
       "id": "53c1603b1e19e4b3",
       "type": "youtube-summary",
       "title": "会社も肩書きも消えたとき、最後に残るもの【雑感】",
@@ -149,7 +212,7 @@
       "url": "https://www.youtube.com/watch?v=q8EDoQhQqXo"
     },
     {
-      "rank": 17,
+      "rank": 24,
       "id": "8c93df867328c228",
       "type": "youtube-summary",
       "title": "174 4 NotebookLMで紙の山が消えた方法",
@@ -158,7 +221,7 @@
       "url": "https://www.youtube.com/watch?v=O8ZUjBgQFFA"
     },
     {
-      "rank": 18,
+      "rank": 25,
       "id": "ee0d6921d0c85891",
       "type": "youtube-summary",
       "title": "【初心者もChatGPT感覚で触れる】Codexの全体像をたった15分で解説",
@@ -167,7 +230,7 @@
       "url": "https://www.youtube.com/watch?v=HzvK7RV47Wg"
     },
     {
-      "rank": 19,
+      "rank": 26,
       "id": "bcf2ca3f21f1ca85",
       "type": "youtube-summary",
       "title": "【今すぐ動け】2030年までに「一人社長×AIチーム化」の仕組み化を実現する方法",
@@ -176,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=oo7T00tXnwc"
     },
     {
-      "rank": 20,
+      "rank": 27,
       "id": "b231421b8ba900c1",
       "type": "youtube-summary",
       "title": "「疑問」ではなく「問い」を投げかけよう。AIに「より精度の高い情報」を答えてもらう方法を伝授!【Gemini】【ChatGPT】",
@@ -185,7 +248,7 @@
       "url": "https://www.youtube.com/watch?v=aILVm3R8Z6U"
     },
     {
-      "rank": 21,
+      "rank": 28,
       "id": "677b2010371fcddc",
       "type": "ai-news",
       "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita",
@@ -194,7 +257,7 @@
       "url": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b"
     },
     {
-      "rank": 22,
+      "rank": 29,
       "id": "d51652780c7d410f",
       "type": "ai-news",
       "title": "高速ファイルコピーツール「TeraCopy」が9年ぶりのメジャー更新、v4.0に。「LocalSend」受信に対応／「Pro」ライセンスは6月30日まで50％オフ",
@@ -203,7 +266,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2119180.html"
     },
     {
-      "rank": 23,
+      "rank": 30,
       "id": "2e613b296cad3847",
       "type": "ai-news",
       "title": "Excelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」「グラフに赤を使わない」「シート名は分かりやすく」など",
@@ -212,7 +275,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2118762.html"
     },
     {
-      "rank": 24,
+      "rank": 31,
       "id": "fd213e1937ee74e7",
       "type": "ai-news",
       "title": "あまりのコスパのよさに追加購入。サブモニターに最適です。 | ギズモード・ジャパン",
@@ -221,7 +284,7 @@
       "url": "https://www.gizmodo.jp/article/msi-pro-mp2412-review-nvn/"
     },
     {
-      "rank": 25,
+      "rank": 32,
       "id": "15a2df20add16a20",
       "type": "ai-news",
       "title": "なぜメモリーがこんなに高いのか？ RAM価格が1年で4倍になった理由",
@@ -230,7 +293,7 @@
       "url": "https://japan.zdnet.com/article/35249385/"
     },
     {
-      "rank": 26,
+      "rank": 33,
       "id": "87265a5eb97e8fb7",
       "type": "ai-news",
       "title": "『Obsidian(Markdown) よりも快適に書く: vscode-scb で Cosense 記法』へのコメント",
@@ -239,7 +302,7 @@
       "url": "https://b.hatena.ne.jp/entry/s/zenn.dev/sta/articles/2026-06-20-vscode-scb"
     },
     {
-      "rank": 27,
+      "rank": 34,
       "id": "1def0a6ecdde75ab",
       "type": "ai-news",
       "title": "「日本DX大賞2026」個人表彰 受賞者6名を決定",
@@ -248,7 +311,7 @@
       "url": "https://prtimes.jp/main/html/rd/p/000000160.000115435.html"
     },
     {
-      "rank": 28,
+      "rank": 35,
       "id": "991885af7ff790a2",
       "type": "ai-news",
       "title": "NotebookLMの「回答の質が変わる」隠された設定 | ライフハッカー・ジャパン",
@@ -257,25 +320,7 @@
       "url": "https://www.lifehacker.jp/article/2606-notebooklm-settings-configure-notebook/"
     },
     {
-      "rank": 29,
-      "id": "de661fa8d585248b",
-      "type": "youtube-summary",
-      "title": "有償依頼：Wikipediaへの登録を誰かにお願いしたい！実績があり、規約に則って、有償であることを開示できる方に",
-      "date": "2026-06-27",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=Rpt9cN48xnY"
-    },
-    {
-      "rank": 30,
-      "id": "bccb382ecc13c6f0",
-      "type": "youtube-summary",
-      "title": "AIっぽい文章とは？相手の評価が下がる場面やAI臭を消すAgent Skillsについて解説してみた",
-      "date": "2026-06-27",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=Fgo7FIl6rJ4"
-    },
-    {
-      "rank": 31,
+      "rank": 36,
       "id": "65ee1c7bf1148144",
       "type": "youtube-summary",
       "title": "どんでん返しからイヤミスまで！最高のミステリを21冊紹介します【総集編】",
@@ -284,7 +329,7 @@
       "url": "https://www.youtube.com/watch?v=K3DfNymaDQQ"
     },
     {
-      "rank": 32,
+      "rank": 37,
       "id": "c96a39aa74a51217",
       "type": "youtube-summary",
       "title": "【ボクシング】中谷潤人、井上尚弥戦後初の公の場 再戦への思い＆眼窩底手術を終えて現在の状況",
@@ -293,7 +338,25 @@
       "url": "https://www.youtube.com/watch?v=Fdu0pq6_WFE"
     },
     {
-      "rank": 33,
+      "rank": 38,
+      "id": "de661fa8d585248b",
+      "type": "youtube-summary",
+      "title": "有償依頼：Wikipediaへの登録を誰かにお願いしたい！実績があり、規約に則って、有償であることを開示できる方に",
+      "date": "2026-06-27",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=Rpt9cN48xnY"
+    },
+    {
+      "rank": 39,
+      "id": "bccb382ecc13c6f0",
+      "type": "youtube-summary",
+      "title": "AIっぽい文章とは？相手の評価が下がる場面やAI臭を消すAgent Skillsについて解説してみた",
+      "date": "2026-06-27",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=Fgo7FIl6rJ4"
+    },
+    {
+      "rank": 40,
       "id": "8bf2db6b156178bc",
       "type": "ai-news",
       "title": "AI時代に勝つのは、思想を外部記憶にした人間だけだ",
@@ -302,7 +365,7 @@
       "url": "https://x.com/masaki_lipple/status/2062738743115784252"
     },
     {
-      "rank": 34,
+      "rank": 41,
       "id": "756b856f71d55743",
       "type": "youtube-summary",
       "title": "【ガチ的中】4月3日に話したAI予言が現実に。仙人作の天才AIツールも公開",
@@ -311,7 +374,7 @@
       "url": "https://www.youtube.com/watch?v=QIlzqc7DO7c"
     },
     {
-      "rank": 35,
+      "rank": 42,
       "id": "b4ba89cdb59ef0d8",
       "type": "youtube-summary",
       "title": "AIを自動で動かす時のボトルネック解消法：1500時間本格運用で得た極意",
@@ -320,25 +383,7 @@
       "url": "https://www.youtube.com/watch?v=4Ho0MXS4StQ"
     },
     {
-      "rank": 36,
-      "id": "68aeb9dbbc4e8b98",
-      "type": "youtube-summary",
-      "title": "NotebookLM Just Changed AI Forever 🤯 | AI Research Agent, Code Execution &amp; File Factory (2026)",
-      "date": "2026-06-25",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=K6iY4RjtA28"
-    },
-    {
-      "rank": 37,
-      "id": "d96f008c922c1768",
-      "type": "youtube-summary",
-      "title": "PDCAをエージェントで回すために「ルーティン＆カレンダー」がかなり便利！",
-      "date": "2026-06-25",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=49mkTNhn1Zc"
-    },
-    {
-      "rank": 38,
+      "rank": 43,
       "id": "43b25671d5750b1e",
       "type": "youtube-summary",
       "title": "【個人開発】この11冊を読めば、あなたの人生は大きく変わります",
@@ -347,7 +392,25 @@
       "url": "https://www.youtube.com/watch?v=7Zx56oIRjsA"
     },
     {
-      "rank": 39,
+      "rank": 44,
+      "id": "68aeb9dbbc4e8b98",
+      "type": "youtube-summary",
+      "title": "NotebookLM Just Changed AI Forever 🤯 | AI Research Agent, Code Execution &amp; File Factory (2026)",
+      "date": "2026-06-25",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=K6iY4RjtA28"
+    },
+    {
+      "rank": 45,
+      "id": "d96f008c922c1768",
+      "type": "youtube-summary",
+      "title": "PDCAをエージェントで回すために「ルーティン＆カレンダー」がかなり便利！",
+      "date": "2026-06-25",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=49mkTNhn1Zc"
+    },
+    {
+      "rank": 46,
       "id": "c8e9cae6d6ea6074",
       "type": "youtube-summary",
       "title": "【無料で使える高性能AI】オープンモデルで世界1位の「GLM-5.2」完全ガイド！驚異の性能・使い方(Claude Codeで利用可)・活用事例まで全部解説！",
@@ -356,7 +419,7 @@
       "url": "https://www.youtube.com/watch?v=E21qNVtyUlc"
     },
     {
-      "rank": 40,
+      "rank": 47,
       "id": "00749f34c43c707a",
       "type": "youtube-summary",
       "title": "【世界最強級?!】SakanAIの国産モデル「Fugu Ultra」を実際に使ってみた！",
@@ -365,7 +428,7 @@
       "url": "https://www.youtube.com/watch?v=r6Fhde5qXZk"
     },
     {
-      "rank": 41,
+      "rank": 48,
       "id": "064ea7c996d9ecae",
       "type": "youtube-summary",
       "title": "画面録画がAIスキルになるCodexの『Record &amp; Replay』が便利すぎた！",
@@ -374,7 +437,7 @@
       "url": "https://www.youtube.com/watch?v=KQTu8lhsrGg"
     },
     {
-      "rank": 42,
+      "rank": 49,
       "id": "abb229220ca5e7d7",
       "type": "ai-news",
       "title": "Claudeを使ってObsidianのフォルダ整理を自動化！究極の「思考の場」に変えるアプローチ | ライフハッカー・ジャパン",
@@ -383,76 +446,13 @@
       "url": "https://www.lifehacker.jp/article/2606-let-claude-organize-chaotic-obsidian-vault-found-connections-forgotten/"
     },
     {
-      "rank": 43,
+      "rank": 50,
       "id": "2a8cd2f491a4a6f3",
       "type": "ai-news",
       "title": "ブラックサンダー食べながらコードを書け！ お菓子会社が本気で開いたハッカソン「ブラッカソン」レポート",
       "date": "2026-06-22",
       "playlist": "",
       "url": "https://codezine.jp/article/detail/24493"
-    },
-    {
-      "rank": 44,
-      "id": "9bf56880522fc808",
-      "type": "ai-news",
-      "title": "ニューオープン！ボリューム満点の牛テールカレーと贅沢牛タンカレー 佐世保市「THE MEAT JOURNEY」 | 【長崎】21市町いまコレ！ | NCC長崎文化放送",
-      "date": "2026-06-22",
-      "playlist": "",
-      "url": "https://www.ncctv.co.jp/imakore/article/16599616"
-    },
-    {
-      "rank": 45,
-      "id": "74896990ac5e985c",
-      "type": "ai-news",
-      "title": "できる人が「まめに上司に確認」していること 自分にばかり意識が向いている人は成長しづらい | ログミーBusiness",
-      "date": "2026-06-22",
-      "playlist": "",
-      "url": "https://logmi.jp/main/skillup/333566"
-    },
-    {
-      "rank": 46,
-      "id": "030083958f220c05",
-      "type": "ai-news",
-      "title": "がんばっているのに成果が出ない人の共通点 間違った努力をやめて消耗せずに成功するヒント | ログミーBusiness",
-      "date": "2026-06-22",
-      "playlist": "",
-      "url": "https://logmi.jp/main/skillup/333565"
-    },
-    {
-      "rank": 47,
-      "id": "fcf455e5395c7bd9",
-      "type": "ai-news",
-      "title": "【毎日書評】一人語りは誰も聞いていない。ことばの器を育て職場の人間関係を深める「聞く」技術 | ライフハッカー・ジャパン",
-      "date": "2026-06-22",
-      "playlist": "",
-      "url": "https://www.lifehacker.jp/article/2606-book_to_read-1974/"
-    },
-    {
-      "rank": 48,
-      "id": "1152b44c541c0a54",
-      "type": "ai-news",
-      "title": "「Open VSX」がv1.0.0に到達 ～「Visual Studio Code」互換の拡張機能レジストリ／Microsoftの独占に抗うEclipse Foundationが運営",
-      "date": "2026-06-22",
-      "playlist": "",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2118403.html"
-    },
-    {
-      "rank": 49,
-      "id": "cef0aa69eac7df50",
-      "type": "ai-news",
-      "title": "「Codex」に開発者モード、Chrome DevTools Protocol（CDP）に接続、Webブラウザーが扱う詳細データが活用可能に／リスクにはくれぐれも留意のこと、DOM、CSS、通信状況も取得可能",
-      "date": "2026-06-22",
-      "playlist": "",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2117709.html"
-    },
-    {
-      "rank": 50,
-      "id": "5f36ff14c04a1a48",
-      "type": "ai-news",
-      "title": "https://m.youtube.com/watch?v=lpUsMUK0qZc",
-      "date": "2026-06-22",
-      "playlist": "",
-      "url": "https://m.youtube.com/watch?v=lpUsMUK0qZc"
     }
   ]
 }

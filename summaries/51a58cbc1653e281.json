@@ -1,0 +1,11 @@
+{
+  "id": "51a58cbc1653e281",
+  "type": "ai-news",
+  "title": "Claude Codeを「VS Code」で動かしたいこれだけの理由 | ライフハッカー・ジャパン",
+  "date": "2026-07-05",
+  "playlist": "",
+  "url": "https://www.lifehacker.jp/article/2606this-underrated-claude-code-mode-makes-it-a-real-ide-rival/",
+  "path": "AI-News/2026-07-05_Claude Codeを「VS Code」で動かしたいこれだけの理由 _ ライフハッカー・ジャパン_1781467069.md",
+  "updated_at": "2026-07-05T19:00:49",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-07-05\"\nurl: \"https://www.lifehacker.jp/article/2606this-underrated-claude-code-mode-makes-it-a-real-ide-rival/\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1781467069\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - tool/claude-code\n  - workflow/業務改善\n  - action/試す\n  - action/深掘り\n---\n\n# Claude Codeを「VS Code」で動かしたいこれだけの理由 | ライフハッカー・ジャパン\n\n- URL: https://www.lifehacker.jp/article/2606this-underrated-claude-code-mode-makes-it-a-real-ide-rival/\n- Raindrop ID: 1781467069\n- status: success\n\n【Raindrop要約】\nタイトル：\nClaude Codeを「VS Code」で動かしたいこれだけの理由 | ライフハッカー・ジャパン\nURL：\nhttps://www.lifehacker.jp/article/2606this-underrated-claude-code-mode-makes-it-a-real-ide-rival/\n\n概要：\n- Claude CodeをVS Codeの拡張機能として組み込むことで、ターミナル単体運用の限界（画面流失、ファイル横断デバッグの困難さ）を解消できる。\n- サイドバーチャットがエディタと連動し、ファイル読み込み・コード実行・差分確認を1画面内で完結させられる。\n- AIがファイルを直接書き換えるリスクに対し、Gitや事前バックアップを組み合わせることで安全な共同開発が可能。\n- ターミナル（CLI）は「捨てる」のではなく、速度重視の操作や自動化スクリプト組み込み用として併用するのが最適。\n\n自分に使えそうなポイント：\n- Claude CodeをVS Code内に組み込めば、チャット↔エディタの画面切り替えストレスがゼロになる。\n- AIに「作業前にコピーを作って」と一言添えておくだけで、誤編集による破壊リスクを大幅に軽減できる実践的な習慣。\n- ノンインタラクティブモードを使えば自作スクリプトへのClaude Code組み込みも可能で、自動化の幅が広がる。\n\n参考にすべき点：\n- 「計画書を先に作らせ→直接メモで修正→差分でレビュー」という3ステップのAI共同開発ワークフローは再現性が高い。\n- 巨大ディレクトリでは拡張機能が重くなる旨が明記されており、導入判断に際して正直なトレードオフが示されている。\n\n要確認：\n- VS Code拡張機能の名称・インストール手順が記事内に記載されておらず、実際の導入方法は別途確認が必要。\n- 「AIの提案精度が上がった」という記述は筆者の主観であり、客観的な根拠は不明。\n\n分類候補：\nAI活用 / あとで深掘り\n\n取得状態：\n本文取得成功\n"
+}
