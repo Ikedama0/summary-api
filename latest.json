@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T22:11:53",
+  "generated_at": "2026-07-08T07:01:16",
   "total_count": 185,
   "count": 50,
   "limit": 50,
@@ -393,33 +393,6 @@
     },
     {
       "rank": 44,
-      "id": "f1dade3e01a28218",
-      "type": "youtube-summary",
-      "title": "注目AIニュース14選～Clauge Tag、GPT5.6、AI検索に出ない企業は消える、トークン管理時代など",
-      "date": "2026-06-27",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=TZjEFa5xACY"
-    },
-    {
-      "rank": 45,
-      "id": "de661fa8d585248b",
-      "type": "youtube-summary",
-      "title": "有償依頼：Wikipediaへの登録を誰かにお願いしたい！実績があり、規約に則って、有償であることを開示できる方に",
-      "date": "2026-06-27",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=Rpt9cN48xnY"
-    },
-    {
-      "rank": 46,
-      "id": "bccb382ecc13c6f0",
-      "type": "youtube-summary",
-      "title": "AIっぽい文章とは？相手の評価が下がる場面やAI臭を消すAgent Skillsについて解説してみた",
-      "date": "2026-06-27",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=Fgo7FIl6rJ4"
-    },
-    {
-      "rank": 47,
       "id": "65ee1c7bf1148144",
       "type": "youtube-summary",
       "title": "どんでん返しからイヤミスまで！最高のミステリを21冊紹介します【総集編】",
@@ -428,13 +401,40 @@
       "url": "https://www.youtube.com/watch?v=K3DfNymaDQQ"
     },
     {
-      "rank": 48,
+      "rank": 45,
       "id": "c96a39aa74a51217",
       "type": "youtube-summary",
       "title": "【ボクシング】中谷潤人、井上尚弥戦後初の公の場 再戦への思い＆眼窩底手術を終えて現在の状況",
       "date": "2026-06-27",
       "playlist": "要約",
       "url": "https://www.youtube.com/watch?v=Fdu0pq6_WFE"
+    },
+    {
+      "rank": 46,
+      "id": "f1dade3e01a28218",
+      "type": "youtube-summary",
+      "title": "注目AIニュース14選～Clauge Tag、GPT5.6、AI検索に出ない企業は消える、トークン管理時代など",
+      "date": "2026-06-27",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=TZjEFa5xACY"
+    },
+    {
+      "rank": 47,
+      "id": "de661fa8d585248b",
+      "type": "youtube-summary",
+      "title": "有償依頼：Wikipediaへの登録を誰かにお願いしたい！実績があり、規約に則って、有償であることを開示できる方に",
+      "date": "2026-06-27",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=Rpt9cN48xnY"
+    },
+    {
+      "rank": 48,
+      "id": "bccb382ecc13c6f0",
+      "type": "youtube-summary",
+      "title": "AIっぽい文章とは？相手の評価が下がる場面やAI臭を消すAgent Skillsについて解説してみた",
+      "date": "2026-06-27",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=Fgo7FIl6rJ4"
     },
     {
       "rank": 49,
