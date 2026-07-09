@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-07-09T22:15:19",
+  "generated_at": "2026-07-10T07:01:20",
   "total_count": 189,
   "count": 50,
   "limit": 50,
   "items": [
     {
       "rank": 1,
+      "id": "159117ecb0b8e147",
+      "type": "youtube-summary",
+      "title": "井上尚弥vs中谷潤人の裏側を石井渡士也が語る｜OPBF東洋太平洋王座獲得後の本音｜ボクサーのSNS活動",
+      "date": "2026-07-09",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=M2T2NRrE6ZQ"
+    },
+    {
+      "rank": 2,
       "id": "bb837d424bff2de4",
       "type": "youtube-summary",
       "title": "【GPT-5.5に迫る!?】超格安オープンモデル「MiniMax M3」徹底解説。Claude Codeの中身を差し替える裏技も実演。100万トークン×画像・音声・動画。《使い方、料金、活用事例》",
@@ -14,7 +23,7 @@
       "url": "https://www.youtube.com/watch?v=yRUUUTIuJmQ"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "98a6236804b9fae4",
       "type": "youtube-summary",
       "title": "AIがどれだけ進化しても、人間に残り続ける最後の仕事",
@@ -23,22 +32,13 @@
       "url": "https://www.youtube.com/watch?v=S3NuKXJNNB8"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "9ddb407637d229ba",
       "type": "youtube-summary",
       "title": "【期待以上】『MiniMax M3』を徹底レビュー！日本語もコーディングも別物に進化してました",
       "date": "2026-07-09",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=D6JCFqMSD7I"
-    },
-    {
-      "rank": 4,
-      "id": "159117ecb0b8e147",
-      "type": "youtube-summary",
-      "title": "井上尚弥vs中谷潤人の裏側を石井渡士也が語る｜OPBF東洋太平洋王座獲得後の本音｜ボクサーのSNS活動",
-      "date": "2026-07-09",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=M2T2NRrE6ZQ"
     },
     {
       "rank": 5,
@@ -429,30 +429,30 @@
     },
     {
       "rank": 48,
+      "id": "65ee1c7bf1148144",
+      "type": "youtube-summary",
+      "title": "どんでん返しからイヤミスまで！最高のミステリを21冊紹介します【総集編】",
+      "date": "2026-06-27",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=K3DfNymaDQQ"
+    },
+    {
+      "rank": 49,
+      "id": "c96a39aa74a51217",
+      "type": "youtube-summary",
+      "title": "【ボクシング】中谷潤人、井上尚弥戦後初の公の場 再戦への思い＆眼窩底手術を終えて現在の状況",
+      "date": "2026-06-27",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=Fdu0pq6_WFE"
+    },
+    {
+      "rank": 50,
       "id": "f1dade3e01a28218",
       "type": "youtube-summary",
       "title": "注目AIニュース14選～Clauge Tag、GPT5.6、AI検索に出ない企業は消える、トークン管理時代など",
       "date": "2026-06-27",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=TZjEFa5xACY"
-    },
-    {
-      "rank": 49,
-      "id": "de661fa8d585248b",
-      "type": "youtube-summary",
-      "title": "有償依頼：Wikipediaへの登録を誰かにお願いしたい！実績があり、規約に則って、有償であることを開示できる方に",
-      "date": "2026-06-27",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=Rpt9cN48xnY"
-    },
-    {
-      "rank": 50,
-      "id": "bccb382ecc13c6f0",
-      "type": "youtube-summary",
-      "title": "AIっぽい文章とは？相手の評価が下がる場面やAI臭を消すAgent Skillsについて解説してみた",
-      "date": "2026-06-27",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=Fgo7FIl6rJ4"
     }
   ]
 }
