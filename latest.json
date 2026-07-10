@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-07-10T22:12:41",
+  "generated_at": "2026-07-11T07:01:12",
   "total_count": 191,
   "count": 50,
   "limit": 50,
   "items": [
     {
       "rank": 1,
+      "id": "159117ecb0b8e147",
+      "type": "youtube-summary",
+      "title": "井上尚弥vs中谷潤人の裏側を石井渡士也が語る｜OPBF東洋太平洋王座獲得後の本音｜ボクサーのSNS活動",
+      "date": "2026-07-09",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=M2T2NRrE6ZQ"
+    },
+    {
+      "rank": 2,
       "id": "bb837d424bff2de4",
       "type": "youtube-summary",
       "title": "【GPT-5.5に迫る!?】超格安オープンモデル「MiniMax M3」徹底解説。Claude Codeの中身を差し替える裏技も実演。100万トークン×画像・音声・動画。《使い方、料金、活用事例》",
@@ -14,7 +23,7 @@
       "url": "https://www.youtube.com/watch?v=yRUUUTIuJmQ"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "98a6236804b9fae4",
       "type": "youtube-summary",
       "title": "AIがどれだけ進化しても、人間に残り続ける最後の仕事",
@@ -23,7 +32,7 @@
       "url": "https://www.youtube.com/watch?v=S3NuKXJNNB8"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "358d09f22fec56ae",
       "type": "youtube-summary",
       "title": "【これ最高】OpenAI GPT5.6が登場！正直期待以上だったので解説します",
@@ -32,22 +41,13 @@
       "url": "https://www.youtube.com/watch?v=MvRRqNYlym0"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "9ddb407637d229ba",
       "type": "youtube-summary",
       "title": "【期待以上】『MiniMax M3』を徹底レビュー！日本語もコーディングも別物に進化してました",
       "date": "2026-07-09",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=D6JCFqMSD7I"
-    },
-    {
-      "rank": 5,
-      "id": "159117ecb0b8e147",
-      "type": "youtube-summary",
-      "title": "井上尚弥vs中谷潤人の裏側を石井渡士也が語る｜OPBF東洋太平洋王座獲得後の本音｜ボクサーのSNS活動",
-      "date": "2026-07-09",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=M2T2NRrE6ZQ"
     },
     {
       "rank": 6,
@@ -447,12 +447,12 @@
     },
     {
       "rank": 50,
-      "id": "f1dade3e01a28218",
+      "id": "65ee1c7bf1148144",
       "type": "youtube-summary",
-      "title": "注目AIニュース14選～Clauge Tag、GPT5.6、AI検索に出ない企業は消える、トークン管理時代など",
+      "title": "どんでん返しからイヤミスまで！最高のミステリを21冊紹介します【総集編】",
       "date": "2026-06-27",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=TZjEFa5xACY"
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=K3DfNymaDQQ"
     }
   ]
 }
