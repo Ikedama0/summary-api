@@ -1,47 +1,20 @@
 {
-  "generated_at": "2026-07-11T07:11:21",
-  "total_count": 191,
+  "generated_at": "2026-07-11T22:02:06",
+  "total_count": 192,
   "count": 50,
   "limit": 50,
   "items": [
     {
       "rank": 1,
-      "id": "bb837d424bff2de4",
+      "id": "53ea7945c7f0052e",
       "type": "youtube-summary",
-      "title": "【GPT-5.5に迫る!?】超格安オープンモデル「MiniMax M3」徹底解説。Claude Codeの中身を差し替える裏技も実演。100万トークン×画像・音声・動画。《使い方、料金、活用事例》",
-      "date": "2026-07-09",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=yRUUUTIuJmQ"
+      "title": "【直撃】工藤公康さんに直球質問。「オファー来たらまた監督やりますか？」その答えに込められた本音とは？",
+      "date": "2026-07-11",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=Z_MJivBihoQ"
     },
     {
       "rank": 2,
-      "id": "98a6236804b9fae4",
-      "type": "youtube-summary",
-      "title": "AIがどれだけ進化しても、人間に残り続ける最後の仕事",
-      "date": "2026-07-09",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=S3NuKXJNNB8"
-    },
-    {
-      "rank": 3,
-      "id": "358d09f22fec56ae",
-      "type": "youtube-summary",
-      "title": "【これ最高】OpenAI GPT5.6が登場！正直期待以上だったので解説します",
-      "date": "2026-07-09",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=MvRRqNYlym0"
-    },
-    {
-      "rank": 4,
-      "id": "9ddb407637d229ba",
-      "type": "youtube-summary",
-      "title": "【期待以上】『MiniMax M3』を徹底レビュー！日本語もコーディングも別物に進化してました",
-      "date": "2026-07-09",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=D6JCFqMSD7I"
-    },
-    {
-      "rank": 5,
       "id": "159117ecb0b8e147",
       "type": "youtube-summary",
       "title": "井上尚弥vs中谷潤人の裏側を石井渡士也が語る｜OPBF東洋太平洋王座獲得後の本音｜ボクサーのSNS活動",
@@ -50,7 +23,43 @@
       "url": "https://www.youtube.com/watch?v=M2T2NRrE6ZQ"
     },
     {
+      "rank": 3,
+      "id": "bb837d424bff2de4",
+      "type": "youtube-summary",
+      "title": "【GPT-5.5に迫る!?】超格安オープンモデル「MiniMax M3」徹底解説。Claude Codeの中身を差し替える裏技も実演。100万トークン×画像・音声・動画。《使い方、料金、活用事例》",
+      "date": "2026-07-09",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=yRUUUTIuJmQ"
+    },
+    {
+      "rank": 4,
+      "id": "98a6236804b9fae4",
+      "type": "youtube-summary",
+      "title": "AIがどれだけ進化しても、人間に残り続ける最後の仕事",
+      "date": "2026-07-09",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=S3NuKXJNNB8"
+    },
+    {
+      "rank": 5,
+      "id": "358d09f22fec56ae",
+      "type": "youtube-summary",
+      "title": "【これ最高】OpenAI GPT5.6が登場！正直期待以上だったので解説します",
+      "date": "2026-07-09",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=MvRRqNYlym0"
+    },
+    {
       "rank": 6,
+      "id": "9ddb407637d229ba",
+      "type": "youtube-summary",
+      "title": "【期待以上】『MiniMax M3』を徹底レビュー！日本語もコーディングも別物に進化してました",
+      "date": "2026-07-09",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=D6JCFqMSD7I"
+    },
+    {
+      "rank": 7,
       "id": "276b566e0d3571ad",
       "type": "youtube-summary",
       "title": "higgsfield 1 person business ideas making $10k/month",
@@ -59,7 +68,7 @@
       "url": "https://www.youtube.com/watch?v=OAZYnTVLUj0"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "0ca7705a45d85d4a",
       "type": "youtube-summary",
       "title": "【前編】25歳・起業2年で6.5億円売却。AI起業家の成功の裏側を全公開。売上の伸ばし方、泥臭い営業、M&amp;Aの進め方まで赤裸々に語る。《会社売却、フォーム営業、展示会営業、若手起業家》",
@@ -68,7 +77,7 @@
       "url": "https://www.youtube.com/watch?v=yakJjpVQ69k"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "ae4872e6e5c0b954",
       "type": "youtube-summary",
       "title": "【期間限定】破壊的AI Fableに天才AI社長は「何をさせてる」か突撃！初心者オススメの使い方やコツもポロリ 【Claude Fable5】",
@@ -77,7 +86,7 @@
       "url": "https://www.youtube.com/watch?v=iakLiPJbB3Y"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "38a9e50d6713b89f",
       "type": "youtube-summary",
       "title": "【2026年最新】Copilotの神機能まとめ！スケジュール機能やエージェント機能など",
@@ -86,7 +95,7 @@
       "url": "https://www.youtube.com/watch?v=XHPTmvBn9bM"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "id": "3bfbd9dc477eb0a2",
       "type": "youtube-summary",
       "title": "【必見】Anthropic の中の人が語る &quot;Fable5時代&quot;の鍵！「自分の未知を先に見つける」思考と、未知を潰す 5 つの技法を徹底解説",
@@ -95,7 +104,7 @@
       "url": "https://www.youtube.com/watch?v=HV0sEII79ig"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "id": "433be523c87e7349",
       "type": "ai-news",
       "title": "「今日、何してたっけ？」がなくなった。1日の時間を1分単位で記録してみたら | ライフハッカー・ジャパン",
@@ -104,7 +113,7 @@
       "url": "https://www.lifehacker.jp/article/2607-i-tracked-every-minute-of-my-day-with-this-open-source-tool/"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": "f84568bad7f88f1a",
       "type": "ai-news",
       "title": "先行販売開始45分で目標金額の約1,000％を達成！ビジネス、イラスト、ゲーム、動画編集等、多用途で使えるモバイルモニターが好発進！「TM-160PW」先行販売中",
@@ -113,7 +122,7 @@
       "url": "https://prtimes.jp/main/html/rd/p/000000020.000128199.html"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "0acb54c655b29f9e",
       "type": "ai-news",
       "title": "予定入力を10分→10秒にするExcel裏技｜アイシーティーリンク株式会社 公式ブログ",
@@ -122,7 +131,7 @@
       "url": "https://note.com/ictlink/n/n638323ebf2af"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "f61c59963dbc3660",
       "type": "ai-news",
       "title": "【eGFR】数値が低下した方へ｜腎機能悪化を防ぐポイントを腎臓専門医が解説",
@@ -131,7 +140,7 @@
       "url": "https://www.youtube.com/watch?v=OCSdedgY_6A"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "d776ddbdc914fce3",
       "type": "ai-news",
       "title": "田子ノ浦親方が千種聾学校を訪問 両親が聴覚障害で自然と手話習得、児童にも手話で細やかに指導「いろんな意味で自分も感じることがありました」【大相撲】",
@@ -140,7 +149,7 @@
       "url": "https://www.chunichi.co.jp/article/1276159"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "51a58cbc1653e281",
       "type": "ai-news",
       "title": "Claude Codeを「VS Code」で動かしたいこれだけの理由 | ライフハッカー・ジャパン",
@@ -149,7 +158,7 @@
       "url": "https://www.lifehacker.jp/article/2606this-underrated-claude-code-mode-makes-it-a-real-ide-rival/"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "a7d3e4c8488e75cc",
       "type": "ai-news",
       "title": "夜のPC作業がここまで快適になるとは。5千円以下のモニターライトに変えてから、目の疲れ方が変わった | ギズモード・ジャパン",
@@ -158,7 +167,7 @@
       "url": "https://www.gizmodo.jp/article/2607-amazon-l205/"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "e906bcbe33f098ac",
       "type": "youtube-summary",
       "title": "【#AIとやってみた】非エンジニアにFable 5は必要か？",
@@ -167,7 +176,7 @@
       "url": "https://www.youtube.com/watch?v=B_Wfla-akrU"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": "0320e471fc2539fd",
       "type": "youtube-summary",
       "title": "【逆転が始まる】AI時代に急に開花する40代と静かに淘汰されていく人の違いを現場目線で話す",
@@ -176,7 +185,7 @@
       "url": "https://www.youtube.com/watch?v=z2a7bF_xBz4"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "278afda6a539df65",
       "type": "youtube-summary",
       "title": "AIの使い方基礎 【2026後半版】：劇的改善する３つのコツ",
@@ -185,7 +194,7 @@
       "url": "https://www.youtube.com/watch?v=oAqbM8OOtLI"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": "30313039d3b54b12",
       "type": "youtube-summary",
       "title": "【すぐに使える活用事例10選】Claude Fable 5完全攻略！ゲーム・アプリ・Webサイト・スライド・動画制作まで徹底解説！",
@@ -194,7 +203,7 @@
       "url": "https://www.youtube.com/watch?v=W5dnoAgWiJw"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": "93a5103264d7e160",
       "type": "youtube-summary",
       "title": "ハイスペなのに案件が決まらないフリーランスエンジニアの特徴",
@@ -203,7 +212,7 @@
       "url": "https://www.youtube.com/watch?v=L507qYrHWHk"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "a9ceec30729d6ca6",
       "type": "youtube-summary",
       "title": "【全力期間】Claude Fableに初日から28万円課金！攻略や初日立ち回りなどを徹底解説します",
@@ -212,7 +221,7 @@
       "url": "https://www.youtube.com/watch?v=1sbRN6jGdv8"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "id": "aca223699e378fd1",
       "type": "youtube-summary",
       "title": "今すぐやって！『Claude Fable 5』復活中に絶対にやるべき事10選",
@@ -221,7 +230,7 @@
       "url": "https://www.youtube.com/watch?v=RQ-iv4Yhv6o"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "id": "7b2bed3a7f76f028",
       "type": "ai-news",
       "title": "Windowsの標準機能を使ったら、小さなノートPCが2画面みたいに快適になった",
@@ -230,7 +239,7 @@
       "url": "https://www.lifehacker.jp/article/2606you-dont-need-a-second-monitor/"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "8cd959767a672778",
       "type": "ai-news",
       "title": "ショートカット、もう覚えなくていい。勝手に身に付くブラウザ拡張機能を作ってみた",
@@ -239,7 +248,7 @@
       "url": "https://zenn.dev/branbran/articles/9a30731236caac"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": "34ebc24ce7d39401",
       "type": "ai-news",
       "title": "AIエージェントの「従業員化」、作業ミスの見逃しを招く",
@@ -248,7 +257,7 @@
       "url": "https://www.technologyreview.jp/s/385473/ai-agents-are-not-your-coworkers/"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "509b906cffad1feb",
       "type": "ai-news",
       "title": "AIエージェントで成果が出る業務は「わずか1割」？ガートナーが警鐘\"LLM頼み\"の限界",
@@ -257,7 +266,7 @@
       "url": "https://www.sbbit.jp/article/cont1/185732"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": "fa18ec5cc9874492",
       "type": "ai-news",
       "title": "AIはほぼすべてのスタートアップのコードを書いている。それが新たな問題を生み出している。 | Business Insider Japan",
@@ -266,7 +275,7 @@
       "url": "https://www.businessinsider.jp/article/2606-ai-writing-all-startup-code-thats-creating-a-new-problem/"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "9453c154b173814b",
       "type": "ai-news",
       "title": "要約だけじゃもったいない。NotebookLMで「動画分析から資料作成まで」こなすには？ | ライフハッカー・ジャパン",
@@ -275,7 +284,7 @@
       "url": "https://www.lifehacker.jp/article/d5bfb504-7f8a-4cdf-8c19-ede29a4c4dc8/"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "6f81ee20fbb80f4a",
       "type": "ai-news",
       "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita",
@@ -284,7 +293,7 @@
       "url": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "0f23775272aa0549",
       "type": "ai-news",
       "title": "ジェシー・ロドリゲスvsクリスチャン・メディナ カネロ興行10月延期で実現へ WBA、WBO世界バンタム級王座統一戦",
@@ -293,7 +302,7 @@
       "url": "https://boxing-master.com/news/jesse-rodriguez-vs-christian-medina-set-to-take-place-following-postponement-of-canelos-october-event-wba-and-wbo-world-bantamweight-title-unification-bout/"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "07433573f683cf2a",
       "type": "ai-news",
       "title": "Claude Code を4ヶ月使ってわかった、おすすめコマンド・スキル 10 選 - Qiita",
@@ -302,7 +311,7 @@
       "url": "https://qiita.com/wataru86/items/b859f1578191a1e15808"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "53c1603b1e19e4b3",
       "type": "youtube-summary",
       "title": "会社も肩書きも消えたとき、最後に残るもの【雑感】",
@@ -311,7 +320,7 @@
       "url": "https://www.youtube.com/watch?v=q8EDoQhQqXo"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": "8c93df867328c228",
       "type": "youtube-summary",
       "title": "174 4 NotebookLMで紙の山が消えた方法",
@@ -320,7 +329,7 @@
       "url": "https://www.youtube.com/watch?v=O8ZUjBgQFFA"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "id": "ee0d6921d0c85891",
       "type": "youtube-summary",
       "title": "【初心者もChatGPT感覚で触れる】Codexの全体像をたった15分で解説",
@@ -329,7 +338,7 @@
       "url": "https://www.youtube.com/watch?v=HzvK7RV47Wg"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": "bcf2ca3f21f1ca85",
       "type": "youtube-summary",
       "title": "【今すぐ動け】2030年までに「一人社長×AIチーム化」の仕組み化を実現する方法",
@@ -338,7 +347,7 @@
       "url": "https://www.youtube.com/watch?v=oo7T00tXnwc"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "43e20c31471075cb",
       "type": "youtube-summary",
       "title": "Geminiの「Study Notebooks」を徹底解説 — Geminiが「学習OS」になる日",
@@ -347,7 +356,7 @@
       "url": "https://www.youtube.com/watch?v=aQmHBsv5KZ4"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "0bafc82e196729c3",
       "type": "youtube-summary",
       "title": "AIフル活用のインプット＆アウトプットのサイクル。学んで終わりにせず、アクションに繋げる仕組みにしていくのが大事か",
@@ -356,7 +365,7 @@
       "url": "https://www.youtube.com/watch?v=iF3UKxSO3CY"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "b231421b8ba900c1",
       "type": "youtube-summary",
       "title": "「疑問」ではなく「問い」を投げかけよう。AIに「より精度の高い情報」を答えてもらう方法を伝授!【Gemini】【ChatGPT】",
@@ -365,7 +374,7 @@
       "url": "https://www.youtube.com/watch?v=aILVm3R8Z6U"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "96809bb12859329e",
       "type": "youtube-summary",
       "title": "【解説AI】Slackユーザー必見！AI時代の企業競争は「権限設計」で決まる",
@@ -374,7 +383,7 @@
       "url": "https://www.youtube.com/watch?v=SaxRKM9NfGg"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "677b2010371fcddc",
       "type": "ai-news",
       "title": "【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA - Qiita",
@@ -383,7 +392,7 @@
       "url": "https://qiita.com/yuyanz/items/5c96232d188ecfb2544b"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "d51652780c7d410f",
       "type": "ai-news",
       "title": "高速ファイルコピーツール「TeraCopy」が9年ぶりのメジャー更新、v4.0に。「LocalSend」受信に対応／「Pro」ライセンスは6月30日まで50％オフ",
@@ -392,7 +401,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2119180.html"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "2e613b296cad3847",
       "type": "ai-news",
       "title": "Excelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」「グラフに赤を使わない」「シート名は分かりやすく」など",
@@ -401,7 +410,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2118762.html"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "fd213e1937ee74e7",
       "type": "ai-news",
       "title": "あまりのコスパのよさに追加購入。サブモニターに最適です。 | ギズモード・ジャパン",
@@ -410,7 +419,7 @@
       "url": "https://www.gizmodo.jp/article/msi-pro-mp2412-review-nvn/"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "15a2df20add16a20",
       "type": "ai-news",
       "title": "なぜメモリーがこんなに高いのか？ RAM価格が1年で4倍になった理由",
@@ -419,7 +428,7 @@
       "url": "https://japan.zdnet.com/article/35249385/"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "87265a5eb97e8fb7",
       "type": "ai-news",
       "title": "『Obsidian(Markdown) よりも快適に書く: vscode-scb で Cosense 記法』へのコメント",
@@ -428,7 +437,7 @@
       "url": "https://b.hatena.ne.jp/entry/s/zenn.dev/sta/articles/2026-06-20-vscode-scb"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "1def0a6ecdde75ab",
       "type": "ai-news",
       "title": "「日本DX大賞2026」個人表彰 受賞者6名を決定",
@@ -437,22 +446,13 @@
       "url": "https://prtimes.jp/main/html/rd/p/000000160.000115435.html"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "991885af7ff790a2",
       "type": "ai-news",
       "title": "NotebookLMの「回答の質が変わる」隠された設定 | ライフハッカー・ジャパン",
       "date": "2026-06-28",
       "playlist": "",
       "url": "https://www.lifehacker.jp/article/2606-notebooklm-settings-configure-notebook/"
-    },
-    {
-      "rank": 50,
-      "id": "f1dade3e01a28218",
-      "type": "youtube-summary",
-      "title": "注目AIニュース14選～Clauge Tag、GPT5.6、AI検索に出ない企業は消える、トークン管理時代など",
-      "date": "2026-06-27",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=TZjEFa5xACY"
     }
   ]
 }
