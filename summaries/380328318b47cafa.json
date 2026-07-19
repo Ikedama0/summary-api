@@ -1,0 +1,11 @@
+{
+  "id": "380328318b47cafa",
+  "type": "ai-news",
+  "title": "iOS27のメモアプリのすべての新機能！分割線やセクションへのリンク機能などが追加 - iPhone Mania",
+  "date": "2026-07-20",
+  "playlist": "",
+  "url": "https://iphone-mania.jp/ios-603628/",
+  "path": "AI-News/2026-07-20_iOS27のメモアプリのすべての新機能！分割線やセクションへのリンク機能などが追加 - iPhone Mania_1795302638.md",
+  "updated_at": "2026-07-20T05:00:32",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-07-20\"\nurl: \"https://iphone-mania.jp/ios-603628/\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1795302638\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - obsidian\n  - workflow/業務改善\n  - topic/知識管理\n  - action/試す\n  - action/深掘り\n  - action/仕事に使う\n---\n\n# iOS27のメモアプリのすべての新機能！分割線やセクションへのリンク機能などが追加 - iPhone Mania\n\n- URL: https://iphone-mania.jp/ios-603628/\n- Raindrop ID: 1795302638\n- status: success\n\n【Raindrop要約】\nタイトル：\niOS27のメモアプリのすべての新機能！分割線やセクションへのリンク機能などが追加 - iPhone Mania\nURL：\nhttps://iphone-mania.jp/ios-603628/\n\n概要：\n- iOS27のメモアプリに「分割線」「セクションへのリンク」「マークダウンのコピー＆ペースト」「Siri AI連携」など大幅な新機能が追加された。\n- 分割線は1タップでメモ内のコンテンツを視覚的に区切ることができる機能。\n- セクションへのリンクは見出しに内部リンクを張れる機能で、長文メモに目次を作成できる。\n- マークダウンのペーストで自動リッチテキスト変換、「マークダウンとしてコピー」でWordPressやGitHubへの貼り付けが快適になる。\n- Siri AIによるメモ自動追加は英語先行リリースで、日本語対応は後日。\n\n自分に使えそうなポイント：\n- マークダウンコピー機能でメモ→外部ツール（Notion、GitHub、ブログ）への転記ワークフローが大幅に楽になる\n- セクションリンクで長いリサーチメモや議事録に目次を作れる（有料ノートアプリの代替になりうる）\n- 分割線で日報・会議メモのセクション分けが視覚的に整理しやすくなる\n\n参考にすべき点：\n- 純正メモアプリの機能がNotionやObsidianに近づいており、有料アプリへの乗り換えを再考する材料になる\n- 共有フォルダの青アイコン化は誤共有防止の実用的な改善で、チーム利用時のUX設計として参考になる\n\n要確認：\n- 「マークダウンとしてコピー」はベータ2・3でiOSから一時削除されており、正式リリース時に含まれるか未確定\n- Siri AIの日本語対応時期は未発表（「年内に英語対応、その後日本語」とあるが具体的な時期不明）\n- Image Playgroundとの深い統合はまだベータでも未公開で、どこまで実装されるか不明\n\n分類候補：\n仕事 / 発信ネタ / あとで深掘り\n\n取得状態：\n本文取得成功\n"
+}
