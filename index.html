@@ -89,6 +89,19 @@
       cursor: not-allowed;
       opacity: 0.45;
     }
+    .controls select {
+      border: 1px solid color-mix(in srgb, CanvasText 20%, transparent);
+      border-radius: 8px;
+      background: color-mix(in srgb, CanvasText 8%, transparent);
+      color: inherit;
+      font: inherit;
+      min-height: 40px;
+      padding: 8px 12px;
+    }
+    .copyStatus {
+      flex-basis: 100%;
+      min-height: 24px;
+    }
     pre {
       white-space: pre-wrap;
       word-break: break-word;
@@ -114,7 +127,7 @@
 <body>
   <header>
     <h1>要約リーダー</h1>
-    <div class="version">v2026-07-21 07:11 speech 1.5x / skip controls</div>
+    <div class="version">v2026-07-21 18:34 speech controls / copy</div>
   </header>
   <main>
     <section id="list" aria-label="最新要約一覧">読み込み中...</section>
@@ -127,6 +140,126 @@
     let speechChunks = [];
     let speechIndex = 0;
     let currentUtterance = null;
+    let currentDetail = null;
+    let copyInProgress = false;
+
+    const SUPPORTED_SPEECH_RATES = [0.75, 1.0, 1.25, 1.5, 1.75, 2.0, 2.5];
+    const DEFAULT_SPEECH_RATE = 1.5;
+    const SPEECH_RATE_STORAGE_KEY = "summaryReader.speechRate";
+    let selectedSpeechRate = loadSpeechRate();
+
+    function loadSpeechRate() {
+      try {
+        const stored = Number(localStorage.getItem(SPEECH_RATE_STORAGE_KEY));
+        if (SUPPORTED_SPEECH_RATES.includes(stored)) return stored;
+      } catch (error) {
+        // Storage failure must not prevent the reader from loading.
+      }
+      return DEFAULT_SPEECH_RATE;
+    }
+
+    function saveSpeechRate(rate) {
+      if (!SUPPORTED_SPEECH_RATES.includes(rate)) return;
+      selectedSpeechRate = rate;
+      try {
+        localStorage.setItem(SPEECH_RATE_STORAGE_KEY, String(rate));
+      } catch (error) {
+        // Keep the in-memory value when persistence is unavailable.
+      }
+    }
+
+    function getRawContent(detail) {
+      return typeof detail?.content === "string" ? detail.content : "";
+    }
+
+    function buildAiCopyText(detail) {
+      const content = getRawContent(detail);
+      if (!content) throw new Error("Missing content");
+      const metadata = [
+        ["タイトル", detail?.title],
+        ["日付", detail?.date],
+        ["種別", detail?.type],
+        ["プレイリスト", detail?.playlist],
+        ["元URL", detail?.url],
+      ];
+      const metadataLines = metadata
+        .filter(([, value]) => value !== null && value !== undefined && String(value).trim() !== "")
+        .map(([label, value]) => `${label}: ${String(value).trim()}`);
+      return [
+        "# コンテンツ情報",
+        "",
+        ...metadataLines,
+        "",
+        "# 内容",
+        "",
+        content,
+      ].join("\n");
+    }
+
+    async function copyText(text) {
+      if (typeof text !== "string" || text.length === 0) throw new Error("No copyable text");
+      if (navigator.clipboard && typeof navigator.clipboard.writeText === "function") {
+        await navigator.clipboard.writeText(text);
+        return;
+      }
+      const textarea = document.createElement("textarea");
+      const activeElement = document.activeElement;
+      textarea.value = text;
+      textarea.setAttribute("readonly", "");
+      textarea.style.position = "fixed";
+      textarea.style.opacity = "0";
+      document.body.appendChild(textarea);
+      textarea.select();
+      try {
+        if (!document.execCommand("copy")) throw new Error("Fallback copy failed");
+      } finally {
+        textarea.remove();
+        activeElement?.focus?.();
+      }
+    }
+
+    function showCopyFeedback(message, isError = false) {
+      const status = document.querySelector("#copyStatus");
+      if (!status) return;
+      status.textContent = message;
+      status.setAttribute("role", isError ? "alert" : "status");
+      status.dataset.state = isError ? "error" : "success";
+      window.clearTimeout(showCopyFeedback.timer);
+      if (!isError) {
+        showCopyFeedback.timer = window.setTimeout(() => {
+          status.textContent = "";
+          status.dataset.state = "idle";
+        }, 2000);
+      }
+    }
+
+    async function copyContent() {
+      if (copyInProgress) return;
+      copyInProgress = true;
+      try {
+        const content = getRawContent(currentDetail);
+        if (!content) throw new Error("Missing content");
+        await copyText(content);
+        showCopyFeedback("本文をコピーしました");
+      } catch (error) {
+        showCopyFeedback(error.message === "Missing content" ? "コピーする本文がありません" : "コピーできませんでした", true);
+      } finally {
+        copyInProgress = false;
+      }
+    }
+
+    async function copyForAi() {
+      if (copyInProgress) return;
+      copyInProgress = true;
+      try {
+        await copyText(buildAiCopyText(currentDetail));
+        showCopyFeedback("AI用テキストをコピーしました");
+      } catch (error) {
+        showCopyFeedback(error.message === "Missing content" ? "コピーする本文がありません" : "コピーできませんでした", true);
+      } finally {
+        copyInProgress = false;
+      }
+    }
 
     function escapeHtml(value) {
       return String(value ?? "").replace(/[&<>"']/g, ch => ({
@@ -221,7 +354,7 @@
       speechIndex = Math.max(0, Math.min(index, speechChunks.length - 1));
       currentUtterance = new SpeechSynthesisUtterance(speechChunks[speechIndex]);
       currentUtterance.lang = "ja-JP";
-      currentUtterance.rate = 1.5;
+      currentUtterance.rate = selectedSpeechRate;
       currentUtterance.onend = () => {
         if (speechIndex < speechChunks.length - 1) {
           speakCurrent(speechIndex + 1);
@@ -254,6 +387,7 @@
       const response = await fetch(`summaries/${encodeURIComponent(id)}.json`, { cache: "no-store" });
       if (!response.ok) throw new Error(`detail fetch failed: ${response.status}`);
       const data = await response.json();
+      currentDetail = data;
       currentText = cleanSpeechText(data.title, data.content);
       speechChunks = splitSpeechText(currentText);
       speechIndex = 0;
@@ -264,19 +398,32 @@
         <div class="controls">
           <button type="button" id="speakButton" ${canSpeak() ? "" : "disabled"}>読み上げ</button>
           <button type="button" id="stopButton" ${canSpeak() ? "" : "disabled"}>停止</button>
+          <label for="speechRate">読み上げ速度</label>
+          <select id="speechRate" aria-label="読み上げ速度">
+            ${SUPPORTED_SPEECH_RATES.map(rate => `<option value="${rate}" ${rate === selectedSpeechRate ? "selected" : ""}>${rate.toFixed(2).replace(/0$/, "")}x</option>`).join("")}
+          </select>
           <button type="button" id="prevButton" ${canSpeak() ? "" : "disabled"}>前へ</button>
           <button type="button" id="nextButton" ${canSpeak() ? "" : "disabled"}>次へ</button>
           <button type="button" id="restartButton" ${canSpeak() ? "" : "disabled"}>最初から</button>
+          <button type="button" id="copyContentButton">本文をコピー</button>
+          <button type="button" id="copyAiButton">AI用にコピー</button>
           <span class="meta" id="speechStatus"></span>
+          <span class="meta copyStatus" id="copyStatus" aria-live="polite"></span>
         </div>
         <pre>${escapeHtml(data.content)}</pre>
       `;
       updateSpeechStatus();
       document.querySelector("#speakButton")?.addEventListener("click", () => speakCurrent(speechIndex));
       document.querySelector("#stopButton")?.addEventListener("click", stopSpeech);
+      document.querySelector("#speechRate")?.addEventListener("change", event => {
+        const rate = Number(event.target.value);
+        if (SUPPORTED_SPEECH_RATES.includes(rate)) saveSpeechRate(rate);
+      });
       document.querySelector("#prevButton")?.addEventListener("click", speakPrevious);
       document.querySelector("#nextButton")?.addEventListener("click", speakNext);
       document.querySelector("#restartButton")?.addEventListener("click", () => speakCurrent(0));
+      document.querySelector("#copyContentButton")?.addEventListener("click", copyContent);
+      document.querySelector("#copyAiButton")?.addEventListener("click", copyForAi);
       if (window.matchMedia("(max-width: 760px)").matches) {
         detailEl.scrollIntoView({ behavior: "smooth", block: "start" });
       }
