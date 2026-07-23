@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T22:11:41",
+  "generated_at": "2026-07-24T07:01:12",
   "total_count": 210,
   "count": 50,
   "limit": 50,
@@ -105,24 +105,6 @@
     },
     {
       "rank": 12,
-      "id": "084eb36d3ae34c3f",
-      "type": "youtube-summary",
-      "title": "【やらなきゃ損だよ】1日たった30分！AIで自動化できる副業3つ紹介します！",
-      "date": "2026-07-11",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=yWvXdxA_8KQ"
-    },
-    {
-      "rank": 13,
-      "id": "e716e4ec6bde40ae",
-      "type": "youtube-summary",
-      "title": "OpenAI最新AI「GPT-5.6」「ChatGPT Work」が登場！Claude Fable 5との比較や新機能を解説してみた",
-      "date": "2026-07-11",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=6W8Qyw8CeDw"
-    },
-    {
-      "rank": 14,
       "id": "53ea7945c7f0052e",
       "type": "youtube-summary",
       "title": "【直撃】工藤公康さんに直球質問。「オファー来たらまた監督やりますか？」その答えに込められた本音とは？",
@@ -131,13 +113,31 @@
       "url": "https://www.youtube.com/watch?v=Z_MJivBihoQ"
     },
     {
-      "rank": 15,
+      "rank": 13,
       "id": "1aab887a43b36361",
       "type": "youtube-summary",
       "title": "【検証】なぜ？川相コーチでなく橋上監督代行だったのか 槙原さんだから知る巨人の裏事情「生え抜きと○○は守るべき」",
       "date": "2026-07-11",
       "playlist": "要約",
       "url": "https://www.youtube.com/watch?v=BqNEqiSb2sU"
+    },
+    {
+      "rank": 14,
+      "id": "084eb36d3ae34c3f",
+      "type": "youtube-summary",
+      "title": "【やらなきゃ損だよ】1日たった30分！AIで自動化できる副業3つ紹介します！",
+      "date": "2026-07-11",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=yWvXdxA_8KQ"
+    },
+    {
+      "rank": 15,
+      "id": "e716e4ec6bde40ae",
+      "type": "youtube-summary",
+      "title": "OpenAI最新AI「GPT-5.6」「ChatGPT Work」が登場！Claude Fable 5との比較や新機能を解説してみた",
+      "date": "2026-07-11",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=6W8Qyw8CeDw"
     },
     {
       "rank": 16,
@@ -159,6 +159,15 @@
     },
     {
       "rank": 18,
+      "id": "159117ecb0b8e147",
+      "type": "youtube-summary",
+      "title": "井上尚弥vs中谷潤人の裏側を石井渡士也が語る｜OPBF東洋太平洋王座獲得後の本音｜ボクサーのSNS活動",
+      "date": "2026-07-09",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=M2T2NRrE6ZQ"
+    },
+    {
+      "rank": 19,
       "id": "bb837d424bff2de4",
       "type": "youtube-summary",
       "title": "【GPT-5.5に迫る!?】超格安オープンモデル「MiniMax M3」徹底解説。Claude Codeの中身を差し替える裏技も実演。100万トークン×画像・音声・動画。《使い方、料金、活用事例》",
@@ -167,7 +176,7 @@
       "url": "https://www.youtube.com/watch?v=yRUUUTIuJmQ"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": "98a6236804b9fae4",
       "type": "youtube-summary",
       "title": "AIがどれだけ進化しても、人間に残り続ける最後の仕事",
@@ -176,7 +185,7 @@
       "url": "https://www.youtube.com/watch?v=S3NuKXJNNB8"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "358d09f22fec56ae",
       "type": "youtube-summary",
       "title": "【これ最高】OpenAI GPT5.6が登場！正直期待以上だったので解説します",
@@ -185,22 +194,13 @@
       "url": "https://www.youtube.com/watch?v=MvRRqNYlym0"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": "9ddb407637d229ba",
       "type": "youtube-summary",
       "title": "【期待以上】『MiniMax M3』を徹底レビュー！日本語もコーディングも別物に進化してました",
       "date": "2026-07-09",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=D6JCFqMSD7I"
-    },
-    {
-      "rank": 22,
-      "id": "159117ecb0b8e147",
-      "type": "youtube-summary",
-      "title": "井上尚弥vs中谷潤人の裏側を石井渡士也が語る｜OPBF東洋太平洋王座獲得後の本音｜ボクサーのSNS活動",
-      "date": "2026-07-09",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=M2T2NRrE6ZQ"
     },
     {
       "rank": 23,
