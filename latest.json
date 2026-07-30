@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T07:01:06",
+  "generated_at": "2026-07-31T07:11:21",
   "total_count": 217,
   "count": 50,
   "limit": 50,
@@ -168,24 +168,6 @@
     },
     {
       "rank": 19,
-      "id": "53ea7945c7f0052e",
-      "type": "youtube-summary",
-      "title": "【直撃】工藤公康さんに直球質問。「オファー来たらまた監督やりますか？」その答えに込められた本音とは？",
-      "date": "2026-07-11",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=Z_MJivBihoQ"
-    },
-    {
-      "rank": 20,
-      "id": "1aab887a43b36361",
-      "type": "youtube-summary",
-      "title": "【検証】なぜ？川相コーチでなく橋上監督代行だったのか 槙原さんだから知る巨人の裏事情「生え抜きと○○は守るべき」",
-      "date": "2026-07-11",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=BqNEqiSb2sU"
-    },
-    {
-      "rank": 21,
       "id": "084eb36d3ae34c3f",
       "type": "youtube-summary",
       "title": "【やらなきゃ損だよ】1日たった30分！AIで自動化できる副業3つ紹介します！",
@@ -194,13 +176,31 @@
       "url": "https://www.youtube.com/watch?v=yWvXdxA_8KQ"
     },
     {
-      "rank": 22,
+      "rank": 20,
       "id": "e716e4ec6bde40ae",
       "type": "youtube-summary",
       "title": "OpenAI最新AI「GPT-5.6」「ChatGPT Work」が登場！Claude Fable 5との比較や新機能を解説してみた",
       "date": "2026-07-11",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=6W8Qyw8CeDw"
+    },
+    {
+      "rank": 21,
+      "id": "53ea7945c7f0052e",
+      "type": "youtube-summary",
+      "title": "【直撃】工藤公康さんに直球質問。「オファー来たらまた監督やりますか？」その答えに込められた本音とは？",
+      "date": "2026-07-11",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=Z_MJivBihoQ"
+    },
+    {
+      "rank": 22,
+      "id": "1aab887a43b36361",
+      "type": "youtube-summary",
+      "title": "【検証】なぜ？川相コーチでなく橋上監督代行だったのか 槙原さんだから知る巨人の裏事情「生え抜きと○○は守るべき」",
+      "date": "2026-07-11",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=BqNEqiSb2sU"
     },
     {
       "rank": 23,
