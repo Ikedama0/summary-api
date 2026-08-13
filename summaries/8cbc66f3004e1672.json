@@ -1,0 +1,11 @@
+{
+  "id": "8cbc66f3004e1672",
+  "type": "ai-news",
+  "title": "メルカリはどうやってClaude Codeを社内で安全に利用する環境を構築しているのか",
+  "date": "2026-08-13",
+  "playlist": "",
+  "url": "https://x.com/AIEducationlabo/status/2087092697807180160",
+  "path": "AI-News/2026-08-13_メルカリはどうやってClaude Codeを社内で安全に利用する環境を構築しているのか_1819063928.md",
+  "updated_at": "2026-08-13T21:10:19",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-08-13\"\nurl: \"https://x.com/AIEducationlabo/status/2087092697807180160\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1819063928\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - tool/claude-code\n  - topic/ocr\n  - action/試す\n  - action/仕事に使う\n---\n\n# メルカリはどうやってClaude Codeを社内で安全に利用する環境を構築しているのか\n\n- URL: https://x.com/AIEducationlabo/status/2087092697807180160\n- Raindrop ID: 1819063928\n- status: success\n\n【Raindrop要約】\nタイトル：\nメルカリはどうやってClaude Codeを社内で安全に利用する環境を構築しているのか\nURL：\nhttps://x.com/AIEducationlabo/status/2087092697807180160\n\n概要：\n- メルカリのAI Securityチームが「Claude Code Meetup Japan #4」（2026年4月10日開催）で発表した、Claude Codeセキュリティ設定の組織配布戦略についての解説投稿。\n- Claude Codeは自律型（ファイル操作・コマンド実行・通信を自分で行う）ため、rm -rf誤実行やcurl経由の情報漏洩などのリスクがあると指摘。\n- メルカリの対策：確認スキップモードの禁止、curl/wget等の外部通信コマンドの拒否・確認必須化、.envやSSHキーの読み取り禁止、sandbox機能での作業範囲制限、CLAUDE.mdへの方針明記。\n- 特に重要なポイントとして、設定内容そのものより「エンジニアと非エンジニアで配布する設定の厳しさを変える」という配布設計を強調している。\n- 中小企業向けの最小設定例（.claude/settings.jsonのdisableBypassPermissionsMode、deny/askリスト）も紹介。\n\n自分に使えそうなポイント：\n- .claude/settings.jsonの最小セット（curl/wget/sudo拒否、.env読み取り禁止、rm/git pushは確認必須）はそのまま自分の環境にも適用できそう。\n- 「誰にどう配るか」という発想は、自分以外にClaude Codeを使う人が増えた場合の参考になる。\n\n参考にすべき点：\n- 設定のキー名（disableBypassPermissionsMode）は記事によって表記が揺れているため、投稿内でもAnthropic公式ドキュメントでの確認を推奨している。\n\n要確認：\n- 投稿はX（旧Twitter）の個人アカウントによる二次情報のまとめであり、一次情報（メルカリのSpeaker Deck、Anthropic公式ドキュメント）は本文中にリンクのみで、詳細内容は未確認。\n- スレッドの他ツイートや引用元がある場合、それらは読めていない可能性がある。\n\n分類候補：\nAI活用 / 資料化\n\n取得状態：\n本文取得成功\n"
+}

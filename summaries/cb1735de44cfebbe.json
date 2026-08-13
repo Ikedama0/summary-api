@@ -1,0 +1,11 @@
+{
+  "id": "cb1735de44cfebbe",
+  "type": "ai-news",
+  "title": "Xユーザーのみなみさん: 「5分で入れられるObsidian公式のAI説明書！それでも足りない1枚を公開します」 / X",
+  "date": "2026-08-13",
+  "playlist": "",
+  "url": "https://x.com/minami_freeup/status/2087652870208553440",
+  "path": "AI-News/2026-08-13_Xユーザーのみなみさん_ 「5分で入れられるObsidian公式のAI説明書！それでも足りない1枚を公開します」 _ X_1819063599.md",
+  "updated_at": "2026-08-13T21:10:27",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-08-13\"\nurl: \"https://x.com/minami_freeup/status/2087652870208553440\"\nsource: \"raindrop-discord-summary-send\"\nraindrop_id: \"1819063599\"\nstatus: \"success\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - obsidian\n  - tool/codex\n  - tool/claude-code\n  - topic/知識管理\n  - action/試す\n---\n\n# Xユーザーのみなみさん: 「5分で入れられるObsidian公式のAI説明書！それでも足りない1枚を公開します」 / X\n\n- URL: https://x.com/minami_freeup/status/2087652870208553440\n- Raindrop ID: 1819063599\n- status: success\n\n【Raindrop要約】\nタイトル：\nXユーザーのみなみさん: 「5分で入れられるObsidian公式のAI説明書！それでも足りない1枚を公開します」 / X\nURL：\nhttps://x.com/minami_freeup/status/2087652870208553440\n\n概要：\n- ObsidianのCEOが無料公開しているAI向け説明書（github.com/kepano/obsidian-skills、テキストファイル5本）を紹介する投稿。\n- 内容はリンク記法・コールアウト・プロパティなどObsidian特有の書き方をAIに教えるもの（obsidian-markdown, obsidian-bases, json-canvas, obsidian-cli, defuddle）。特定ツール専用ではなくClaude CodeでもCodexでも使える。\n- 投稿者は3ヶ月半前に導入済みだったが自覚がなく、実際の活用（コールアウト使用32/1387本、データベースビュー1個、Canvas1個）はほぼ進んでいなかったと報告。\n- 主張の核心：公式説明書は「Obsidianの正しい書き方」しか教えてくれず、「うちのルール（どこに何を置くか、触っていい場所はどこか等）」は自分で別途用意する必要がある。\n- 最低限必要な4項目として、触っていい場所/読むだけの場所の区別、完成物の行き先、迷った時の逃がし先、ルールを直す場所の一本化を提案。\n\n自分に使えそうなポイント：\n- obsidian-skills（GitHub: kepano/obsidian-skills）を導入すると、AIがObsidian記法を正しく使えるようになる可能性。\n- 「うちのルール」を1枚のファイルにまとめてAIに読ませる運用は、自分のObsidian運用にも応用できそう。\n\n参考にすべき点：\n- obsidian-cliでの週次自動点検（孤立メモ・タグ使用回数・リンク切れの棚卸し）というアイデア。\n\n要確認：\n- 投稿はX個人アカウントの一次体験談であり、obsidian-skillsの実際の中身や導入手順の詳細は本文からは確認できていない（GitHubリンク先の未読）。\n- スレッドの他ツイートや引用元がある場合、それらは読めていない可能性がある。\n- 投稿内に有料級/プロモーション的なリンク（note等）が含まれており、その先の内容は未確認。\n\n分類候補：\nAI活用 / 資料化\n\n取得状態：\n本文取得成功\n"
+}
