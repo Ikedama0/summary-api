@@ -1,11 +1,38 @@
 {
-  "generated_at": "2026-08-14T07:11:17",
-  "total_count": 237,
+  "generated_at": "2026-08-14T22:01:29",
+  "total_count": 240,
   "count": 50,
   "limit": 50,
   "items": [
     {
       "rank": 1,
+      "id": "c87404dec36b66a9",
+      "type": "ai-news",
+      "title": "Xユーザーの噛みくだくんさん: 「 Claude×Obsidian繋いで2ヶ月後、AIは本人より本人の考えを分かるようになってました」 / X",
+      "date": "2026-08-14",
+      "playlist": "",
+      "url": "https://x.com/kamikudaku_wani/status/2087841637825221059"
+    },
+    {
+      "rank": 2,
+      "id": "4f204d02d2a4eaa8",
+      "type": "ai-news",
+      "title": "大家玩 Codex，一定记得先把 GitHub 插件接上，真的能省好多Token",
+      "date": "2026-08-14",
+      "playlist": "",
+      "url": "https://x.com/NoraX2026/status/2087720606888497517"
+    },
+    {
+      "rank": 3,
+      "id": "2e047bf09f04041a",
+      "type": "ai-news",
+      "title": "ChatGPT can now remember your activity across the apps and websites on your computer.",
+      "date": "2026-08-14",
+      "playlist": "",
+      "url": "https://x.com/OpenAI/status/2087996496088297746"
+    },
+    {
+      "rank": 4,
       "id": "cb1735de44cfebbe",
       "type": "ai-news",
       "title": "Xユーザーのみなみさん: 「5分で入れられるObsidian公式のAI説明書！それでも足りない1枚を公開します」 / X",
@@ -14,7 +41,7 @@
       "url": "https://x.com/minami_freeup/status/2087652870208553440"
     },
     {
-      "rank": 2,
+      "rank": 5,
       "id": "8cbc66f3004e1672",
       "type": "ai-news",
       "title": "メルカリはどうやってClaude Codeを社内で安全に利用する環境を構築しているのか",
@@ -23,7 +50,7 @@
       "url": "https://x.com/AIEducationlabo/status/2087092697807180160"
     },
     {
-      "rank": 3,
+      "rank": 6,
       "id": "b6768daaaf30af54",
       "type": "youtube-summary",
       "title": "AIエージェントの完全自律化を実現する「ループエンジニアリング」を徹底解説",
@@ -32,7 +59,7 @@
       "url": "https://www.youtube.com/watch?v=PHTtC32D4rY"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "id": "df569e7afc4114e6",
       "type": "youtube-summary",
       "title": "【AIセキュリティのプロが解説】企業を守る最強の対策方法7選‼️Google大型イベント登壇実績ありの講師が教える「AI活用法」",
@@ -41,7 +68,7 @@
       "url": "https://www.youtube.com/watch?v=r7ElCVIWavg"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "id": "4efbf7746d8583be",
       "type": "youtube-summary",
       "title": "【脱・AIデザイン】AI生成でもプロ級のデザインを上手く作るには？【徹底検証】",
@@ -50,7 +77,7 @@
       "url": "https://www.youtube.com/watch?v=KYPBtcGBVS4"
     },
     {
-      "rank": 6,
+      "rank": 9,
       "id": "170c5aef331fde00",
       "type": "youtube-summary",
       "title": "【AIセキュリティのプロ】個人情報が簡単に奪われる現代で最強のセキュリティ対策は？",
@@ -59,7 +86,7 @@
       "url": "https://www.youtube.com/watch?v=K3DwuE_9bps"
     },
     {
-      "rank": 7,
+      "rank": 10,
       "id": "2ea925362103cac5",
       "type": "ai-news",
       "title": "南場智子さんの天才的なAIの使い方。講演で見た\"Claude司令塔\"と、同じ環境の作り方",
@@ -68,7 +95,7 @@
       "url": "https://x.com/uchita_success/status/2086740830103146614?s=20"
     },
     {
-      "rank": 8,
+      "rank": 11,
       "id": "47fadf5f2a0e5d83",
       "type": "youtube-summary",
       "title": "【想像以上】Codexで&quot;仕事の変化が大きかった&quot;仕事活用法3選",
@@ -77,16 +104,7 @@
       "url": "https://www.youtube.com/watch?v=m8nEJCZ8uNc"
     },
     {
-      "rank": 9,
-      "id": "a5156357ea433901",
-      "type": "youtube-summary",
-      "title": "最近話題の「ループエンジニアリング」「グラフエンジニアリング」とは？Claude Codeでの実践例を含めて解説してみた",
-      "date": "2026-08-08",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=cehtaE2YCxc"
-    },
-    {
-      "rank": 10,
+      "rank": 12,
       "id": "186b63860471558c",
       "type": "youtube-summary",
       "title": "【オトナは！OTONAWA！】#02 蓮見翔‹ダウ90000›（前編）【Tropic of Stage】",
@@ -95,7 +113,16 @@
       "url": "https://www.youtube.com/watch?v=croyWFYNlg0"
     },
     {
-      "rank": 11,
+      "rank": 13,
+      "id": "a5156357ea433901",
+      "type": "youtube-summary",
+      "title": "最近話題の「ループエンジニアリング」「グラフエンジニアリング」とは？Claude Codeでの実践例を含めて解説してみた",
+      "date": "2026-08-08",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=cehtaE2YCxc"
+    },
+    {
+      "rank": 14,
       "id": "1774d6e41ec50d48",
       "type": "youtube-summary",
       "title": "【夏休みで習得】AIエージェントをゼロから最速で使いこせる基礎講義！ClaudeCode使って教えます！",
@@ -104,7 +131,7 @@
       "url": "https://www.youtube.com/watch?v=ZKIEEbx4200"
     },
     {
-      "rank": 12,
+      "rank": 15,
       "id": "38f29d797c5d2d08",
       "type": "youtube-summary",
       "title": "【#AIニュース】Google激震、ハサビス氏がDeepMind会長へ！パロアルトネットワークスがGoogleのパスキー突破法を報告 | 2026.08.06 | No.151",
@@ -113,7 +140,7 @@
       "url": "https://www.youtube.com/watch?v=rJiiPA5gXYo"
     },
     {
-      "rank": 13,
+      "rank": 16,
       "id": "de8bc55fcf5cf341",
       "type": "youtube-summary",
       "title": "【100年に一度】今、我々は「シンギュラリティ」のど真ん中にいる",
@@ -122,7 +149,7 @@
       "url": "https://www.youtube.com/watch?v=KXDUvNggpgw"
     },
     {
-      "rank": 14,
+      "rank": 17,
       "id": "300b609d88bcf3d1",
       "type": "youtube-summary",
       "title": "【マジ簡単】Obsidianで案件をまたいで仕事を理解するAIを作成",
@@ -131,7 +158,7 @@
       "url": "https://www.youtube.com/watch?v=SmU2iFeO_lQ"
     },
     {
-      "rank": 15,
+      "rank": 18,
       "id": "b28ad6e661850a4b",
       "type": "youtube-summary",
       "title": "注目AIニュース15選～AI2040、GAFAMのAI投資、AIエージェントが勝手に暴走、Gemini Spark プロプラン対応など",
@@ -140,7 +167,7 @@
       "url": "https://www.youtube.com/watch?v=umtCXdopQAM"
     },
     {
-      "rank": 16,
+      "rank": 19,
       "id": "50dbbaa5f67391b8",
       "type": "youtube-summary",
       "title": "【ターミナル入門#3】ターミナルからAIエージェントを立ち上げる。【Cursor/Claude Code/Codex×Obsidian】",
@@ -149,7 +176,7 @@
       "url": "https://www.youtube.com/watch?v=Zn7ZQgx3i2U"
     },
     {
-      "rank": 17,
+      "rank": 20,
       "id": "62b36d8a1298323a",
       "type": "youtube-summary",
       "title": "シリコンバレーは中国AIの導入をもう始めている | オープンウェイトモデルAI徹底解説",
@@ -158,7 +185,7 @@
       "url": "https://www.youtube.com/watch?v=zARmWSzFxmo"
     },
     {
-      "rank": 18,
+      "rank": 21,
       "id": "52be0cdc456b397c",
       "type": "youtube-summary",
       "title": "【二極化】一番ありえる「未来の社会」ではAIを支配する人と超低賃金で働く人に分かれる",
@@ -167,7 +194,7 @@
       "url": "https://www.youtube.com/watch?v=mW-iJyt7Pq0"
     },
     {
-      "rank": 19,
+      "rank": 22,
       "id": "c89fa955692a0769",
       "type": "youtube-summary",
       "title": "【ゆる解説】ループエンジニアリングって何？ / なぜ第一線のエンジニアが「プロンプトを書くな」と言っているのか / &quot;Human in the Loop&quot;から&quot;Human on the Loop&quot;へ",
@@ -176,7 +203,7 @@
       "url": "https://www.youtube.com/watch?v=K6KX41tLH2s"
     },
     {
-      "rank": 20,
+      "rank": 23,
       "id": "6161c4d1c7104a63",
       "type": "youtube-summary",
       "title": "【保存版】公式が発表したCodexを100倍賢くする、とっておきの裏技を徹底解説します",
@@ -185,7 +212,7 @@
       "url": "https://www.youtube.com/watch?v=GHFPYhIlYKg"
     },
     {
-      "rank": 21,
+      "rank": 24,
       "id": "97c6cdb944429b6c",
       "type": "youtube-summary",
       "title": "【🕰️60分➡︎15分に短縮】 効率的にAIエージェントを作るなら人のをパクった方が早い🔥厳選したエージェントをご紹介",
@@ -194,7 +221,7 @@
       "url": "https://www.youtube.com/watch?v=BtuV9BG2Cds"
     },
     {
-      "rank": 22,
+      "rank": 25,
       "id": "254c955f31f92315",
       "type": "youtube-summary",
       "title": "アメリカ一強が崩れた！「中華AI」を初心者向けにカンタン解説。オススメの使い方と危険ポイントとは？",
@@ -203,7 +230,7 @@
       "url": "https://www.youtube.com/watch?v=6UQEfJNsTUQ"
     },
     {
-      "rank": 23,
+      "rank": 26,
       "id": "bedc233aeb51dff1",
       "type": "youtube-summary",
       "title": "【有料級】Claudeの Fable 5とOpus 5の本質的な使い分け解説！なぜOpusではダメと感じるのか？実践知ベースで解説します",
@@ -212,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=hCj-GqjRCBU"
     },
     {
-      "rank": 24,
+      "rank": 27,
       "id": "e0795bda8a79b699",
       "type": "youtube-summary",
       "title": "Claude最新！新モデルOpus 5が予想以上に凄かったのでプロンプトのコツ含めて解説してみた",
@@ -221,7 +248,7 @@
       "url": "https://www.youtube.com/watch?v=t1EtbULiF4Q"
     },
     {
-      "rank": 25,
+      "rank": 28,
       "id": "fdd127275ec5bf88",
       "type": "youtube-summary",
       "title": "最新技術MCPの正体は、「すごい説明書」でした。",
@@ -230,7 +257,7 @@
       "url": "https://www.youtube.com/watch?v=RTMH7X8BNvg"
     },
     {
-      "rank": 26,
+      "rank": 29,
       "id": "f4746ec06ce4afa9",
       "type": "youtube-summary",
       "title": "ガチで命拾いしたので本気出す。僕の会社は何をしてるか話します。",
@@ -239,7 +266,7 @@
       "url": "https://www.youtube.com/watch?v=_gIkptDTi5Y"
     },
     {
-      "rank": 27,
+      "rank": 30,
       "id": "3fe979dad0af172f",
       "type": "youtube-summary",
       "title": "AIの運用法がガラっと変わる：簡単に最新・最適を実現する仕組み",
@@ -248,7 +275,7 @@
       "url": "https://www.youtube.com/watch?v=GAa7tTPKZeI"
     },
     {
-      "rank": 28,
+      "rank": 31,
       "id": "529f664c25c951c3",
       "type": "youtube-summary",
       "title": "【Claude Fable5】最強AIプレイヤーが稼ぐために「AIにやらせてること」を暴露します",
@@ -257,7 +284,7 @@
       "url": "https://www.youtube.com/watch?v=YHaVog3xsXY"
     },
     {
-      "rank": 29,
+      "rank": 32,
       "id": "88e12d7f5a8203fa",
       "type": "ai-news",
       "title": "【Excelダウンロード】Claude Fable 5 使いどころ事例集「部門別」実用プロンプト8選",
@@ -266,7 +293,7 @@
       "url": "https://www.sbbit.jp/document/24226"
     },
     {
-      "rank": 30,
+      "rank": 33,
       "id": "6f922592f5c52391",
       "type": "ai-news",
       "title": "暗記ものは息吐く後半がいい？ 音読やシャドーイングに効果がある訳",
@@ -275,7 +302,7 @@
       "url": "https://www.asahi.com/sp/articles/ASV7F24QYV7FUTFL00SM.html"
     },
     {
-      "rank": 31,
+      "rank": 34,
       "id": "266af7a6549f0060",
       "type": "ai-news",
       "title": "新幹線西九州ルートのアセス合意 「並々ならぬ思い」だった国交次官",
@@ -284,7 +311,7 @@
       "url": "https://www.asahi.com/sp/articles/ASV7K5220V7KULFA03KM.html"
     },
     {
-      "rank": 32,
+      "rank": 35,
       "id": "380328318b47cafa",
       "type": "ai-news",
       "title": "iOS27のメモアプリのすべての新機能！分割線やセクションへのリンク機能などが追加 - iPhone Mania",
@@ -293,7 +320,7 @@
       "url": "https://iphone-mania.jp/ios-603628/"
     },
     {
-      "rank": 33,
+      "rank": 36,
       "id": "b95cde2ac54a69a1",
       "type": "youtube-summary",
       "title": "【ベトナム出張】ClaudeCodeで人の仕事が減っていることを痛感した話",
@@ -302,7 +329,7 @@
       "url": "https://www.youtube.com/watch?v=Wr39SldmgWg"
     },
     {
-      "rank": 34,
+      "rank": 37,
       "id": "667c09d454344750",
       "type": "youtube-summary",
       "title": "アメリカがAI戦略をしくじった。覇権を取るのは日本か〇〇です。",
@@ -311,7 +338,7 @@
       "url": "https://www.youtube.com/watch?v=WxnKQHmTPe4"
     },
     {
-      "rank": 35,
+      "rank": 38,
       "id": "c2c05b9f8e560077",
       "type": "youtube-summary",
       "title": "人間はほぼ何もしない。Claude Fable 5にアプリ開発を全任せしてみた結果...",
@@ -320,7 +347,7 @@
       "url": "https://www.youtube.com/watch?v=lfVOtkMYbyA"
     },
     {
-      "rank": 36,
+      "rank": 39,
       "id": "a8d7a87e3183fd01",
       "type": "youtube-summary",
       "title": "【限界突破】最強AI ClaudeCode FableとGPT-5.6 Sol使い倒した実体験をもとに、おすすめはどっちか教えます",
@@ -329,7 +356,7 @@
       "url": "https://www.youtube.com/watch?v=XQn9bevPEM8"
     },
     {
-      "rank": 37,
+      "rank": 40,
       "id": "a297222a6cb42bef",
       "type": "youtube-summary",
       "title": "Copilot『Cowork』が凄く良い！実務で使えるAIエージェントだった【徹底解説&amp;AI活用事例まとめ】",
@@ -338,7 +365,7 @@
       "url": "https://www.youtube.com/watch?v=OOr-LSvWEt8"
     },
     {
-      "rank": 38,
+      "rank": 41,
       "id": "666defe6d5504ce5",
       "type": "youtube-summary",
       "title": "【新機能】Codexが「仕事の型」を覚えて、繰り返し業務を自動実行",
@@ -347,7 +374,7 @@
       "url": "https://www.youtube.com/watch?v=GQyf26j00xk"
     },
     {
-      "rank": 39,
+      "rank": 42,
       "id": "084eb36d3ae34c3f",
       "type": "youtube-summary",
       "title": "【やらなきゃ損だよ】1日たった30分！AIで自動化できる副業3つ紹介します！",
@@ -356,7 +383,7 @@
       "url": "https://www.youtube.com/watch?v=yWvXdxA_8KQ"
     },
     {
-      "rank": 40,
+      "rank": 43,
       "id": "e716e4ec6bde40ae",
       "type": "youtube-summary",
       "title": "OpenAI最新AI「GPT-5.6」「ChatGPT Work」が登場！Claude Fable 5との比較や新機能を解説してみた",
@@ -365,7 +392,7 @@
       "url": "https://www.youtube.com/watch?v=6W8Qyw8CeDw"
     },
     {
-      "rank": 41,
+      "rank": 44,
       "id": "53ea7945c7f0052e",
       "type": "youtube-summary",
       "title": "【直撃】工藤公康さんに直球質問。「オファー来たらまた監督やりますか？」その答えに込められた本音とは？",
@@ -374,7 +401,7 @@
       "url": "https://www.youtube.com/watch?v=Z_MJivBihoQ"
     },
     {
-      "rank": 42,
+      "rank": 45,
       "id": "1aab887a43b36361",
       "type": "youtube-summary",
       "title": "【検証】なぜ？川相コーチでなく橋上監督代行だったのか 槙原さんだから知る巨人の裏事情「生え抜きと○○は守るべき」",
@@ -383,7 +410,7 @@
       "url": "https://www.youtube.com/watch?v=BqNEqiSb2sU"
     },
     {
-      "rank": 43,
+      "rank": 46,
       "id": "f95818ad6f73508d",
       "type": "youtube-summary",
       "title": "【速報】&quot;強すぎて封印&quot;のGPT-5.6がついに解禁。総合1位はまだClaudeか？Sol・Codex・Geminiと実機比較して分かった「速さのGPT、深さのClaude」の使い分けを徹底解説",
@@ -392,7 +419,7 @@
       "url": "https://www.youtube.com/watch?v=RzE99_WzZog"
     },
     {
-      "rank": 44,
+      "rank": 47,
       "id": "650082e832757e28",
       "type": "youtube-summary",
       "title": "AIエージェントを思い通りに動かす5つのコツ。無駄なAI知識は忘れてください。",
@@ -401,7 +428,7 @@
       "url": "https://www.youtube.com/watch?v=FM9wm9YIM2o"
     },
     {
-      "rank": 45,
+      "rank": 48,
       "id": "bb837d424bff2de4",
       "type": "youtube-summary",
       "title": "【GPT-5.5に迫る!?】超格安オープンモデル「MiniMax M3」徹底解説。Claude Codeの中身を差し替える裏技も実演。100万トークン×画像・音声・動画。《使い方、料金、活用事例》",
@@ -410,7 +437,7 @@
       "url": "https://www.youtube.com/watch?v=yRUUUTIuJmQ"
     },
     {
-      "rank": 46,
+      "rank": 49,
       "id": "98a6236804b9fae4",
       "type": "youtube-summary",
       "title": "AIがどれだけ進化しても、人間に残り続ける最後の仕事",
@@ -419,40 +446,13 @@
       "url": "https://www.youtube.com/watch?v=S3NuKXJNNB8"
     },
     {
-      "rank": 47,
+      "rank": 50,
       "id": "358d09f22fec56ae",
       "type": "youtube-summary",
       "title": "【これ最高】OpenAI GPT5.6が登場！正直期待以上だったので解説します",
       "date": "2026-07-09",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=MvRRqNYlym0"
-    },
-    {
-      "rank": 48,
-      "id": "9ddb407637d229ba",
-      "type": "youtube-summary",
-      "title": "【期待以上】『MiniMax M3』を徹底レビュー！日本語もコーディングも別物に進化してました",
-      "date": "2026-07-09",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=D6JCFqMSD7I"
-    },
-    {
-      "rank": 49,
-      "id": "159117ecb0b8e147",
-      "type": "youtube-summary",
-      "title": "井上尚弥vs中谷潤人の裏側を石井渡士也が語る｜OPBF東洋太平洋王座獲得後の本音｜ボクサーのSNS活動",
-      "date": "2026-07-09",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=M2T2NRrE6ZQ"
-    },
-    {
-      "rank": 50,
-      "id": "276b566e0d3571ad",
-      "type": "youtube-summary",
-      "title": "higgsfield 1 person business ideas making $10k/month",
-      "date": "2026-07-08",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=OAZYnTVLUj0"
     }
   ]
 }
