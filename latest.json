@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T22:01:22",
+  "generated_at": "2026-08-24T22:11:48",
   "total_count": 16,
   "count": 16,
   "limit": 50,
@@ -15,21 +15,21 @@
     },
     {
       "rank": 2,
-      "id": "1e937d7110454dc3",
-      "type": "youtube-summary",
-      "title": "【上級者の日常】AI使うの上手い人はこの方法で音声入力している",
-      "date": "2026-08-21",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=vVGYnI0SMYo"
-    },
-    {
-      "rank": 3,
       "id": "9c83988bff9026a7",
       "type": "youtube-summary",
       "title": "【ループエンジニアリングとは？】AIにプロンプトはもう要らない、、非エンジニアも必見！安野が最新AI×仕事効率を解説【安野貴博】",
       "date": "2026-08-21",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=_3QwwydG4ic"
+    },
+    {
+      "rank": 3,
+      "id": "1e937d7110454dc3",
+      "type": "youtube-summary",
+      "title": "【上級者の日常】AI使うの上手い人はこの方法で音声入力している",
+      "date": "2026-08-21",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=vVGYnI0SMYo"
     },
     {
       "rank": 4,
@@ -96,21 +96,21 @@
     },
     {
       "rank": 11,
-      "id": "186b63860471558c",
-      "type": "youtube-summary",
-      "title": "【オトナは！OTONAWA！】#02 蓮見翔‹ダウ90000›（前編）【Tropic of Stage】",
-      "date": "2026-08-08",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=croyWFYNlg0"
-    },
-    {
-      "rank": 12,
       "id": "a5156357ea433901",
       "type": "youtube-summary",
       "title": "最近話題の「ループエンジニアリング」「グラフエンジニアリング」とは？Claude Codeでの実践例を含めて解説してみた",
       "date": "2026-08-08",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=cehtaE2YCxc"
+    },
+    {
+      "rank": 12,
+      "id": "186b63860471558c",
+      "type": "youtube-summary",
+      "title": "【オトナは！OTONAWA！】#02 蓮見翔‹ダウ90000›（前編）【Tropic of Stage】",
+      "date": "2026-08-08",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=croyWFYNlg0"
     },
     {
       "rank": 13,
