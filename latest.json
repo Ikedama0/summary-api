@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T22:13:19",
+  "generated_at": "2026-08-26T07:01:12",
   "total_count": 17,
   "count": 17,
   "limit": 50,
@@ -105,21 +105,21 @@
     },
     {
       "rank": 12,
-      "id": "a5156357ea433901",
-      "type": "youtube-summary",
-      "title": "最近話題の「ループエンジニアリング」「グラフエンジニアリング」とは？Claude Codeでの実践例を含めて解説してみた",
-      "date": "2026-08-08",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=cehtaE2YCxc"
-    },
-    {
-      "rank": 13,
       "id": "186b63860471558c",
       "type": "youtube-summary",
       "title": "【オトナは！OTONAWA！】#02 蓮見翔‹ダウ90000›（前編）【Tropic of Stage】",
       "date": "2026-08-08",
       "playlist": "要約",
       "url": "https://www.youtube.com/watch?v=croyWFYNlg0"
+    },
+    {
+      "rank": 13,
+      "id": "a5156357ea433901",
+      "type": "youtube-summary",
+      "title": "最近話題の「ループエンジニアリング」「グラフエンジニアリング」とは？Claude Codeでの実践例を含めて解説してみた",
+      "date": "2026-08-08",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=cehtaE2YCxc"
     },
     {
       "rank": 14,
