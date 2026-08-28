@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-28T22:01:32",
-  "total_count": 22,
-  "count": 22,
+  "generated_at": "2026-08-28T22:13:13",
+  "total_count": 23,
+  "count": 23,
   "limit": 50,
   "items": [
     {
@@ -15,11 +15,11 @@
     },
     {
       "rank": 2,
-      "id": "f6e6f08bfcbd8409",
+      "id": "90a47a0a49002656",
       "type": "youtube-summary",
       "title": "未来で流行るAI社員とは？YouTubeで誰でも話してない本当の形を教えます",
       "date": "2026-08-25",
-      "playlist": "要約",
+      "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=iahxsJLPlaA"
     },
     {
@@ -33,15 +33,6 @@
     },
     {
       "rank": 4,
-      "id": "a3cb2505e98b39eb",
-      "type": "youtube-summary",
-      "title": "⑤【CSの新ルール】このままだとソフトバンクは確実にアドバンテージ2勝を得てしまう！パ・リーグは来年も1強5弱の危機！【藤本博史】【池田親興】【高橋慶彦】【広島東洋カープ】【プロ野球OB】",
-      "date": "2026-08-23",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=TD9aIJoBtm4"
-    },
-    {
-      "rank": 5,
       "id": "7448b99e6a63409d",
       "type": "youtube-summary",
       "title": "【最新版】世界1わかりやすいSkills超入門解説！Claude Codeが生まれ変わる！？",
@@ -50,16 +41,16 @@
       "url": "https://www.youtube.com/watch?v=ORUOLCQvpUk"
     },
     {
-      "rank": 6,
-      "id": "e28bad9db8354195",
+      "rank": 5,
+      "id": "a3cb2505e98b39eb",
       "type": "youtube-summary",
-      "title": "【Tシャツが乾くまで】 不倫よりタチが悪い？どうやって観たらいいドラマ？混乱と絶叫の神脚本と演技白熱解説 7話ネタバレあり直後感想考察①【蒼井優 中島歩 松山ケンイチ 夏帆】",
-      "date": "2026-08-21",
+      "title": "⑤【CSの新ルール】このままだとソフトバンクは確実にアドバンテージ2勝を得てしまう！パ・リーグは来年も1強5弱の危機！【藤本博史】【池田親興】【高橋慶彦】【広島東洋カープ】【プロ野球OB】",
+      "date": "2026-08-23",
       "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=C1wPa-Xz15c"
+      "url": "https://www.youtube.com/watch?v=TD9aIJoBtm4"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "1e937d7110454dc3",
       "type": "youtube-summary",
       "title": "【上級者の日常】AI使うの上手い人はこの方法で音声入力している",
@@ -68,13 +59,22 @@
       "url": "https://www.youtube.com/watch?v=vVGYnI0SMYo"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "id": "9c83988bff9026a7",
       "type": "youtube-summary",
       "title": "【ループエンジニアリングとは？】AIにプロンプトはもう要らない、、非エンジニアも必見！安野が最新AI×仕事効率を解説【安野貴博】",
       "date": "2026-08-21",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=_3QwwydG4ic"
+    },
+    {
+      "rank": 8,
+      "id": "e28bad9db8354195",
+      "type": "youtube-summary",
+      "title": "【Tシャツが乾くまで】 不倫よりタチが悪い？どうやって観たらいいドラマ？混乱と絶叫の神脚本と演技白熱解説 7話ネタバレあり直後感想考察①【蒼井優 中島歩 松山ケンイチ 夏帆】",
+      "date": "2026-08-21",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=C1wPa-Xz15c"
     },
     {
       "rank": 9,
@@ -96,6 +96,15 @@
     },
     {
       "rank": 11,
+      "id": "d22d8186ef2fafae",
+      "type": "youtube-summary",
+      "title": "【保存版】5分で実践！超簡単ループエンジニアリング",
+      "date": "2026-08-15",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=ifAt7nkaTww"
+    },
+    {
+      "rank": 12,
       "id": "cc829526489684d2",
       "type": "youtube-summary",
       "title": "【意外な事実】稼ぐ人が愛用するAIは懐かしい「あのAI」だった。実際どう使うのかも詳しく教える",
@@ -104,7 +113,7 @@
       "url": "https://www.youtube.com/watch?v=H9WxW-FPym4"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": "b6768daaaf30af54",
       "type": "youtube-summary",
       "title": "AIエージェントの完全自律化を実現する「ループエンジニアリング」を徹底解説",
@@ -113,7 +122,7 @@
       "url": "https://www.youtube.com/watch?v=PHTtC32D4rY"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "df569e7afc4114e6",
       "type": "youtube-summary",
       "title": "【AIセキュリティのプロが解説】企業を守る最強の対策方法7選‼️Google大型イベント登壇実績ありの講師が教える「AI活用法」",
@@ -122,7 +131,7 @@
       "url": "https://www.youtube.com/watch?v=r7ElCVIWavg"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "4efbf7746d8583be",
       "type": "youtube-summary",
       "title": "【脱・AIデザイン】AI生成でもプロ級のデザインを上手く作るには？【徹底検証】",
@@ -131,7 +140,7 @@
       "url": "https://www.youtube.com/watch?v=KYPBtcGBVS4"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "170c5aef331fde00",
       "type": "youtube-summary",
       "title": "【AIセキュリティのプロ】個人情報が簡単に奪われる現代で最強のセキュリティ対策は？",
@@ -140,22 +149,13 @@
       "url": "https://www.youtube.com/watch?v=K3DwuE_9bps"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "47fadf5f2a0e5d83",
       "type": "youtube-summary",
       "title": "【想像以上】Codexで&quot;仕事の変化が大きかった&quot;仕事活用法3選",
       "date": "2026-08-10",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=m8nEJCZ8uNc"
-    },
-    {
-      "rank": 17,
-      "id": "186b63860471558c",
-      "type": "youtube-summary",
-      "title": "【オトナは！OTONAWA！】#02 蓮見翔‹ダウ90000›（前編）【Tropic of Stage】",
-      "date": "2026-08-08",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=croyWFYNlg0"
     },
     {
       "rank": 18,
@@ -168,6 +168,15 @@
     },
     {
       "rank": 19,
+      "id": "186b63860471558c",
+      "type": "youtube-summary",
+      "title": "【オトナは！OTONAWA！】#02 蓮見翔‹ダウ90000›（前編）【Tropic of Stage】",
+      "date": "2026-08-08",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=croyWFYNlg0"
+    },
+    {
+      "rank": 20,
       "id": "1774d6e41ec50d48",
       "type": "youtube-summary",
       "title": "【夏休みで習得】AIエージェントをゼロから最速で使いこせる基礎講義！ClaudeCode使って教えます！",
@@ -176,7 +185,7 @@
       "url": "https://www.youtube.com/watch?v=ZKIEEbx4200"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "38f29d797c5d2d08",
       "type": "youtube-summary",
       "title": "【#AIニュース】Google激震、ハサビス氏がDeepMind会長へ！パロアルトネットワークスがGoogleのパスキー突破法を報告 | 2026.08.06 | No.151",
@@ -185,7 +194,7 @@
       "url": "https://www.youtube.com/watch?v=rJiiPA5gXYo"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": "de8bc55fcf5cf341",
       "type": "youtube-summary",
       "title": "【100年に一度】今、我々は「シンギュラリティ」のど真ん中にいる",
@@ -194,7 +203,7 @@
       "url": "https://www.youtube.com/watch?v=KXDUvNggpgw"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": "300b609d88bcf3d1",
       "type": "youtube-summary",
       "title": "【マジ簡単】Obsidianで案件をまたいで仕事を理解するAIを作成",
