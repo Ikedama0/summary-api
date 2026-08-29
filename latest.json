@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T22:01:27",
+  "generated_at": "2026-08-29T22:11:55",
   "total_count": 25,
   "count": 25,
   "limit": 50,
@@ -33,11 +33,11 @@
     },
     {
       "rank": 4,
-      "id": "f6e6f08bfcbd8409",
+      "id": "90a47a0a49002656",
       "type": "youtube-summary",
       "title": "未来で流行るAI社員とは？YouTubeで誰でも話してない本当の形を教えます",
       "date": "2026-08-25",
-      "playlist": "要約",
+      "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=iahxsJLPlaA"
     },
     {
@@ -51,15 +51,6 @@
     },
     {
       "rank": 6,
-      "id": "a3cb2505e98b39eb",
-      "type": "youtube-summary",
-      "title": "⑤【CSの新ルール】このままだとソフトバンクは確実にアドバンテージ2勝を得てしまう！パ・リーグは来年も1強5弱の危機！【藤本博史】【池田親興】【高橋慶彦】【広島東洋カープ】【プロ野球OB】",
-      "date": "2026-08-23",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=TD9aIJoBtm4"
-    },
-    {
-      "rank": 7,
       "id": "7448b99e6a63409d",
       "type": "youtube-summary",
       "title": "【最新版】世界1わかりやすいSkills超入門解説！Claude Codeが生まれ変わる！？",
@@ -68,16 +59,16 @@
       "url": "https://www.youtube.com/watch?v=ORUOLCQvpUk"
     },
     {
-      "rank": 8,
-      "id": "e28bad9db8354195",
+      "rank": 7,
+      "id": "a3cb2505e98b39eb",
       "type": "youtube-summary",
-      "title": "【Tシャツが乾くまで】 不倫よりタチが悪い？どうやって観たらいいドラマ？混乱と絶叫の神脚本と演技白熱解説 7話ネタバレあり直後感想考察①【蒼井優 中島歩 松山ケンイチ 夏帆】",
-      "date": "2026-08-21",
+      "title": "⑤【CSの新ルール】このままだとソフトバンクは確実にアドバンテージ2勝を得てしまう！パ・リーグは来年も1強5弱の危機！【藤本博史】【池田親興】【高橋慶彦】【広島東洋カープ】【プロ野球OB】",
+      "date": "2026-08-23",
       "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=C1wPa-Xz15c"
+      "url": "https://www.youtube.com/watch?v=TD9aIJoBtm4"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "id": "1e937d7110454dc3",
       "type": "youtube-summary",
       "title": "【上級者の日常】AI使うの上手い人はこの方法で音声入力している",
@@ -86,13 +77,22 @@
       "url": "https://www.youtube.com/watch?v=vVGYnI0SMYo"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "9c83988bff9026a7",
       "type": "youtube-summary",
       "title": "【ループエンジニアリングとは？】AIにプロンプトはもう要らない、、非エンジニアも必見！安野が最新AI×仕事効率を解説【安野貴博】",
       "date": "2026-08-21",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=_3QwwydG4ic"
+    },
+    {
+      "rank": 10,
+      "id": "e28bad9db8354195",
+      "type": "youtube-summary",
+      "title": "【Tシャツが乾くまで】 不倫よりタチが悪い？どうやって観たらいいドラマ？混乱と絶叫の神脚本と演技白熱解説 7話ネタバレあり直後感想考察①【蒼井優 中島歩 松山ケンイチ 夏帆】",
+      "date": "2026-08-21",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=C1wPa-Xz15c"
     },
     {
       "rank": 11,
@@ -177,21 +177,21 @@
     },
     {
       "rank": 20,
-      "id": "186b63860471558c",
-      "type": "youtube-summary",
-      "title": "【オトナは！OTONAWA！】#02 蓮見翔‹ダウ90000›（前編）【Tropic of Stage】",
-      "date": "2026-08-08",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=croyWFYNlg0"
-    },
-    {
-      "rank": 21,
       "id": "a5156357ea433901",
       "type": "youtube-summary",
       "title": "最近話題の「ループエンジニアリング」「グラフエンジニアリング」とは？Claude Codeでの実践例を含めて解説してみた",
       "date": "2026-08-08",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=cehtaE2YCxc"
+    },
+    {
+      "rank": 21,
+      "id": "186b63860471558c",
+      "type": "youtube-summary",
+      "title": "【オトナは！OTONAWA！】#02 蓮見翔‹ダウ90000›（前編）【Tropic of Stage】",
+      "date": "2026-08-08",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=croyWFYNlg0"
     },
     {
       "rank": 22,
