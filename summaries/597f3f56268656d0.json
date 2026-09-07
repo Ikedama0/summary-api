@@ -1,0 +1,11 @@
+{
+  "id": "597f3f56268656d0",
+  "type": "ai-news",
+  "title": "九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO",
+  "date": "2026-09-07",
+  "playlist": "",
+  "url": "https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/",
+  "path": "AI-News/2026-09-07_九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました _ DevelopersIO_18364.md",
+  "updated_at": "2026-09-07T07:09:57",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-09-07\"\nurl: \"https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/\"\nsource: \"raindrop_summary_runner\"\nraindrop_id: \"1836494140\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - tool/claude-code\n---\n\n# 九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO\n\n- URL: https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/\n- Raindrop ID: 1836494140\n\n## 記事情報\n**タイトル:** 九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO\n**URL:** [https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/](https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/)\n**取得日時:** 2026-09-06 22:09 UTC\n\n## 3行要約\n九州大学でのClaude Codeを用いたハンズオン講義の成果を基に、誰でもプロダクトが作成できるワークショップキットがGitHubに公開された。キットは参加者のフィードバックを反映して改善され、具体的なスキルを通じて成果物を作成することが可能。ハンズオン形式では、実践的な学びが得られる。\n\n## 重要ポイント\n- 2026年4月に九州大学で行われたハンズオン講義の事例が公開。\n- 受講生の80-90%が2日間でプロトタイプを完成。\n- 満足度は5点満点中4.59。\n- フィードバックをもとにワークショップキットがブラッシュアップされてGitHubに公開。\n- キットは一人でも体験可能で、実際に「アイデアを形にする」プロセスが学べる。\n- 参加者は課題と解決策を持ち込んでプロダクトを開発。\n\n## 筆者の主張\nClaude Codeを利用したプロダクト開発は、プロトタイプ作成の時間を大幅に短縮できる。考える時間を確保するために、効率的かつ再現性の高いプロセスが求められる。ワークショップキットはこの実践をサポートする役割を担っている。\n\n## 具体例・事実\n- 講義では、約60名の大学院生が参加し、参加者の80〜90%がプロトタイプを完成。\n- 受講後のアンケートで高い満足度を獲得。\n- キットは、インストール手順からスキルの利用法までを明示し、初学者でも実施しやすい設計。\n\n## 読む価値\nこの記事は、プロダクト開発における新しいアプローチを学ぶための手法や実践例を詳しく理解する手助けとなる。AIを活用した開発についての知識を深めたい人に特に有益。\n\n## 優先度\n高 - 実践的なスキルの習得に有益で、AI活用のトレンドを学ぶ上でも重要な情報を提供しているため。\n"
+}

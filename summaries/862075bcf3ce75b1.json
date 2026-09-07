@@ -1,0 +1,11 @@
+{
+  "id": "862075bcf3ce75b1",
+  "type": "ai-news",
+  "title": "Copilotに毎回同じ長いプロンプトを書くのは面倒！ ファイルごとのルールを覚えさせる技【残業を減らす！Officeテクニック】",
+  "date": "2026-09-07",
+  "playlist": "",
+  "url": "https://forest.watch.impress.co.jp/docs/serial/offitech/2136697.html",
+  "path": "AI-News/2026-09-07_Copilotに毎回同じ長いプロンプトを書くのは面倒！ ファイルごとのルールを覚えさせる技【残業を減らす！Officeテクニック】_1840494910.md",
+  "updated_at": "2026-09-07T07:09:46",
+  "content": "---\ntype: \"ai-news\"\ndate: \"2026-09-07\"\nurl: \"https://forest.watch.impress.co.jp/docs/serial/offitech/2136697.html\"\nsource: \"raindrop_summary_runner\"\nraindrop_id: \"1840494910\"\ntags:\n  - \"ai-news\"\n  - \"article\"\n  - \"raindrop\"\n  - workflow/業務改善\n---\n\n# Copilotに毎回同じ長いプロンプトを書くのは面倒！ ファイルごとのルールを覚えさせる技【残業を減らす！Officeテクニック】\n\n- URL: https://forest.watch.impress.co.jp/docs/serial/offitech/2136697.html\n- Raindrop ID: 1840494910\n\n## 記事情報\nタイトル: Copilotに毎回同じ長いプロンプトを書くのは面倒！ ファイルごとのルールを覚えさせる技【残業を減らす！Officeテクニック】\nURL: [https://forest.watch.impress.co.jp/docs/serial/offitech/2136697.html](https://forest.watch.impress.co.jp/docs/serial/offitech/2136697.html)\n取得日時: 2026-09-06 22:09 UTC\n\n## 3行要約\nExcelのCopilotを使用する際、毎回長いプロンプトを入力するのは面倒。ファイルごとに「.Rules」シートを作成し、分析方針を設定することで手間を省ける。これにより、同じプロンプトで迅速に効率的な分析が可能になる。\n\n## 重要ポイント\n- Copilot機能は、表の分析やグラフ作成を簡略化する。\n- 同じプロンプトを何度も入力する手間を軽減するために「.Rules」シートを利用。\n- 分析方針を「.Rules」シートに記入し、ファイル共有でもルールが引き継がれる。\n- 個人設定と「.Rules」シートの役割を分けることで、より効率的な活用ができる。\n\n## 筆者の主張\nCopilotを利用する際、長いプロンプトを繰り返さず「.Rules」シートに分析方針を設定することで、Excelでの作業を効率化でき、残業を減らせると主張している。\n\n## 具体例・事実\n- 具体的なルール例として、担当者ごとの「完了」「対応中」「折り返し待ち」の割合を集計するものが挙げられている。\n- 毎月の問い合わせ記録分析では、KPIや詳細なダッシュボードは不要で、担当者の対応状況を確認するだけで済むという例が示されている。\n- 「.Rules」シートに設定するルールは、英語のみ完全にサポートされている。\n\n## 読む価値\nExcelのCopilot機能を効率的に活用する方法を学ぶことができ、特に繰り返し行う業務に役立つ実践的なテクニックが含まれているため、読む価値がある。\n\n## 優先度\n高\n理由: 業務の効率化に直結する具体的なテクニックが説明されており、多くのユーザーにとって有用な内容であるため。\n"
+}
