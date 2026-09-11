@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T07:11:40",
+  "generated_at": "2026-09-11T12:52:03",
   "total_count": 76,
   "count": 50,
   "limit": 50,
@@ -186,11 +186,11 @@
     },
     {
       "rank": 21,
-      "id": "dc6e44c36b0b437d",
+      "id": "90a47a0a49002656",
       "type": "youtube-summary",
       "title": "未来で流行るAI社員とは？YouTubeで誰でも話してない本当の形を教えます",
       "date": "2026-08-25",
-      "playlist": "要約",
+      "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=iahxsJLPlaA"
     },
     {
@@ -204,21 +204,21 @@
     },
     {
       "rank": 23,
-      "id": "1683810b19675d65",
-      "type": "youtube-summary",
-      "title": "⑤【西武ライオンズ大躍進】注入されたホークス魂！これは間違いなく鳥越ヘッドコーチの功績【藤本博史】【池田親興】【高橋慶彦】【広島東洋カープ】【プロ野球OB】",
-      "date": "2026-08-23",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=TD9aIJoBtm4"
-    },
-    {
-      "rank": 24,
       "id": "7448b99e6a63409d",
       "type": "youtube-summary",
       "title": "【最新版】世界1わかりやすいSkills超入門解説！Claude Codeが生まれ変わる！？",
       "date": "2026-08-23",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=ORUOLCQvpUk"
+    },
+    {
+      "rank": 24,
+      "id": "1683810b19675d65",
+      "type": "youtube-summary",
+      "title": "⑤【西武ライオンズ大躍進】注入されたホークス魂！これは間違いなく鳥越ヘッドコーチの功績【藤本博史】【池田親興】【高橋慶彦】【広島東洋カープ】【プロ野球OB】",
+      "date": "2026-08-23",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=TD9aIJoBtm4"
     },
     {
       "rank": 25,
