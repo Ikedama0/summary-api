@@ -1,20 +1,11 @@
 {
-  "generated_at": "2026-09-13T15:54:58",
+  "generated_at": "2026-09-13T22:11:45",
   "total_count": 86,
   "count": 50,
   "limit": 50,
   "items": [
     {
       "rank": 1,
-      "id": "11348b971f68e849",
-      "type": "youtube-summary",
-      "title": "【独自考察】３連覇へ首位独走のソフトバンク!! データ野球だけじゃない本当の強さとは!?  解体慎書についに稀代のスラッガーが登場!!",
-      "date": "2026-09-11",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=XrFqJjEeTYw"
-    },
-    {
-      "rank": 2,
       "id": "fdb3f8bb8f6b9881",
       "type": "youtube-summary",
       "title": "自作AIツールの新規販売を止めた理由。ChatGPTとCodexの進化が速すぎた",
@@ -23,7 +14,7 @@
       "url": "https://www.youtube.com/watch?v=ysnwkoiRFp0"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "id": "7c995e8eb3af00e3",
       "type": "youtube-summary",
       "title": "【2026秋】AI利用で困らないPC選びを実体験・失敗談をもとに教えるで！",
@@ -32,13 +23,22 @@
       "url": "https://www.youtube.com/watch?v=lrEmdYGkDCY"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "e5fc8f3634baa97c",
       "type": "youtube-summary",
       "title": "副業拡大・独立を目指してるあなたに教える：Google離職から5ヶ月で学んだこと",
       "date": "2026-09-11",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=fl9Z7jHYpSM"
+    },
+    {
+      "rank": 4,
+      "id": "11348b971f68e849",
+      "type": "youtube-summary",
+      "title": "【独自考察】３連覇へ首位独走のソフトバンク!! データ野球だけじゃない本当の強さとは!?  解体慎書についに稀代のスラッガーが登場!!",
+      "date": "2026-09-11",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=XrFqJjEeTYw"
     },
     {
       "rank": 5,
@@ -69,21 +69,21 @@
     },
     {
       "rank": 8,
-      "id": "e045bbcee92eb52f",
-      "type": "youtube-summary",
-      "title": "🔥井上尚弥、引退に関して意外な発言【2026/9/10ボクシングニュース】",
-      "date": "2026-09-09",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=ONj2AKU_IXo"
-    },
-    {
-      "rank": 9,
       "id": "25edac3995232fc0",
       "type": "youtube-summary",
       "title": "生成AIサミットVol.8 Day2 〜業務効率化の「その先」へ：生成AIで切り開くビジネスの未来〜",
       "date": "2026-09-09",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=cgSomjnl3zY"
+    },
+    {
+      "rank": 9,
+      "id": "e045bbcee92eb52f",
+      "type": "youtube-summary",
+      "title": "🔥井上尚弥、引退に関して意外な発言【2026/9/10ボクシングニュース】",
+      "date": "2026-09-09",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=ONj2AKU_IXo"
     },
     {
       "rank": 10,
@@ -186,21 +186,21 @@
     },
     {
       "rank": 21,
-      "id": "13ac251123e6d8cd",
-      "type": "youtube-summary",
-      "title": "【海外で３億回再生】たった１日で人生が変わるワークとは【行動科学】",
-      "date": "2026-09-03",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=45UR5uTukOU"
-    },
-    {
-      "rank": 22,
       "id": "b7b2d4ed7f85059c",
       "type": "youtube-summary",
       "title": "【神回】大企業に導いたClaudeCodeの天才的な活用術がヤバすぎたw",
       "date": "2026-09-03",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=g6YdCFZJtN0"
+    },
+    {
+      "rank": 22,
+      "id": "13ac251123e6d8cd",
+      "type": "youtube-summary",
+      "title": "【海外で３億回再生】たった１日で人生が変わるワークとは【行動科学】",
+      "date": "2026-09-03",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=45UR5uTukOU"
     },
     {
       "rank": 23,
