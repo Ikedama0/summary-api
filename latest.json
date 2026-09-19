@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-09-19T07:11:15",
-  "total_count": 151,
+  "generated_at": "2026-09-19T22:12:24",
+  "total_count": 152,
   "count": 50,
   "limit": 50,
   "items": [
     {
       "rank": 1,
+      "id": "8ff7c321dc3d3f13",
+      "type": "youtube-summary",
+      "title": "【連休明けに備えよ】GPT6-Astraを使ってだるい仕事をAI分身にやらせてみた！",
+      "date": "2026-09-18",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=2m2_3FaHXrw"
+    },
+    {
+      "rank": 2,
       "id": "f65fa2ced504e493",
       "type": "youtube-summary",
       "title": "【LLMの次】元OpenAI研究者の『Jev』がガチで便利だったので解説します！ハーネスの作りも変わりそうです",
@@ -14,7 +23,7 @@
       "url": "https://www.youtube.com/watch?v=NttqTDRbGUc"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "bc04298a0032774c",
       "type": "youtube-summary",
       "title": "【速報】業界に激震・まさかの奇跡的補助金ルール開始・衝撃の事前着手制度OK・デジタル化・AI導入補助金・スマートレジ類型・POSレジ類型・新情報【中小企業診断士・行政書士 マキノヤ先生】",
@@ -23,7 +32,7 @@
       "url": "https://www.youtube.com/watch?v=JSLkEIQ33V0"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "7e028fafea3c89af",
       "type": "youtube-summary",
       "title": "【プロンプトの限界】AIの嘘・二度手間をゼロにする「グラフエンジニアリング」入門",
@@ -32,7 +41,7 @@
       "url": "https://www.youtube.com/watch?v=lXrv5L0XK-o"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "188ae3f2ec82bd8c",
       "type": "youtube-summary",
       "title": "【Copilot】仕事の常識が変わる！有償版ですぐに使えるAIエージェント3選（リサーチツール・ファシリテーター・SharePointエージェント）",
@@ -41,7 +50,7 @@
       "url": "https://www.youtube.com/watch?v=MstmEvnVcsM"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "6556fd334f29c688",
       "type": "youtube-summary",
       "title": "【天才アプリ】パソコン無しで簡単に使えるGrok Botが便利すぎてキモい(褒めてる)",
@@ -50,7 +59,7 @@
       "url": "https://www.youtube.com/watch?v=LPHj86pkxco"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "af9c9e7582b01160",
       "type": "youtube-summary",
       "title": "AIをより便利にする、絶対に使うべきMCPツール20選！",
@@ -59,7 +68,7 @@
       "url": "https://www.youtube.com/watch?v=oyggup_ZNv4"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "da5c2d16c2dbe407",
       "type": "youtube-summary",
       "title": "【徹底比較】Copilot vs Claude vs ChatGPT｜プロジェクト機能はこれが正解です",
@@ -68,7 +77,7 @@
       "url": "https://www.youtube.com/watch?v=9ayg2mc_CJk"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "1d3258b640b417f4",
       "type": "youtube-summary",
       "title": "ChatGPTが毎朝ポッドキャストになる！読み上げ機能が想像以上に便利",
@@ -77,7 +86,7 @@
       "url": "https://www.youtube.com/watch?v=LZ_p3UhDvOI"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "0f47110475b8c7e0",
       "type": "youtube-summary",
       "title": "【活用事例あり】Copilotを0から理解しよう！Office365（Excel・Word・PowerPoint）との連携もこれ1本で！",
@@ -86,7 +95,7 @@
       "url": "https://www.youtube.com/watch?v=1xaAP8jCeUo"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "id": "4b3badb3eaa59692",
       "type": "youtube-summary",
       "title": "AI時代の個人開発、これから何を作る？ 僕なりの答えが見えてきた",
@@ -95,7 +104,7 @@
       "url": "https://www.youtube.com/watch?v=ctjDizorvQk"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "id": "1680e543aa1d6dad",
       "type": "youtube-summary",
       "title": "【2026年9月】Copilot最新アップデート3選スキル・Rules・修正履歴とCopilot関数",
@@ -104,7 +113,7 @@
       "url": "https://www.youtube.com/watch?v=1x_0JwdTOY0"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": "fdb3f8bb8f6b9881",
       "type": "youtube-summary",
       "title": "自作AIツールの新規販売を止めた理由。ChatGPTとCodexの進化が速すぎた",
@@ -113,7 +122,7 @@
       "url": "https://www.youtube.com/watch?v=ysnwkoiRFp0"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "7c995e8eb3af00e3",
       "type": "youtube-summary",
       "title": "【2026秋】AI利用で困らないPC選びを実体験・失敗談をもとに教えるで！",
@@ -122,7 +131,7 @@
       "url": "https://www.youtube.com/watch?v=lrEmdYGkDCY"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "e5fc8f3634baa97c",
       "type": "youtube-summary",
       "title": "副業拡大・独立を目指してるあなたに教える：Google離職から5ヶ月で学んだこと",
@@ -131,7 +140,7 @@
       "url": "https://www.youtube.com/watch?v=fl9Z7jHYpSM"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "11348b971f68e849",
       "type": "youtube-summary",
       "title": "【独自考察】３連覇へ首位独走のソフトバンク!! データ野球だけじゃない本当の強さとは!?  解体慎書についに稀代のスラッガーが登場!!",
@@ -140,7 +149,7 @@
       "url": "https://www.youtube.com/watch?v=XrFqJjEeTYw"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "d8a90386cc9b53ec",
       "type": "youtube-summary",
       "title": "【キングオブコント2026決勝進出】ダウ90000900000000#239",
@@ -149,7 +158,7 @@
       "url": "https://www.youtube.com/watch?v=pQjX0UDM3NA"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "3497f053494b9e76",
       "type": "youtube-summary",
       "title": "とある天才たちが書いた論文にAIの未来が待ち遠しくなりました",
@@ -158,7 +167,7 @@
       "url": "https://www.youtube.com/watch?v=nXMBuDX7o0M"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "98e8e52f7b48d597",
       "type": "youtube-summary",
       "title": "【効率化】Copilotを自動化する「スケジュールプロンプト」5選｜仕事を自動で任せる方法",
@@ -167,7 +176,7 @@
       "url": "https://www.youtube.com/watch?v=hdcLiBqaZZM"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": "83a7f49835ffe86c",
       "type": "youtube-summary",
       "title": "【パリーグ上位争い】ソフトバンク本当の強さは&quot;裏の部分&quot;⁉︎西武栗山選手の引退についても語ります‼︎",
@@ -176,7 +185,7 @@
       "url": "https://www.youtube.com/watch?v=z5o3tCI81_Q"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "de9cbf1eaf4b50cd",
       "type": "youtube-summary",
       "title": "【99％が知らない】Copilotだけで仕事を自動化する天才が毎日やってる7つの習慣【 Copilot  / Excel / パワポ / Word 】【Copilot基本・使い方】",
@@ -185,7 +194,7 @@
       "url": "https://www.youtube.com/watch?v=eAwpfIC73HI"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": "25edac3995232fc0",
       "type": "youtube-summary",
       "title": "生成AIサミットVol.8 Day2 〜業務効率化の「その先」へ：生成AIで切り開くビジネスの未来〜",
@@ -194,7 +203,7 @@
       "url": "https://www.youtube.com/watch?v=cgSomjnl3zY"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": "e045bbcee92eb52f",
       "type": "youtube-summary",
       "title": "🔥井上尚弥、引退に関して意外な発言【2026/9/10ボクシングニュース】",
@@ -203,7 +212,7 @@
       "url": "https://www.youtube.com/watch?v=ONj2AKU_IXo"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "080577fd4dbe7b45",
       "type": "youtube-summary",
       "title": "ExcelのCopilotには3つのモードがある｜Chatのみ・計画・編集を許可【Copilot実践講座 第3回／AI×BPOラジオ #120】",
@@ -212,7 +221,7 @@
       "url": "https://www.youtube.com/watch?v=YYtjijF0BFA"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "id": "7f37fb1c237222ae",
       "type": "youtube-summary",
       "title": "生成AIサミットVol.8 Day1 〜業務効率化の「その先」へ：生成AIで切り開くビジネスの未来〜",
@@ -221,7 +230,7 @@
       "url": "https://www.youtube.com/watch?v=Ma8EDYhD27c"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "id": "ed75ab791e48d2cb",
       "type": "youtube-summary",
       "title": "【速報】GPT-6 Astra最強すぎて仕事無くなるわコレ。賢いのはFable5.1とどちら？",
@@ -230,7 +239,7 @@
       "url": "https://www.youtube.com/watch?v=J6rfwNmxKfs"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "546705601a61d404",
       "type": "youtube-summary",
       "title": "「連勝してたよね…」栗原陵矢選手と8月を振り返る！常勝軍団ならではのエピソードとは？意識し合うタイトル争いに新たな展開も…",
@@ -239,7 +248,7 @@
       "url": "https://www.youtube.com/watch?v=u-vCXPpEvL4"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": "4b3836dd48fdfcb9",
       "type": "youtube-summary",
       "title": "🔥井上尚弥ついにエスピノサについて言及🥊【2026/9/8ボクシングニュース】",
@@ -248,7 +257,7 @@
       "url": "https://www.youtube.com/watch?v=0LFJxFwVGgk"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "597f3f56268656d0",
       "type": "ai-news",
       "title": "九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO",
@@ -257,7 +266,7 @@
       "url": "https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": "862075bcf3ce75b1",
       "type": "ai-news",
       "title": "Copilotに毎回同じ長いプロンプトを書くのは面倒！ ファイルごとのルールを覚えさせる技【残業を減らす！Officeテクニック】",
@@ -266,7 +275,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/serial/offitech/2136697.html"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "id": "7d5a4c4cc3a13cb0",
       "type": "ai-news",
       "title": "I use Excel every day and these are the shortcuts I can’t live without",
@@ -275,7 +284,7 @@
       "url": "https://www.makeuseof.com/mastered-excel-shortcuts-cant-live-without/"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "1ad3cdb562dc9543",
       "type": "youtube-summary",
       "title": "【閲覧注意】この世界は自作自演!?これが腑に落ちると現実の方から勝手に変わる【潜在意識の仕組み超解説】",
@@ -284,7 +293,7 @@
       "url": "https://www.youtube.com/watch?v=FZZgFMbcUSA"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "id": "1906aaed3fe97e72",
       "type": "youtube-summary",
       "title": "【プロ直伝】AI初心者がCopilotで仕事を自動化できるようになる全手順【 Copilot  / Excel / パワポ / Word 】【Copilot基本・使い方】",
@@ -293,7 +302,7 @@
       "url": "https://www.youtube.com/watch?v=auesNbF1Qu4"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "id": "d06310dfdc143f4e",
       "type": "youtube-summary",
       "title": "【神AIツール】ChatGPT最新モデル『GPT-6 Astra』の性能が高過ぎる。Fable5.1超え？ポケモン風3Dゲーム、Blender、LP、提案資料まで。業務で使える事例をデモ付きで爆速紹介",
@@ -302,7 +311,7 @@
       "url": "https://www.youtube.com/watch?v=3o84TYn4jYc"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "id": "5a070b80f4fb83d4",
       "type": "youtube-summary",
       "title": "【ガチ講座】AIに投資戦略を考えさせた結果、負けないでクソ勝てる戦略を発見した",
@@ -311,7 +320,7 @@
       "url": "https://www.youtube.com/watch?v=mLDYnTmU3XM"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "id": "34e6fb9b3ca82132",
       "type": "youtube-summary",
       "title": "OpenAIの最新AIモデル「GPT-6 Astra(アストラ)」徹底解説！ ～ほぼ全てのベンチマークでClaude Fable 5.1超え、史上最も賢く安全～",
@@ -320,7 +329,7 @@
       "url": "https://www.youtube.com/watch?v=jtavLwXCZeQ"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "id": "b7b2d4ed7f85059c",
       "type": "youtube-summary",
       "title": "【神回】大企業に導いたClaudeCodeの天才的な活用術がヤバすぎたw",
@@ -329,7 +338,7 @@
       "url": "https://www.youtube.com/watch?v=g6YdCFZJtN0"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "id": "13ac251123e6d8cd",
       "type": "youtube-summary",
       "title": "【海外で３億回再生】たった１日で人生が変わるワークとは【行動科学】",
@@ -338,7 +347,7 @@
       "url": "https://www.youtube.com/watch?v=45UR5uTukOU"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "id": "9725f56b85d12939",
       "type": "ai-news",
       "title": "7 GITHUB REPOS THAT SHOULD BE ILLEGAL TO HAVE 🤯",
@@ -347,7 +356,7 @@
       "url": "https://x.com/RodmanAi/status/2094819727030079933"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "id": "a750f878ac7e25fd",
       "type": "youtube-summary",
       "title": "AIで何でも作れるようになったら、何を作ればいいか分からなくなった",
@@ -356,7 +365,7 @@
       "url": "https://www.youtube.com/watch?v=j9bREln5QGc"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "id": "041ba989b6090424",
       "type": "youtube-summary",
       "title": "Fable5.1公開！公開直後の今こそAIにやらせたい、今後の弱体化に備えるコツを教えるで！",
@@ -365,7 +374,7 @@
       "url": "https://www.youtube.com/watch?v=q6_Wy9M3VlU"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "id": "32bc766377d61ba7",
       "type": "youtube-summary",
       "title": "【Microsoft 365 Copilot】ExcelもPPTもOutlookも、一気に変わった",
@@ -374,7 +383,7 @@
       "url": "https://www.youtube.com/watch?v=VKiwMmxplCk"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "id": "1bd5cb6e293ffe82",
       "type": "youtube-summary",
       "title": "24時間全てを記録するAI。&quot;Mori Journaling AI&quot; を徹底的に解説します。",
@@ -383,7 +392,7 @@
       "url": "https://www.youtube.com/watch?v=oj9q3iCgDlA"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "id": "647074d5ed1689ec",
       "type": "youtube-summary",
       "title": "SoftBank World 2026 孫正義 特別講演",
@@ -392,7 +401,7 @@
       "url": "https://www.youtube.com/watch?v=dTO-tYqZOZg"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "id": "440aab8148f696ed",
       "type": "youtube-summary",
       "title": "【実は簡単】中小企業が社内の手作業を業務アプリへ変える手順",
@@ -401,7 +410,7 @@
       "url": "https://www.youtube.com/watch?v=UfjWiV_shtw"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "id": "db1fb2860a44ea43",
       "type": "youtube-summary",
       "title": "【特別に公開】大企業がCopilotで仕事を自動化してる秘密の裏技５選【 Copilot  / Excel / パワポ / Word 】【Copilot基本・使い方】",
@@ -410,7 +419,7 @@
       "url": "https://www.youtube.com/watch?v=kIhLD3jkplU"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "id": "da59d463537d1651",
       "type": "youtube-summary",
       "title": "AIでスライド自動作成(笑)ではなく、「ガチで」仕事にAIを使うプロは何してるのか？",
@@ -419,7 +428,7 @@
       "url": "https://www.youtube.com/watch?v=ARsaFW3HAYA"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "id": "be9552f27be6e0a4",
       "type": "youtube-summary",
       "title": "【#AIニュース】OpenAIのアルトマン氏「2026年末までにAGI」と発言！MetaのAI置き換え極秘計画が頓挫 | 2026.08.28 | No.173",
@@ -428,7 +437,7 @@
       "url": "https://www.youtube.com/watch?v=Ld9xxNJjYmU"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "id": "9832738e3084b8bc",
       "type": "youtube-summary",
       "title": "【必見】今すぐ&quot;作る&quot;べきエージェントスキル１０選【Claude Code &amp; Codex】",
@@ -437,22 +446,13 @@
       "url": "https://www.youtube.com/watch?v=D3Ftx4KjLyw"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "id": "dc6e44c36b0b437d",
       "type": "youtube-summary",
       "title": "未来で流行るAI社員とは？YouTubeで誰でも話してない本当の形を教えます",
       "date": "2026-08-25",
       "playlist": "要約",
       "url": "https://www.youtube.com/watch?v=iahxsJLPlaA"
-    },
-    {
-      "rank": 50,
-      "id": "acc8d1b20ea17d0a",
-      "type": "youtube-summary",
-      "title": "【機器150万円助成】AI活用最大1億150万円以上・個人事業主も対象・従業員1名からの助成金・人材開発支援助成金・事業展開等リスキリング支援コース・8月制度変更あり注意点解説【マキノヤ先生】",
-      "date": "2026-08-25",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=6z1YsRil0Iw"
     }
   ]
 }
