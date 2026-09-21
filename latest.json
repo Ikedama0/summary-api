@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T22:13:44",
+  "generated_at": "2026-09-22T07:11:16",
   "total_count": 156,
   "count": 50,
   "limit": 50,
@@ -231,21 +231,21 @@
     },
     {
       "rank": 26,
-      "id": "25edac3995232fc0",
-      "type": "youtube-summary",
-      "title": "生成AIサミットVol.8 Day2 〜業務効率化の「その先」へ：生成AIで切り開くビジネスの未来〜",
-      "date": "2026-09-09",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=cgSomjnl3zY"
-    },
-    {
-      "rank": 27,
       "id": "e045bbcee92eb52f",
       "type": "youtube-summary",
       "title": "🔥井上尚弥、引退に関して意外な発言【2026/9/10ボクシングニュース】",
       "date": "2026-09-09",
       "playlist": "要約",
       "url": "https://www.youtube.com/watch?v=ONj2AKU_IXo"
+    },
+    {
+      "rank": 27,
+      "id": "25edac3995232fc0",
+      "type": "youtube-summary",
+      "title": "生成AIサミットVol.8 Day2 〜業務効率化の「その先」へ：生成AIで切り開くビジネスの未来〜",
+      "date": "2026-09-09",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=cgSomjnl3zY"
     },
     {
       "rank": 28,
@@ -366,21 +366,21 @@
     },
     {
       "rank": 41,
-      "id": "b7b2d4ed7f85059c",
-      "type": "youtube-summary",
-      "title": "【神回】大企業に導いたClaudeCodeの天才的な活用術がヤバすぎたw",
-      "date": "2026-09-03",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=g6YdCFZJtN0"
-    },
-    {
-      "rank": 42,
       "id": "13ac251123e6d8cd",
       "type": "youtube-summary",
       "title": "【海外で３億回再生】たった１日で人生が変わるワークとは【行動科学】",
       "date": "2026-09-03",
       "playlist": "要約",
       "url": "https://www.youtube.com/watch?v=45UR5uTukOU"
+    },
+    {
+      "rank": 42,
+      "id": "b7b2d4ed7f85059c",
+      "type": "youtube-summary",
+      "title": "【神回】大企業に導いたClaudeCodeの天才的な活用術がヤバすぎたw",
+      "date": "2026-09-03",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=g6YdCFZJtN0"
     },
     {
       "rank": 43,
