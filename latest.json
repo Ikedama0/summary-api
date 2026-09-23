@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:12:07",
+  "generated_at": "2026-09-24T07:11:25",
   "total_count": 161,
   "count": 50,
   "limit": 50,
@@ -411,21 +411,21 @@
     },
     {
       "rank": 46,
-      "id": "b7b2d4ed7f85059c",
-      "type": "youtube-summary",
-      "title": "【神回】大企業に導いたClaudeCodeの天才的な活用術がヤバすぎたw",
-      "date": "2026-09-03",
-      "playlist": "AI",
-      "url": "https://www.youtube.com/watch?v=g6YdCFZJtN0"
-    },
-    {
-      "rank": 47,
       "id": "13ac251123e6d8cd",
       "type": "youtube-summary",
       "title": "【海外で３億回再生】たった１日で人生が変わるワークとは【行動科学】",
       "date": "2026-09-03",
       "playlist": "要約",
       "url": "https://www.youtube.com/watch?v=45UR5uTukOU"
+    },
+    {
+      "rank": 47,
+      "id": "b7b2d4ed7f85059c",
+      "type": "youtube-summary",
+      "title": "【神回】大企業に導いたClaudeCodeの天才的な活用術がヤバすぎたw",
+      "date": "2026-09-03",
+      "playlist": "AI",
+      "url": "https://www.youtube.com/watch?v=g6YdCFZJtN0"
     },
     {
       "rank": 48,
