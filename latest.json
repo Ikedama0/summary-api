@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:11:52",
+  "generated_at": "2026-09-25T07:11:15",
   "total_count": 161,
   "count": 50,
   "limit": 50,
@@ -195,6 +195,15 @@
     },
     {
       "rank": 22,
+      "id": "11348b971f68e849",
+      "type": "youtube-summary",
+      "title": "【独自考察】３連覇へ首位独走のソフトバンク!! データ野球だけじゃない本当の強さとは!?  解体慎書についに稀代のスラッガーが登場!!",
+      "date": "2026-09-11",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=XrFqJjEeTYw"
+    },
+    {
+      "rank": 23,
       "id": "fdb3f8bb8f6b9881",
       "type": "youtube-summary",
       "title": "自作AIツールの新規販売を止めた理由。ChatGPTとCodexの進化が速すぎた",
@@ -203,7 +212,7 @@
       "url": "https://www.youtube.com/watch?v=ysnwkoiRFp0"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "7c995e8eb3af00e3",
       "type": "youtube-summary",
       "title": "【2026秋】AI利用で困らないPC選びを実体験・失敗談をもとに教えるで！",
@@ -212,22 +221,13 @@
       "url": "https://www.youtube.com/watch?v=lrEmdYGkDCY"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "id": "e5fc8f3634baa97c",
       "type": "youtube-summary",
       "title": "副業拡大・独立を目指してるあなたに教える：Google離職から5ヶ月で学んだこと",
       "date": "2026-09-11",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=fl9Z7jHYpSM"
-    },
-    {
-      "rank": 25,
-      "id": "11348b971f68e849",
-      "type": "youtube-summary",
-      "title": "【独自考察】３連覇へ首位独走のソフトバンク!! データ野球だけじゃない本当の強さとは!?  解体慎書についに稀代のスラッガーが登場!!",
-      "date": "2026-09-11",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=XrFqJjEeTYw"
     },
     {
       "rank": 26,
@@ -267,6 +267,15 @@
     },
     {
       "rank": 30,
+      "id": "e045bbcee92eb52f",
+      "type": "youtube-summary",
+      "title": "🔥井上尚弥、引退に関して意外な発言【2026/9/10ボクシングニュース】",
+      "date": "2026-09-09",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=ONj2AKU_IXo"
+    },
+    {
+      "rank": 31,
       "id": "de9cbf1eaf4b50cd",
       "type": "youtube-summary",
       "title": "【99％が知らない】Copilotだけで仕事を自動化する天才が毎日やってる7つの習慣【 Copilot  / Excel / パワポ / Word 】【Copilot基本・使い方】",
@@ -275,22 +284,13 @@
       "url": "https://www.youtube.com/watch?v=eAwpfIC73HI"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "id": "25edac3995232fc0",
       "type": "youtube-summary",
       "title": "生成AIサミットVol.8 Day2 〜業務効率化の「その先」へ：生成AIで切り開くビジネスの未来〜",
       "date": "2026-09-09",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=cgSomjnl3zY"
-    },
-    {
-      "rank": 32,
-      "id": "e045bbcee92eb52f",
-      "type": "youtube-summary",
-      "title": "🔥井上尚弥、引退に関して意外な発言【2026/9/10ボクシングニュース】",
-      "date": "2026-09-09",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=ONj2AKU_IXo"
     },
     {
       "rank": 33,
