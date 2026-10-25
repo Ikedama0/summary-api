@@ -127,7 +127,7 @@
 <body>
   <header>
     <h1>要約リーダー</h1>
-    <div class="version">v2026-10-25 15:59 speech controls / copy</div>
+    <div class="version">v2026-10-25 16:02 speech controls / copy</div>
   </header>
   <main>
     <section id="list" aria-label="最新要約一覧">読み込み中...</section>
@@ -290,8 +290,11 @@
       return "speechSynthesis" in window && "SpeechSynthesisUtterance" in window;
     }
 
-    function cleanSpeechText(title, content) {
-      return `${title}。\n\n${content || ""}`
+    function cleanSpeechText(content) {
+      return `${content || ""}`
+        // Video metadata stays visible on the page, but is not part of speech.
+        .replace(/^\s*#{1,6}\s*動画情報\s*\n[\s\S]*?(?=^\s*#{1,6}\s+)/gim, "")
+        .replace(/^\s*動画情報\s*\n[\s\S]*?(?=^\s*(?:重要な主張|重要なポイント|主な主張|要点|結論|まとめ|#{1,6}\s))/gim, "")
         .replace(/^---[\s\S]*?---\s*/m, "")
         .replace(/https?:\/\/\S+/g, "")
         .replace(/\[([^\]]+)\]\([^\)]+\)/g, "$1")
@@ -388,7 +391,7 @@
       if (!response.ok) throw new Error(`detail fetch failed: ${response.status}`);
       const data = await response.json();
       currentDetail = data;
-      currentText = cleanSpeechText(data.title, data.content);
+      currentText = cleanSpeechText(data.content);
       speechChunks = splitSpeechText(currentText);
       speechIndex = 0;
       detailEl.innerHTML = `
