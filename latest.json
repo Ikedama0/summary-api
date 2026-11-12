@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:10:10",
+  "generated_at": "2026-11-12T17:59:05",
   "total_count": 262,
   "count": 50,
   "limit": 50,
@@ -69,21 +69,21 @@
     },
     {
       "rank": 8,
-      "id": "3538526d712620b8",
-      "type": "youtube-summary",
-      "title": "ADHDが劇的に楽になったAIエージェント活用術TOP5",
-      "date": "2026-10-22",
-      "playlist": "要約",
-      "url": "https://www.youtube.com/watch?v=8qtGsfZgPn4"
-    },
-    {
-      "rank": 9,
       "id": "fbcfb1715ab31962",
       "type": "youtube-summary",
       "title": "【超速報】PHPの脆弱性 何が起こった？どう対応する？ネット歴史上ガチの大惨事が起こっている",
       "date": "2026-10-22",
       "playlist": "AI",
       "url": "https://www.youtube.com/watch?v=UExqBIy4KOY"
+    },
+    {
+      "rank": 9,
+      "id": "3538526d712620b8",
+      "type": "youtube-summary",
+      "title": "ADHDが劇的に楽になったAIエージェント活用術TOP5",
+      "date": "2026-10-22",
+      "playlist": "要約",
+      "url": "https://www.youtube.com/watch?v=8qtGsfZgPn4"
     },
     {
       "rank": 10,
